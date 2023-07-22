@@ -1,0 +1,45 @@
+.app-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.responses-container {
+    width: 90%;
+    margin-bottom: 20px;
+    height: 550px;
+    max-height: 550px;  /* Adjust this to your preferred height */
+    overflow-y: auto;  /* This will show the scrollbar when the content exceeds the max-height */
+}
+
+/* This targets the scrollbar thumb */
+.responses-container::-webkit-scrollbar-thumb {
+    background-color: rgba(155, 155, 155, 0.7); /* Dark grey with some transparency */
+    border-radius: 4px;
+    background-clip: padding-box;  /* Prevents scrollbar style from looking broken on macOS browsers */
+}
+
+/* This targets the track of the scrollbar */
+.responses-container::-webkit-scrollbar-track {
+    background-color: rgba(240, 240, 240, 0.8); /* Light grey with some transparency */
+    border-radius: 4px;
+}
+
+/* This targets the overall scrollbar */
+.responses-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+.response-icon {
+    margin-right: 10px;
+}
+
+.response-item {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    /* position: relative; */
+    /* align-items: */
+}
+

@@ -11,7 +11,6 @@ pinecone.init(api_key=pinecone_key,
              environment='us-west4-gcp-free')
 index = pinecone.Index('hacktest')
 
-
 MODEL = 'text-embedding-ada-002'
 def query_vb(query):
     # create the query embedding

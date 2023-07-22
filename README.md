@@ -3,16 +3,21 @@
 ### App Structure
 ```
 .
-├── app
-│   ├── api             // Middleware
-│   ├── backend         // Python backend (Where we run models) 
-│   ├── client          // React Frontend (Where we hanle modle I/O)
-│   ├── manage.py       // Script to run server
-│   ├── media           // Images 
-│   └── static          // Static Files like .html and .css
-├── env                 // Virtual Environment
-├── README.md           // This file
-└── requirements.txt    // Python dependencies
+├── app.py
+├── client
+│   ├── build
+│   ├── node_modules
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── public
+│   ├── README.md
+│   └── src
+├── llm
+│   └── README.md
+├── README.md
+└── requirements.txt
+
+11 directories, 8 files
 ```
 
 ### Installation
@@ -28,6 +33,7 @@ Make a virtual environment
 
 Install dependencies
 `pip install -r requirements.txt`
+`python3 app.py`
 
 Install the frontend
 `npm install`

@@ -1,0 +1,1450 @@
+[
+        {
+            "text": "23006 Evangeline San Antonio TX 78258",
+            "suggestType": "fullAddress",
+            "fieldValues": {
+                "ln": "1662265",
+                "fullAddress": "23006 Evangeline San Antonio TX 78258",
+                "id": "179-1662265",
+                "blueroofMlsId": 161
+            },
+            "listing": {
+                "mongoId": "63cb11f636872957e5260d1a",
+                "blossorId": "179-1662265",
+                "blueroofMlsId": 161,
+                "mlsNum": "1662265",
+                "standardStatus": "Active",
+                "mlsStatus": "Price Change",
+                "history": [
+                    {
+                        "price": 706496,
+                        "priceSet": "2023-01-20T22:11:48.000Z",
+                        "status": null,
+                        "statusSet": null,
+                        "date": "2023-03-03T00:23:17.000Z"
+                    },
+                    {
+                        "price": 706946,
+                        "priceSet": "2023-03-03T00:23:17.000Z",
+                        "status": null,
+                        "statusSet": null,
+                        "date": "2023-04-28T17:23:30.000Z"
+                    },
+                    {
+                        "price": 699946,
+                        "priceSet": "2023-04-28T17:23:30.000Z",
+                        "status": null,
+                        "statusSet": null,
+                        "date": "2023-05-23T22:15:42.000Z"
+                    },
+                    {
+                        "price": 689946,
+                        "priceSet": "2023-05-23T22:15:42.000Z",
+                        "status": null,
+                        "statusSet": null,
+                        "date": "2023-06-08T20:24:16.000Z"
+                    },
+                    {
+                        "price": 686946,
+                        "priceSet": "2023-06-08T20:24:16.000Z",
+                        "status": null,
+                        "statusSet": null,
+                        "date": "2023-07-19T18:09:40.000Z"
+                    }
+                ],
+                "lotSize": 0.15,
+                "streetAddress": "23006 Evangeline",
+                "city": "San Antonio",
+                "state": "TX",
+                "postalCode": "78258",
+                "county": "Bexar",
+                "area": "1801",
+                "neighborhood": "Coronado",
+                "agents": [
+                    {
+                        "id": "709920",
+                        "name": "Batey McGraw",
+                        "email": "DFH.MLS@dreamfindershomes.com",
+                        "phone": null,
+                        "agentType": "Listing Agent"
+                    }
+                ],
+                "listAgentId": "709920",
+                "listAgentName": "Batey McGraw",
+                "listAgentEmail": "DFH.MLS@dreamfindershomes.com",
+                "listAgentType": "Listing Agent",
+                "listOfficeId": "DFHR00",
+                "listOfficeName": "DFH Realty Texas, LLC",
+                "listOfficeEmail": "steeter@coventryhomes.com",
+                "listOfficePhone": "(210) 464-2750",
+                "hasHoa": true,
+                "hoaFee": 115,
+                "hoaFeeYn": true,
+                "hoaFrequency": "Quarterly",
+                "hoaName": "AVID PROPERTY MANAGEMENT",
+                "squareFeet": 3125,
+                "bedrooms": 4,
+                "bathsTotalDecimal": 3.5,
+                "fullBaths": 3,
+                "halfBaths": 1,
+                "garageSpaces": 2,
+                "hasBasement": false,
+                "hasGarage": true,
+                "hasWaterfront": false,
+                "parkingFeatures": [
+                    "Two Car Garage"
+                ],
+                "interiorFeatures": [
+                    "One Living Area",
+                    "Liv/Din Combo",
+                    "Eat-In Kitchen",
+                    "Two Eating Areas",
+                    "Island Kitchen",
+                    "Walk-In Pantry",
+                    "Study/Library",
+                    "Game Room",
+                    "Utility Room Inside",
+                    "1st Floor Lvl/No Steps",
+                    "High Ceilings",
+                    "Open Floor Plan",
+                    "Pull Down Storage",
+                    "Cable TV Available",
+                    "High Speed Internet",
+                    "Level Drive",
+                    "First Floor Bath",
+                    "Full Bath/Bed on 1st Flr",
+                    "First Floor Bedroom",
+                    "Stall Shower",
+                    "Carpeting",
+                    "Ceramic Tile",
+                    "Wood"
+                ],
+                "exteriorFeatures": [
+                    "Patio Slab",
+                    "Covered Patio",
+                    "Privacy Fence",
+                    "Sprinkler System",
+                    "Double Pane Windows",
+                    "Has Gutters"
+                ],
+                "communityFeatures": [
+                    "Controlled Access"
+                ],
+                "propertyFeatures": [
+                    "Bluff View",
+                    "Water System",
+                    "Sewer System",
+                    "SAWS",
+                    "New"
+                ],
+                "greenFeatures": [
+                    "16+ SEER AC",
+                    "Programmable Thermostat",
+                    "12\"+ Attic Insulation",
+                    "Double Pane Windows",
+                    "Variable Speed HVAC",
+                    "Radiant Barrier",
+                    "Low E Windows",
+                    "High Efficiency Water Heater",
+                    "Cellulose Insulation",
+                    "Ceiling Fans"
+                ],
+                "heating": [
+                    "Central"
+                ],
+                "cooling": [
+                    "Two Central"
+                ],
+                "lotFeatures": [
+                    "Bluff View"
+                ],
+                "financialInformation": [
+                    "Conventional",
+                    "FHA",
+                    "VA",
+                    "TX Vet",
+                    "Cash",
+                    "Has HOA"
+                ],
+                "propertySubTypes": [
+                    "Single Family Detached"
+                ],
+                "foreclosure": false,
+                "shortSale": false,
+                "lat": 29.656117,
+                "lng": -98.462126,
+                "listDate": "2023-01-20T06:00:00.000Z",
+                "updateDate": "2023-07-19T18:09:40.000Z",
+                "lastStatusChangeDate": "2023-01-20T22:11:48.000Z",
+                "priceLastReduced": "2023-07-19T18:09:40.000Z",
+                "stories": 2,
+                "hideAddress": false,
+                "hideListing": false,
+                "photosAvailable": 34,
+                "photoVersion": 1,
+                "price": 679946,
+                "originalPrice": 706496,
+                "mlsPropertyType": "Single Residential",
+                "propertyType": "Residential",
+                "standardPropertyType": "Residential",
+                "remarks": "This home absolutely wows with its stunning curb appeal enhanced by a brick and stone elevation. As you step inside, you will marvel at the open concept design. Sweeping floor to ceiling windows can be found throughout the home. This home boasts 4 bedrooms and three full baths, a game room, 7-foot walk-in pantry and a 13-foot laundry room. This home is a must see. Hurry to schedule a time to come by and look at the layout of the plan.    READY NOW!",
+                "schoolDistrict": "North East I.S.D",
+                "elementarySchool": "Tuscany Heights",
+                "highSchool": "Johnson",
+                "middleSchool": "Lopez",
+                "sewer": "Water System,Sewer System",
+                "water": "SAWS",
+                "year": 2023,
+                "taxAmount": 2.11,
+                "taxYear": 2022,
+                "virtualTourBranded": "yes",
+                "photos": [
+                    {
+                        "order": 1,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/0.jpg?v=1"
+                    },
+                    {
+                        "order": 2,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/1.jpg?v=1"
+                    },
+                    {
+                        "order": 3,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/2.jpg?v=1"
+                    },
+                    {
+                        "order": 4,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/3.jpg?v=1"
+                    },
+                    {
+                        "order": 5,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/4.jpg?v=1"
+                    },
+                    {
+                        "order": 6,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/5.jpg?v=1"
+                    },
+                    {
+                        "order": 7,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/6.jpg?v=1"
+                    },
+                    {
+                        "order": 8,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/7.jpg?v=1"
+                    },
+                    {
+                        "order": 9,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/8.jpg?v=1"
+                    },
+                    {
+                        "order": 10,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/9.jpg?v=1"
+                    },
+                    {
+                        "order": 11,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/10.jpg?v=1"
+                    },
+                    {
+                        "order": 12,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/11.jpg?v=1"
+                    },
+                    {
+                        "order": 13,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/12.jpg?v=1"
+                    },
+                    {
+                        "order": 14,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/13.jpg?v=1"
+                    },
+                    {
+                        "order": 15,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/14.jpg?v=1"
+                    },
+                    {
+                        "order": 16,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/15.jpg?v=1"
+                    },
+                    {
+                        "order": 17,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/16.jpg?v=1"
+                    },
+                    {
+                        "order": 18,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/17.jpg?v=1"
+                    },
+                    {
+                        "order": 19,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/18.jpg?v=1"
+                    },
+                    {
+                        "order": 20,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/19.jpg?v=1"
+                    },
+                    {
+                        "order": 21,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/20.jpg?v=1"
+                    },
+                    {
+                        "order": 22,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/21.jpg?v=1"
+                    },
+                    {
+                        "order": 23,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/22.jpg?v=1"
+                    },
+                    {
+                        "order": 24,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/23.jpg?v=1"
+                    },
+                    {
+                        "order": 25,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/24.jpg?v=1"
+                    },
+                    {
+                        "order": 26,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/25.jpg?v=1"
+                    },
+                    {
+                        "order": 27,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/26.jpg?v=1"
+                    },
+                    {
+                        "order": 28,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/27.jpg?v=1"
+                    },
+                    {
+                        "order": 29,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/28.jpg?v=1"
+                    },
+                    {
+                        "order": 30,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/29.jpg?v=1"
+                    },
+                    {
+                        "order": 31,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/30.jpg?v=1"
+                    },
+                    {
+                        "order": 32,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/31.jpg?v=1"
+                    },
+                    {
+                        "order": 33,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/32.jpg?v=1"
+                    },
+                    {
+                        "order": 34,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/6/2/2/6/5/33.jpg?v=1"
+                    }
+                ],
+                "nextToken": "2023-01-20T06:00:00.000Z",
+                "brUpdateDate": "2023-07-19T18:53:48.008Z"
+            }
+        },
+        {
+            "text": "23019 Hilltop Peaks Elmendorf TX 78112",
+            "suggestType": "fullAddress",
+            "fieldValues": {
+                "ln": "1672495",
+                "fullAddress": "23019 Hilltop Peaks Elmendorf TX 78112",
+                "id": "179-1672495",
+                "blueroofMlsId": 161
+            },
+            "listing": {
+                "mongoId": "640b727a852ca1757d7e249a",
+                "blossorId": "179-1672495",
+                "blueroofMlsId": 161,
+                "mlsNum": "1672495",
+                "standardStatus": "Active",
+                "mlsStatus": "Active",
+                "history": [
+                    {
+                        "price": 340000,
+                        "priceSet": "2023-03-10T18:05:41.000Z",
+                        "status": null,
+                        "statusSet": null,
+                        "date": "2023-04-11T17:40:27.000Z"
+                    },
+                    {
+                        "price": 330000,
+                        "priceSet": "2023-04-11T17:40:27.000Z",
+                        "status": null,
+                        "statusSet": null,
+                        "date": "2023-06-08T18:40:07.000Z"
+                    },
+                    {
+                        "price": 320000,
+                        "priceSet": "2023-06-08T18:40:07.000Z",
+                        "status": null,
+                        "statusSet": null,
+                        "date": "2023-07-11T15:43:28.000Z"
+                    }
+                ],
+                "lotSize": 0.56,
+                "streetAddress": "23019 Hilltop Peaks",
+                "city": "Elmendorf",
+                "state": "TX",
+                "postalCode": "78112",
+                "county": "Bexar",
+                "area": "2003",
+                "neighborhood": "Waterwood",
+                "agents": [
+                    {
+                        "id": "488042",
+                        "name": "Shannan Albrecht",
+                        "email": "shannanalbrecht@kw.com",
+                        "phone": null,
+                        "agentType": "Listing Agent"
+                    }
+                ],
+                "listAgentId": "488042",
+                "listAgentName": "Shannan Albrecht",
+                "listAgentEmail": "shannanalbrecht@kw.com",
+                "listAgentType": "Listing Agent",
+                "listOfficeId": "KLWM00",
+                "listOfficeName": "Keller Williams Heritage",
+                "listOfficeEmail": "lmunoz@mykwsa.com",
+                "listOfficePhone": "(210) 573-2580",
+                "hasHoa": false,
+                "hoaFeeYn": false,
+                "squareFeet": 2800,
+                "bedrooms": 5,
+                "bathsTotalDecimal": 3,
+                "fullBaths": 3,
+                "hasBasement": false,
+                "hasWaterfront": false,
+                "parkingFeatures": [
+                    "None/Not Applicable"
+                ],
+                "interiorFeatures": [
+                    "Two Living Area",
+                    "Liv/Din Combo",
+                    "Separate Dining Room",
+                    "Eat-In Kitchen",
+                    "1st Floor Lvl/No Steps",
+                    "Maid's Quarters",
+                    "Laundry Room",
+                    "Walk in Closets",
+                    "Carpeting",
+                    "Ceramic Tile",
+                    "Laminate"
+                ],
+                "exteriorFeatures": [
+                    "Covered Patio",
+                    "Chain Link Fence",
+                    "Mature Trees",
+                    "Detached Quarters",
+                    "Additional Dwelling"
+                ],
+                "propertyFeatures": [
+                    "Cul-de-Sac/Dead End",
+                    "Water System",
+                    "Septic",
+                    "Pre-Owned"
+                ],
+                "greenFeatures": [
+                    "Programmable Thermostat"
+                ],
+                "heating": [
+                    "Central"
+                ],
+                "cooling": [
+                    "One Central"
+                ],
+                "lotFeatures": [
+                    "Cul-de-Sac/Dead End"
+                ],
+                "financialInformation": [
+                    "Conventional",
+                    "FHA",
+                    "VA",
+                    "Cash",
+                    "No HOA"
+                ],
+                "propertySubTypes": [
+                    "Single Family Detached"
+                ],
+                "foreclosure": false,
+                "shortSale": false,
+                "lat": 29.182541,
+                "lng": -98.408896,
+                "listDate": "2023-03-10T06:00:00.000Z",
+                "updateDate": "2023-07-22T05:05:46.000Z",
+                "lastStatusChangeDate": "2023-03-10T18:05:41.000Z",
+                "priceLastReduced": "2023-07-11T15:43:28.000Z",
+                "stories": 2,
+                "hideAddress": false,
+                "hideListing": false,
+                "photosAvailable": 28,
+                "photoVersion": 0,
+                "price": 310000,
+                "originalPrice": 340000,
+                "mlsPropertyType": "Single Residential",
+                "propertyType": "Residential",
+                "standardPropertyType": "Residential",
+                "remarks": "Country living  minutes from downtown San Antonio. Home is perched on + 1/2 acre culdesac lot. Open floorpan offers spacious living area with brick accented wall w/ built ins for media. Cute as a button kitchen. Secondary bedrooms located downstairs. Great home for entertaining  400 square ft GUESTHOUSE with endless possibilities. Use as a guest quarters or work from home, entertainment space or rent it out for passive income.",
+                "schoolDistrict": "South Side I.S.D",
+                "elementarySchool": "Call District",
+                "highSchool": "Call District",
+                "middleSchool": "Call District",
+                "sewer": "Water System,Septic",
+                "year": 2016,
+                "taxAmount": 6729.65,
+                "taxYear": 2021,
+                "photos": [
+                    {
+                        "order": 1,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/0.jpg?v=0"
+                    },
+                    {
+                        "order": 2,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/1.jpg?v=0"
+                    },
+                    {
+                        "order": 3,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/2.jpg?v=0"
+                    },
+                    {
+                        "order": 4,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/3.jpg?v=0"
+                    },
+                    {
+                        "order": 5,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/4.jpg?v=0"
+                    },
+                    {
+                        "order": 6,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/5.jpg?v=0"
+                    },
+                    {
+                        "order": 7,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/6.jpg?v=0"
+                    },
+                    {
+                        "order": 8,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/7.jpg?v=0"
+                    },
+                    {
+                        "order": 9,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/8.jpg?v=0"
+                    },
+                    {
+                        "order": 10,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/9.jpg?v=0"
+                    },
+                    {
+                        "order": 11,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/10.jpg?v=0"
+                    },
+                    {
+                        "order": 12,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/11.jpg?v=0"
+                    },
+                    {
+                        "order": 13,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/12.jpg?v=0"
+                    },
+                    {
+                        "order": 14,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/13.jpg?v=0"
+                    },
+                    {
+                        "order": 15,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/14.jpg?v=0"
+                    },
+                    {
+                        "order": 16,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/15.jpg?v=0"
+                    },
+                    {
+                        "order": 17,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/16.jpg?v=0"
+                    },
+                    {
+                        "order": 18,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/17.jpg?v=0"
+                    },
+                    {
+                        "order": 19,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/18.jpg?v=0"
+                    },
+                    {
+                        "order": 20,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/19.jpg?v=0"
+                    },
+                    {
+                        "order": 21,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/20.jpg?v=0"
+                    },
+                    {
+                        "order": 22,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/21.jpg?v=0"
+                    },
+                    {
+                        "order": 23,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/22.jpg?v=0"
+                    },
+                    {
+                        "order": 24,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/23.jpg?v=0"
+                    },
+                    {
+                        "order": 25,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/24.jpg?v=0"
+                    },
+                    {
+                        "order": 26,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/25.jpg?v=0"
+                    },
+                    {
+                        "order": 27,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/26.jpg?v=0"
+                    },
+                    {
+                        "order": 28,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/7/2/4/9/5/27.jpg?v=0"
+                    }
+                ],
+                "nextToken": "2023-03-10T06:00:00.000Z",
+                "brUpdateDate": "2023-07-22T05:06:15.463Z"
+            }
+        },
+        {
+            "text": "23014 Hilltop Peaks Elmendorf TX 78112",
+            "suggestType": "fullAddress",
+            "fieldValues": {
+                "ln": "1685945",
+                "fullAddress": "23014 Hilltop Peaks Elmendorf TX 78112",
+                "id": "179-1685945",
+                "blueroofMlsId": 161
+            },
+            "listing": {
+                "mongoId": "6457e581ff8f5c4bd8cdc597",
+                "blossorId": "179-1685945",
+                "blueroofMlsId": 161,
+                "mlsNum": "1685945",
+                "standardStatus": "Pending",
+                "mlsStatus": "Pending",
+                "history": [
+                    {
+                        "price": null,
+                        "priceSet": null,
+                        "status": 1,
+                        "statusSet": "2023-05-07T17:52:18.000Z",
+                        "date": "2023-05-09T14:28:58.000Z"
+                    },
+                    {
+                        "price": null,
+                        "priceSet": null,
+                        "status": 2,
+                        "statusSet": "2023-05-09T14:28:58.000Z",
+                        "date": "2023-05-13T17:42:18.000Z"
+                    },
+                    {
+                        "price": null,
+                        "priceSet": null,
+                        "status": 1,
+                        "statusSet": "2023-05-13T17:42:18.000Z",
+                        "date": "2023-05-16T19:06:15.000Z"
+                    },
+                    {
+                        "price": null,
+                        "priceSet": null,
+                        "status": 2,
+                        "statusSet": "2023-05-16T19:06:15.000Z",
+                        "date": "2023-05-22T14:01:25.000Z"
+                    },
+                    {
+                        "price": null,
+                        "priceSet": null,
+                        "status": 1,
+                        "statusSet": "2023-05-22T14:01:25.000Z",
+                        "date": "2023-05-31T00:44:23.000Z"
+                    },
+                    {
+                        "price": null,
+                        "priceSet": null,
+                        "status": 2,
+                        "statusSet": "2023-05-31T00:44:23.000Z",
+                        "date": "2023-06-05T17:42:13.000Z"
+                    },
+                    {
+                        "price": null,
+                        "priceSet": null,
+                        "status": 1,
+                        "statusSet": "2023-06-05T17:42:13.000Z",
+                        "date": "2023-06-16T23:30:27.000Z"
+                    }
+                ],
+                "lotSize": 0.44,
+                "streetAddress": "23014 Hilltop Peaks",
+                "city": "Elmendorf",
+                "state": "TX",
+                "postalCode": "78112",
+                "county": "Bexar",
+                "area": "2004",
+                "neighborhood": "Waterwood",
+                "agents": [
+                    {
+                        "id": "745365",
+                        "name": "Mitzi Childress",
+                        "email": "mitzidyane@gmail.com; mitzidyane@gmail.com",
+                        "phone": null,
+                        "agentType": "Listing Agent"
+                    }
+                ],
+                "listAgentId": "745365",
+                "listAgentName": "Mitzi Childress",
+                "listAgentEmail": "mitzidyane@gmail.com; mitzidyane@gmail.com",
+                "listAgentType": "Listing Agent",
+                "listOfficeId": "SOMO00",
+                "listOfficeName": "Somos Real Estate",
+                "listOfficePhone": "(903) 372-7189",
+                "hasHoa": false,
+                "hoaFeeYn": false,
+                "squareFeet": 1216,
+                "bedrooms": 3,
+                "bathsTotalDecimal": 2,
+                "fullBaths": 2,
+                "hasBasement": false,
+                "parkingFeatures": [
+                    "None/Not Applicable"
+                ],
+                "interiorFeatures": [
+                    "One Living Area",
+                    "Separate Dining Room",
+                    "Vinyl"
+                ],
+                "exteriorFeatures": [
+                    "Siding"
+                ],
+                "propertyFeatures": [
+                    "Septic",
+                    "City",
+                    "Pre-Owned"
+                ],
+                "heating": [
+                    "Central"
+                ],
+                "cooling": [
+                    "One Central"
+                ],
+                "financialInformation": [
+                    "Conventional",
+                    "FHA",
+                    "1st Seller Carry",
+                    "No HOA"
+                ],
+                "propertySubTypes": [
+                    "Manufactured"
+                ],
+                "foreclosure": false,
+                "shortSale": false,
+                "lat": 29.181777,
+                "lng": -98.408726,
+                "listDate": "2023-05-07T05:00:00.000Z",
+                "pendingDate": "2023-06-16T23:30:27.000Z",
+                "updateDate": "2023-06-16T23:30:27.000Z",
+                "lastStatusChangeDate": "2023-06-16T23:30:27.000Z",
+                "stories": 1,
+                "hideAddress": false,
+                "hideListing": false,
+                "photosAvailable": 41,
+                "photoVersion": 0,
+                "price": 155000,
+                "originalPrice": 155000,
+                "mlsPropertyType": "Single Residential",
+                "propertyType": "Manufactured Home",
+                "standardPropertyType": "Manufactured Home",
+                "remarks": "Welcome to a breath of fresh air! Nestled on a peaceful country road, this charming 3 bedroom, 2 bath singlewide home offers the perfect combination of comfort and convenience. From the moment you step in, you'll be impressed by the brand new vinyl flooring, fixtures and paints that add an elegant touch throughout. The new HVAC and roof guarantee years of enjoyment with minimal maintenance.    Outside, take in views of sprawling sunflower fields while relaxing on your patio or soaking up some sun on the lawn. Enjoy extra storage space thanks to a shed conveniently located nearby.    For those seeking an escape from city life but with modern convenience at their fingertips - this is it! Come see for yourself why this special country home won't last long on the market!",
+                "schoolDistrict": "South Side I.S.D",
+                "elementarySchool": "Freedom Elementary",
+                "highSchool": "Southside",
+                "middleSchool": "Julius Matthey",
+                "sewer": "Septic,City",
+                "year": 1997,
+                "taxAmount": 1066.69,
+                "taxYear": 2022,
+                "daysOnMarket": 24,
+                "photos": [
+                    {
+                        "order": 1,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/0.jpg?v=0"
+                    },
+                    {
+                        "order": 2,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/1.jpg?v=0"
+                    },
+                    {
+                        "order": 3,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/2.jpg?v=0"
+                    },
+                    {
+                        "order": 4,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/3.jpg?v=0"
+                    },
+                    {
+                        "order": 5,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/4.jpg?v=0"
+                    },
+                    {
+                        "order": 6,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/5.jpg?v=0"
+                    },
+                    {
+                        "order": 7,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/6.jpg?v=0"
+                    },
+                    {
+                        "order": 8,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/7.jpg?v=0"
+                    },
+                    {
+                        "order": 9,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/8.jpg?v=0"
+                    },
+                    {
+                        "order": 10,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/9.jpg?v=0"
+                    },
+                    {
+                        "order": 11,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/10.jpg?v=0"
+                    },
+                    {
+                        "order": 12,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/11.jpg?v=0"
+                    },
+                    {
+                        "order": 13,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/12.jpg?v=0"
+                    },
+                    {
+                        "order": 14,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/13.jpg?v=0"
+                    },
+                    {
+                        "order": 15,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/14.jpg?v=0"
+                    },
+                    {
+                        "order": 16,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/15.jpg?v=0"
+                    },
+                    {
+                        "order": 17,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/16.jpg?v=0"
+                    },
+                    {
+                        "order": 18,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/17.jpg?v=0"
+                    },
+                    {
+                        "order": 19,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/18.jpg?v=0"
+                    },
+                    {
+                        "order": 20,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/19.jpg?v=0"
+                    },
+                    {
+                        "order": 21,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/20.jpg?v=0"
+                    },
+                    {
+                        "order": 22,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/21.jpg?v=0"
+                    },
+                    {
+                        "order": 23,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/22.jpg?v=0"
+                    },
+                    {
+                        "order": 24,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/23.jpg?v=0"
+                    },
+                    {
+                        "order": 25,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/24.jpg?v=0"
+                    },
+                    {
+                        "order": 26,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/25.jpg?v=0"
+                    },
+                    {
+                        "order": 27,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/26.jpg?v=0"
+                    },
+                    {
+                        "order": 28,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/27.jpg?v=0"
+                    },
+                    {
+                        "order": 29,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/28.jpg?v=0"
+                    },
+                    {
+                        "order": 30,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/29.jpg?v=0"
+                    },
+                    {
+                        "order": 31,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/30.jpg?v=0"
+                    },
+                    {
+                        "order": 32,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/31.jpg?v=0"
+                    },
+                    {
+                        "order": 33,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/32.jpg?v=0"
+                    },
+                    {
+                        "order": 34,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/33.jpg?v=0"
+                    },
+                    {
+                        "order": 35,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/34.jpg?v=0"
+                    },
+                    {
+                        "order": 36,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/35.jpg?v=0"
+                    },
+                    {
+                        "order": 37,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/36.jpg?v=0"
+                    },
+                    {
+                        "order": 38,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/37.jpg?v=0"
+                    },
+                    {
+                        "order": 39,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/38.jpg?v=0"
+                    },
+                    {
+                        "order": 40,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/39.jpg?v=0"
+                    },
+                    {
+                        "order": 41,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/8/5/9/4/5/40.jpg?v=0"
+                    }
+                ],
+                "nextToken": "2023-05-07T05:00:00.000Z",
+                "brUpdateDate": "2023-06-16T23:33:02.749Z"
+            }
+        },
+        {
+            "text": "23014 Airedale Ln San Antonio TX 78260",
+            "suggestType": "fullAddress",
+            "fieldValues": {
+                "ln": "1690717",
+                "fullAddress": "23014 Airedale Ln San Antonio TX 78260",
+                "id": "179-1690717",
+                "blueroofMlsId": 161
+            },
+            "listing": {
+                "mongoId": "64700d63f5fc8a030d2ec990",
+                "blossorId": "179-1690717",
+                "blueroofMlsId": 161,
+                "mlsNum": "1690717",
+                "standardStatus": "Active",
+                "mlsStatus": "Active",
+                "history": [],
+                "lotSize": 0.22,
+                "streetAddress": "23014 Airedale Ln",
+                "city": "San Antonio",
+                "state": "TX",
+                "postalCode": "78260",
+                "county": "Bexar",
+                "area": "1801",
+                "neighborhood": "Panther Creek At Stone O",
+                "agents": [
+                    {
+                        "id": "796591",
+                        "name": "Elisa Aubry Quintanilla",
+                        "email": "eli-aubry@jbgoodwin.com",
+                        "phone": null,
+                        "agentType": "Listing Agent"
+                    }
+                ],
+                "listAgentId": "796591",
+                "listAgentName": "Elisa Aubry Quintanilla",
+                "listAgentEmail": "eli-aubry@jbgoodwin.com",
+                "listAgentType": "Listing Agent",
+                "listOfficeId": "JBGO00",
+                "listOfficeName": "JB Goodwin, REALTORS",
+                "listOfficeEmail": "jgoodwin@jbgoodwin.com",
+                "listOfficePhone": "(210) 725-7933",
+                "hasHoa": false,
+                "hoaFeeYn": false,
+                "squareFeet": 2674,
+                "bedrooms": 4,
+                "bathsTotalDecimal": 2.5,
+                "fullBaths": 2,
+                "halfBaths": 1,
+                "garageSpaces": 2,
+                "hasBasement": false,
+                "hasGarage": true,
+                "parkingFeatures": [
+                    "Two Car Garage"
+                ],
+                "interiorFeatures": [
+                    "One Living Area",
+                    "Island Kitchen",
+                    "Game Room",
+                    "Utility Room Inside",
+                    "Laundry Room",
+                    "Carpeting",
+                    "Ceramic Tile",
+                    "Wood"
+                ],
+                "propertyFeatures": [
+                    "Water System",
+                    "Sewer System"
+                ],
+                "heating": [
+                    "Central"
+                ],
+                "cooling": [
+                    "One Central"
+                ],
+                "financialInformation": [
+                    "No HOA"
+                ],
+                "propertySubTypes": [
+                    "Single Family Detached"
+                ],
+                "foreclosure": false,
+                "shortSale": false,
+                "lat": 29.655633,
+                "lng": -98.514772,
+                "listDate": "2023-05-25T05:00:00.000Z",
+                "updateDate": "2023-06-16T14:28:45.000Z",
+                "lastStatusChangeDate": "2023-05-26T01:35:28.000Z",
+                "stories": 2,
+                "hideAddress": false,
+                "hideListing": false,
+                "photosAvailable": 16,
+                "photoVersion": 0,
+                "price": 2750,
+                "originalPrice": 2750,
+                "mlsPropertyType": "Residential Rental",
+                "propertyType": "Residential Lease",
+                "standardPropertyType": "Residential Lease",
+                "remarks": "Beautiful two story Home in Stone Oak Gated community of Panther Creek. NEISD schools. 4 Bedrooms and 2.5 Baths.   Master Bedroom with walk in closet and Bath downstairs.Upstairs with media room,3 Bedrooms and full bath.  Full Kitchen with French doors lead to a beautiful outdoor covered patio area, fenced backyard ,perfect for those evening meals or morning outdoor breakfast.  Large opened living space with fireplace.  secured family recreation area with pool available.  Great Neighborhood amenities. pets negotiable.  2 car garage.  One year lease minimum.  Ready for you to walk in and enjoy.",
+                "schoolDistrict": "North East I.S.D",
+                "elementarySchool": "Wilderness Oak Elementary",
+                "highSchool": "Ronald Reagan",
+                "middleSchool": "Barbara Bush",
+                "sewer": "Water System,Sewer System",
+                "year": 2010,
+                "photos": [
+                    {
+                        "order": 1,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/0.jpg?v=0"
+                    },
+                    {
+                        "order": 2,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/1.jpg?v=0"
+                    },
+                    {
+                        "order": 3,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/2.jpg?v=0"
+                    },
+                    {
+                        "order": 4,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/3.jpg?v=0"
+                    },
+                    {
+                        "order": 5,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/4.jpg?v=0"
+                    },
+                    {
+                        "order": 6,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/5.jpg?v=0"
+                    },
+                    {
+                        "order": 7,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/6.jpg?v=0"
+                    },
+                    {
+                        "order": 8,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/7.jpg?v=0"
+                    },
+                    {
+                        "order": 9,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/8.jpg?v=0"
+                    },
+                    {
+                        "order": 10,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/9.jpg?v=0"
+                    },
+                    {
+                        "order": 11,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/10.jpg?v=0"
+                    },
+                    {
+                        "order": 12,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/11.jpg?v=0"
+                    },
+                    {
+                        "order": 13,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/12.jpg?v=0"
+                    },
+                    {
+                        "order": 14,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/13.jpg?v=0"
+                    },
+                    {
+                        "order": 15,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/14.jpg?v=0"
+                    },
+                    {
+                        "order": 16,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/0/7/1/7/15.jpg?v=0"
+                    }
+                ],
+                "nextToken": "2023-05-25T05:00:00.000Z",
+                "brUpdateDate": "2023-06-16T14:29:03.371Z"
+            }
+        },
+        {
+            "text": "23014 Copper Gully San Antonio TX 78259",
+            "suggestType": "fullAddress",
+            "fieldValues": {
+                "ln": "1698217",
+                "fullAddress": "23014 Copper Gully San Antonio TX 78259",
+                "id": "179-1698217",
+                "blueroofMlsId": 161
+            },
+            "listing": {
+                "mongoId": "6495ee02286d2b6acc8602ee",
+                "blossorId": "179-1698217",
+                "blueroofMlsId": 161,
+                "mlsNum": "1698217",
+                "standardStatus": "Active",
+                "mlsStatus": "Active",
+                "history": [
+                    {
+                        "price": 615000,
+                        "priceSet": "2023-06-23T19:08:10.000Z",
+                        "status": null,
+                        "statusSet": null,
+                        "date": "2023-07-10T12:40:59.000Z"
+                    }
+                ],
+                "lotSize": 0.17,
+                "streetAddress": "23014 Copper Gully",
+                "city": "San Antonio",
+                "state": "TX",
+                "postalCode": "78259",
+                "county": "Bexar",
+                "area": "1802",
+                "neighborhood": "Cliffs At Cibolo",
+                "agents": [
+                    {
+                        "id": "767568",
+                        "name": "Enrique Martinez",
+                        "email": "emartinez@agentenrique.com;emartinez@agentenrique.com",
+                        "phone": null,
+                        "agentType": "Listing Agent"
+                    }
+                ],
+                "listAgentId": "767568",
+                "listAgentName": "Enrique Martinez",
+                "listAgentEmail": "emartinez@agentenrique.com;emartinez@agentenrique.com",
+                "listAgentType": "Listing Agent",
+                "listOfficeId": "CMRL00",
+                "listOfficeName": "Central Metro Realty",
+                "listOfficeEmail": "jason@centralmetro.com",
+                "listOfficePhone": "(210) 992-3864",
+                "hasHoa": true,
+                "hoaFee": 185,
+                "hoaFeeYn": true,
+                "hoaFrequency": "Quarterly",
+                "hoaName": "CLIFFS AT CIBOLO HOMEOWNERS ASSOCIATION, INC.",
+                "squareFeet": 3203,
+                "bedrooms": 4,
+                "bathsTotalDecimal": 3.5,
+                "fullBaths": 3,
+                "halfBaths": 1,
+                "garageSpaces": 2,
+                "hasBasement": false,
+                "hasGarage": true,
+                "parkingFeatures": [
+                    "Two Car Garage"
+                ],
+                "interiorFeatures": [
+                    "One Living Area",
+                    "Island Kitchen",
+                    "Study/Library",
+                    "Game Room",
+                    "Utility Room Inside",
+                    "High Ceilings",
+                    "Open Floor Plan",
+                    "Laundry Main Level",
+                    "Laundry Room",
+                    "Walk in Closets",
+                    "Attic - Radiant Barrier Decking",
+                    "Carpeting",
+                    "Ceramic Tile",
+                    "Vinyl"
+                ],
+                "exteriorFeatures": [
+                    "Stucco",
+                    "Cement Fiber"
+                ],
+                "propertyFeatures": [
+                    "Water System",
+                    "Sewer System",
+                    "Pre-Owned"
+                ],
+                "heating": [
+                    "Central"
+                ],
+                "cooling": [
+                    "One Central"
+                ],
+                "financialInformation": [
+                    "Conventional",
+                    "FHA",
+                    "VA",
+                    "TX Vet",
+                    "Cash",
+                    "Has HOA"
+                ],
+                "propertySubTypes": [
+                    "Single Family Detached"
+                ],
+                "foreclosure": false,
+                "shortSale": false,
+                "lat": 29.65501,
+                "lng": -98.443211,
+                "listDate": "2023-06-23T05:00:00.000Z",
+                "updateDate": "2023-07-21T05:06:04.000Z",
+                "lastStatusChangeDate": "2023-06-23T19:08:10.000Z",
+                "priceLastReduced": "2023-07-10T12:40:59.000Z",
+                "stories": 2,
+                "hideAddress": false,
+                "hideListing": false,
+                "photosAvailable": 49,
+                "photoVersion": 1,
+                "price": 595000,
+                "originalPrice": 615000,
+                "mlsPropertyType": "Single Residential",
+                "propertyType": "Residential",
+                "standardPropertyType": "Residential",
+                "remarks": "Introducing an exquisite home with the Bordeaux floor plan, spanning approximately 3,204 sq. ft. This captivating two-story residence offers a well-designed layout encompassing 4 bedrooms, 3.5 bathrooms, and a 2-car garage.     Upon entering, you'll be greeted by a grand foyer featuring a soaring 19-foot ceiling, setting the stage for elegance. The first floor boasts a luxurious master suite, a modern kitchen equipped with granite countertops, 42\" cabinets, and top-of-the-line Whirlpool appliances, including a gas cooktop vented outside. Additional main-level highlights include a spacious family room, a convenient powder room, and a study, providing the perfect space for work or relaxation.    Upstairs, the second floor unveils three comfortable bedrooms, two well-appointed bathrooms, and a versatile game room, ensuring ample space for rest and entertainment.    Outside, the professionally landscaped front yard showcases lush sod, two beautiful trees, and a sprinkler system, creating a welcoming and picturesque ambiance. The residence is nestled within a gated community, offering an added layer of security and peace of mind.    Conveniently situated across the street from Johnson High School, this remarkable home combines style, functionality, and location for the ultimate living experience.",
+                "schoolDistrict": "North East I.S.D",
+                "elementarySchool": "Roan Forest",
+                "highSchool": "Johnson",
+                "middleSchool": "Tejeda",
+                "sewer": "Water System,Sewer System",
+                "year": 2017,
+                "taxAmount": 11622.46,
+                "taxYear": 2022,
+                "photos": [
+                    {
+                        "order": 1,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/0.jpg?v=1"
+                    },
+                    {
+                        "order": 2,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/1.jpg?v=1"
+                    },
+                    {
+                        "order": 3,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/2.jpg?v=1"
+                    },
+                    {
+                        "order": 4,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/3.jpg?v=1"
+                    },
+                    {
+                        "order": 5,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/4.jpg?v=1"
+                    },
+                    {
+                        "order": 6,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/5.jpg?v=1"
+                    },
+                    {
+                        "order": 7,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/6.jpg?v=1"
+                    },
+                    {
+                        "order": 8,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/7.jpg?v=1"
+                    },
+                    {
+                        "order": 9,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/8.jpg?v=1"
+                    },
+                    {
+                        "order": 10,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/9.jpg?v=1"
+                    },
+                    {
+                        "order": 11,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/10.jpg?v=1"
+                    },
+                    {
+                        "order": 12,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/11.jpg?v=1"
+                    },
+                    {
+                        "order": 13,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/12.jpg?v=1"
+                    },
+                    {
+                        "order": 14,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/13.jpg?v=1"
+                    },
+                    {
+                        "order": 15,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/14.jpg?v=1"
+                    },
+                    {
+                        "order": 16,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/15.jpg?v=1"
+                    },
+                    {
+                        "order": 17,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/16.jpg?v=1"
+                    },
+                    {
+                        "order": 18,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/17.jpg?v=1"
+                    },
+                    {
+                        "order": 19,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/18.jpg?v=1"
+                    },
+                    {
+                        "order": 20,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/19.jpg?v=1"
+                    },
+                    {
+                        "order": 21,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/20.jpg?v=1"
+                    },
+                    {
+                        "order": 22,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/21.jpg?v=1"
+                    },
+                    {
+                        "order": 23,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/22.jpg?v=1"
+                    },
+                    {
+                        "order": 24,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/23.jpg?v=1"
+                    },
+                    {
+                        "order": 25,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/24.jpg?v=1"
+                    },
+                    {
+                        "order": 26,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/25.jpg?v=1"
+                    },
+                    {
+                        "order": 27,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/26.jpg?v=1"
+                    },
+                    {
+                        "order": 28,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/27.jpg?v=1"
+                    },
+                    {
+                        "order": 29,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/28.jpg?v=1"
+                    },
+                    {
+                        "order": 30,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/29.jpg?v=1"
+                    },
+                    {
+                        "order": 31,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/30.jpg?v=1"
+                    },
+                    {
+                        "order": 32,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/31.jpg?v=1"
+                    },
+                    {
+                        "order": 33,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/32.jpg?v=1"
+                    },
+                    {
+                        "order": 34,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/33.jpg?v=1"
+                    },
+                    {
+                        "order": 35,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/34.jpg?v=1"
+                    },
+                    {
+                        "order": 36,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/35.jpg?v=1"
+                    },
+                    {
+                        "order": 37,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/36.jpg?v=1"
+                    },
+                    {
+                        "order": 38,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/37.jpg?v=1"
+                    },
+                    {
+                        "order": 39,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/38.jpg?v=1"
+                    },
+                    {
+                        "order": 40,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/39.jpg?v=1"
+                    },
+                    {
+                        "order": 41,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/40.jpg?v=1"
+                    },
+                    {
+                        "order": 42,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/41.jpg?v=1"
+                    },
+                    {
+                        "order": 43,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/42.jpg?v=1"
+                    },
+                    {
+                        "order": 44,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/43.jpg?v=1"
+                    },
+                    {
+                        "order": 45,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/44.jpg?v=1"
+                    },
+                    {
+                        "order": 46,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/45.jpg?v=1"
+                    },
+                    {
+                        "order": 47,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/46.jpg?v=1"
+                    },
+                    {
+                        "order": 48,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/47.jpg?v=1"
+                    },
+                    {
+                        "order": 49,
+                        "url": "https://photos.brivity.com/images/179/photo/1/6/9/8/2/1/7/48.jpg?v=1"
+                    }
+                ],
+                "nextToken": "2023-06-23T05:00:00.000Z",
+                "brUpdateDate": "2023-07-21T05:13:09.699Z"
+            }
+        }
+    ]

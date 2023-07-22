@@ -9,7 +9,7 @@ function App() {
 
     const [responses, setResponses ] = useState([]);
     
-    const handleNewPrompt = (prompt) => {
+    const updateChatLog = (prompt) => {
         setResponses([prompt, ...responses]);
     };
 
@@ -20,7 +20,7 @@ function App() {
                 <h3>Welcome to the Dev Site</h3>
                 <p>This is some basic structure for the app.</p>
                 <ResponseContainer responses={responses}/>
-                <TextInput onSubmit={handleNewPrompt}/> 
+                <TextInput onSubmit={updateChatLog}/> 
             </Container>
             <Footer />
         </div>

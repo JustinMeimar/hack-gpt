@@ -74,3 +74,5 @@ uvloop==0.17.0
 watchfiles==0.19.0
 websockets==11.0.3
 yarl==1.9.2
+Flask==2.0.1
+Flask-CORS==3.0.10

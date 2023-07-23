@@ -131,4 +131,7 @@ def init_everything():
     )
     print("== Upserted embedded vectors")
 
-    # query_retriever(vectorstore=vectorstore)
+    query_retriever(vectorstore=vectorstore)
+
+if __name__ == "__main__":
+    init_everything()

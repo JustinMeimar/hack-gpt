@@ -16,7 +16,7 @@ load_dotenv()
 #prompt templates
 description_template = PromptTemplate(
     input_variables = ['description'],
-    template = 'act as prospective real state buyer. Here is little bit of information about you : {description}. Write a small 200 word paragraph describing your ideal home'
+    template = 'act as prospective real estate buyer. In addition to what you know already, my input : {description}. Modify the small 200 word paragraph you just wrote describing your ideal home'
 )
 #memory
 description_memory = ConversationBufferMemory(input_key='description', memory_key='chat_history')
@@ -41,13 +41,15 @@ def handle_prompt():
     form_values = data.get('formValues', '')
     
     print("Form Values", form_values)
+    print("prompt text", prompt_text)
 
-    # description = description_chain.run(prompt_text)
+    description = description_chain.run(prompt_text)
 
-    from llm.justin_embeddings import get_mock_listings 
-    listing_1, listing_2, listing_3 = get_mock_listings()
+    # from llm.justin_embeddings import get_mock_listings 
+    listing_1, listing_2, listing_3 = [None] * 3
 
-    response_text = f"LLM processed output:"
+    response_text = f"{description}"
+    print(response_text)
  
     return jsonify({
         "text-response": response_text,

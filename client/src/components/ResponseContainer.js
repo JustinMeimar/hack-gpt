@@ -9,17 +9,15 @@ const ResponseContainer = ({ responses }) => {
     const reversed_responses = [...responses].reverse();
     
     return (
-        <div className="app-container">
-            <div className="responses-container">
-                {reversed_responses.map((response, index) => (
-                    <div key={index} className="response-item">
-                        <div className='response-icon'>
-                            <img src={userIcon} alt="user" height={iconDimension} width={iconDimension} ></img>
-                        </div>
-                        {response}
+        <div className="response-container">
+            {reversed_responses.map((response, index) => (
+                <div key={index} className="response-item">
+                    <div className='response-icon'>
+                        <img src={userIcon} alt="user" height={iconDimension} width={iconDimension} ></img>
                     </div>
-                ))}
-            </div>
+                    {response}
+                </div>
+            ))}
         </div>
     );
 };

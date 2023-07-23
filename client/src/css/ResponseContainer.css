@@ -1,44 +1,18 @@
-.app-container {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.responses-container {
-    width: 90%;
-    margin-bottom: 20px;
-    max-height: 550px;  /* Adjust this to your preferred height */
-    overflow-y: auto;  /* This will show the scrollbar when the content exceeds the max-height */
-}
-
-/* This targets the scrollbar thumb */
-.responses-container::-webkit-scrollbar-thumb {
-    background-color: rgba(155, 155, 155, 0.7); /* Dark grey with some transparency */
-    border-radius: 4px;
-    background-clip: padding-box;  /* Prevents scrollbar style from looking broken on macOS browsers */
-}
-
-/* This targets the track of the scrollbar */
-.responses-container::-webkit-scrollbar-track {
-    background-color: rgba(240, 240, 240, 0.8); /* Light grey with some transparency */
-    border-radius: 4px;
-}
-
-/* This targets the overall scrollbar */
-.responses-container::-webkit-scrollbar {
-    width: 8px;
-}
-
-.response-icon {
-    margin-right: 10px;
+.response-container {
+    background-color: rgb(238, 238, 238);
+    border-radius: 10px; 
+    width: 40%;
+    margin: auto;
+    padding: 10px; /* Add padding to the container for breathing space */
+    margin-top: 20px;
 }
 
 .response-item {
-    padding: 10px;
-    border-bottom: 1px solid #ccc;
-    display: flex;
-    /* position: relative; */
-    /* align-items: */
+    display: flex; /* The key to aligning items side by side */
+    align-items: center; /* Vertically align the icon and the text in the center */
+    margin-bottom: 10px; /* Space between each response */
 }
 
+.response-icon {
+    margin-right: 10px; /* Space between the icon and the text */
+}

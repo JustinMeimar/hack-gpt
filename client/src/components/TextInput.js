@@ -87,19 +87,19 @@ const mockResponse = {
     },
 };
 
-const TextInput = ({ onSubmit, renderQueryBlocks }) => {
+const TextInput = ({ updateChatResponse, renderQueryBlocks }) => {
 
     const [inputValue, setInputValue] = useState('');
 
     const handleSubmit = async () => {
         const response = await sendPrompt(); //process the prompt
         if (response) {
-            onSubmit(response); 
+            updateChatResponse(response); 
             renderQueryBlocks(mockResponse);
             setInputValue(''); 
         } else {
             renderQueryBlocks(mockResponse);
-            onSubmit("Error in prompt processing"); 
+            updateChatResponse(inputValue); 
         }
     };
     
@@ -115,20 +115,17 @@ const TextInput = ({ onSubmit, renderQueryBlocks }) => {
         }
     }
     
-    return (
-        <div>
-        
-            <div className="text-input-container">
-            <button onClick={handleSubmit} className="submit-button">
-                Submit
-            </button>
+    return ( 
+        <div className="text-input-container">
             <textarea
                 value={inputValue}
                 onChange={(e) => setInputValue(e.target.value)}
                 className="input-textarea"
                 placeholder="Write your prompt here..."
-            /> 
-        </div>
+            />
+            <button onClick={handleSubmit} className="submit-button">
+                Go
+            </button>
         </div>
         
     );

@@ -1,66 +1,59 @@
+
 .query-block-container {
-    background-color: rgb(241, 241, 241);
-    border-radius: 10px; /* rounded edges */
-    padding: 15px;
-    margin-bottom: 15px; /* space between those below it */
-    transition: transform 0.3s ease-in-out; /* transition for hover effect */
-    height: 400px; /* fixed height */
-    width: 90%; /* span the width of its parent */
-    box-sizing: border-box; /* include padding and border in width/height calculation */
-    overflow: hidden; /* ensures that the image or other contents don't overflow */
-    margin-left: 60px;
+    display: flex;  /* Stack children vertically */
+    flex-direction: column;  /* This is the default value, but we specify it for clarity */
+    margin: 20px 0;  /* Some vertical spacing between query blocks if stacked */
+    padding: 10px;  
+    background-color: #f5f5f5;  /* Light gray background */
+    border-radius: 10px;  /* Rounded edges */
+    transition: transform 0.3s ease; 
 }
 
 .query-block-container:hover {
-    transform: scale(1.05); /* enlarge the component on hover */
+    transform: scale(1.01);  /* Slightly expand the block on hover */
 }
 
 .query-block-title {
-    font-size: 24px; /* larger title */
-    font-weight: bold; /* more emphasized */
-    margin-bottom: 10px;
+    font-size: 20px; 
+    font-weight: bold;
+    margin-bottom: 10px;  /* Some space below the title */
 }
 
 .query-content-wrapper {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    font-size: 18px;
 }
 
 .query-block-data {
-    display: flex;
-    flex-direction: column;
-    gap: 5px; /* consistent spacing between data elements */
+    flex: 6;  /* 60% */
+    padding: 10px;
 }
 
-.query-block, .query-block-price, .query-block-date {
-    font-size: 14px; /* regular font size for info text */
+.query-block-price,
+.query-block-date,
+.query-block {
+    margin-bottom: 5px;  
 }
 
 .query-block-image-container {
-    position: relative; /* relative positioning to keep buttons above the image */
-    width: 50%; /* takes up half the available width */
-    height: 100%; 
+    flex: 4;  /* 40% */
+    display: flex;  
+    flex-direction: column;  /* Stack children vertically */
+    align-items: center;  /* Center children horizontally */
+    padding: 10px;
+}
+
+.query-block-image-container button {
+    margin: 5px 0;  /* Some vertical space between buttons */
+    cursor: pointer;
 }
 
 .query-block-image {
-    max-width: 90%; /* restrict image width to a percentage of the div's width */
-    max-height: 80%; /* restrict image height to a percentage of the div's height */
-    display: block;
-    margin: auto; /* center the image */
+    /* width: 100%; */
+    /* max-width: 200px;  */
+    max-height: 100px; 
 }
 
-button {
-    z-index: 2; /* keep buttons above the image */
-    padding: 5px 10px;
-    top: 50%;
-    transform: translateY(-50%); /* vertically center buttons */
-}
-
-button:first-of-type {
-    left: 10px;
-}
-
-button:last-of-type {
-    right: 10px;
+.query-content-wrapper {
+    font-size: 18px;    
 }

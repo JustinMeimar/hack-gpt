@@ -1,8 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Container, Navbar } from 'react-bootstrap';
 
 const Footer = () => {
+
     return (
+       <div> 
         <Navbar fixed="bottom" bg="light">
             <Container>
                 <Navbar.Text>
@@ -10,6 +12,7 @@ const Footer = () => {
                 </Navbar.Text>
             </Container>
         </Navbar>
+       </div>
     );
 }
 

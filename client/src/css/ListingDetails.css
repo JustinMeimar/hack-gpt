@@ -1,0 +1,59 @@
+.listing-details-container {
+    font-family: 'Arial', sans-serif;
+    max-width: 90%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.listing-details-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.listing-content-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.listing-details-data {
+    flex: 1;
+    padding: 10px;
+}
+
+.listing-details-price,
+.listing-details-date,
+.listing-details-moreinfo {
+    margin: 10px 0;
+}
+
+.listing-details-image-container {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+}
+
+.listing-details-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 20px 10px 0;
+    font-size: 16px;
+    background-color: #5e72e4;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #324cdd;
+}

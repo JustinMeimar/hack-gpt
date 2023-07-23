@@ -2,11 +2,15 @@ import openai, pinecone
 import json
 import os 
 
+
+api_key = os.environ.get('OPENAI_API_KEY')
+pinecone_key = os.environ.get("PINECONE_API_KEY")
+
 def queries(prompt):
 
-    openai.api_key ="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"
+    openai.api_key = api_key 
 
-    pinecone.init(api_key="4a647c06-1923-4046-8ea5-8b3741f10920",
+    pinecone.init(api_key=pinecone_key,
                   environment='us-west4-gcp-free')
     index = pinecone.Index('hacktest')
 

@@ -6,7 +6,8 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain, SequentialChain 
 from langchain.memory import ConversationBufferMemory
 
-os.environ['OPENAI_API_KEY'] = ""
+api_key = os.environ.get('OPENAI_API_KEY')
+org_key  = os.environ.get('OPENAI_ORG_ID')
 
 app = Flask(__name__, static_folder='client/build', static_url_path='')
 
@@ -18,7 +19,7 @@ description_template = PromptTemplate(
 #memory
 description_memory = ConversationBufferMemory(input_key='description', memory_key='chat_history')
 #llms
-llm = OpenAI(temperature=0.5)
+llm = OpenAI(openai_api_key=api_key,openai_organization=org_key, temperature=0.5)
 description_chain = LLMChain(llm=llm, prompt= description_template,verbose=True, output_key='description', memory=description_memory)
 
 # Enable CORS for all routes

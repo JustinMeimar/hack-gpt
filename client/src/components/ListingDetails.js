@@ -17,7 +17,7 @@ const ListingDetails = ({ ...props }) => {
     }
   
     
-    console.log("in ListingDetials block!", props.imageUrls);
+    console.log("in ListingDetails block!", props.imageUrls);
     
     return (
         <div className="listing-details-container">

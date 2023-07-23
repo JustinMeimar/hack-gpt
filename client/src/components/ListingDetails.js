@@ -21,15 +21,17 @@ const ListingDetails = ({ ...props }) => {
     
     return (
         <div className="listing-details-container">
-            <div className="listing-details-title"> {props.title}  </div>
+            <div className="listing-details-title"> {props.PropertyAddress}  </div>
             <div className="listing-content-wrapper">
                 <div className="listing-details-data">
-                    <div className="listing-details-price"> Price: ${props.price}  </div>
-                    <div className="listing-details-date"> Date: {props.date}  </div>
+                    <div className="listing-details-price"> Price: {props.price}  </div>
+                    <div className="listing-details-mls"> Date: {props.MlsNumber}  </div>
                     <div className="listing-details-moreinfo"> More info: {props.moreInfo}  </div>
+                    <div className="listing-details-beds-baths"> Beds: {props.Bedrooms}  </div>
+                    <div className="listing-details-baths"> Baths: {props.BathroomTotal}  </div>
                 </div>
                 <div className="listing-details-image-container">
-                     <img src={props.imageUrls && props.imageUrls[currentImageIndex]} 
+                     <img src={props.MedResPhotoURL} 
                          alt="" 
                          className="listing-details-image" 
                     />

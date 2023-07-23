@@ -1,0 +1,150 @@
+{
+    "Id":"25810319",
+    "MlsNumber":"E4349134",
+    "PublicRemarks":"Experience CONVENIENT LIVING in this STUNNING & well-maintained 981 sq.ft 2 BED+2 BATH condo in the heart of of Queen Alexandra, a walkable community! Very secure building built in 2014, the LOCATION IS FANTASTIC close to U of A, Whyte Ave, Downtown & easy access to public transit, restaurants & shopping. There is so much to love in this well-maintained & upgraded home from the 9 FT CEILINGS, to the engineering HARDWOOD FLOORING, s\/s appliances, IN-SUITE LAUNDRY, the list goes on. Step inside & you are greeted with a nice size front foyer that leads into the bright open concept floor plan. The kitchen features loads of cabinetry, granite countertops, added kitchen island, raised eating bar & overlooks the spacious living room with large windows. Off the living room is access to your deck that faces a quiet tree lined street. There are 2 great size bedrooms, the primary suite includes a 3pc ensuite. Rounding off the unit is a 4pc bath & laundry. HEATED UNDERGROUND STALL & storage is also included! (30159453)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"91.19 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Ceiling - 9ft, Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":1969891,
+            "Name":"Sara Trenn",
+            "Organization":{
+                "OrganizationID":110919,
+                "Name":"YEGPro Realty",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638245174190000000\/lowres\/1261641.jpg",
+                "Address":{
+                    "AddressText":"203-10023 168 St NW|Edmonton, Alberta T5P3W9",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"457-5657",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"274-2914",
+                        "AreaCode":"844",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509758631"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/110919\/yegpro-realty-203-10023-168-st-nw-edmonton-alberta-t5p3w9",
+                "PhotoLastupdate":"2023-07-09 4:36:59 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"497-9866",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"274-2914",
+                    "AreaCode":"844",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509118123"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Sara",
+            "LastName":"Trenn",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1969891\/sara-trenn-203-10023-168-st-nw-edmonton-alberta-t5p3w9",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$314,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#219 10811 72 AV NW|Edmonton, Alberta T6E1A4",
+            "Longitude":"-113.510406471164",
+            "Latitude":"53.5083426292506",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638245030103130000\/reb10\/highres\/4\/E4349134_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638245030103130000\/reb10\/medres\/4\/E4349134_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638245030103130000\/reb10\/lowres\/4\/E4349134_1.jpg",
+                "LastUpdated":"2023-07-09 12:36:50 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Underground",
+        "PriceUnformattedValue":"314000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"45.64 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E1A4",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25810319\/219-10811-72-av-nw-edmonton-queen-alexandra",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-09 4:36:50 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25810319\/219-10811-72-av-nw-edmonton-queen-alexandra",
+    "RelativeURLFr":"\/immobilier\/25810319\/219-10811-72-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638245174103070000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

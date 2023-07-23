@@ -1,0 +1,158 @@
+{
+    "Id":"25739718",
+    "MlsNumber":"E4346490",
+    "PublicRemarks":"ATTENTION STUDENTS and INVESTORS!  EXCELLENT LOCATION, this bright and clean 1 Bedroom unit has just been COMPLETELY RENOVATED and is move-in ready!  Spacious rooms, stylish updates, and durable vinyl plank flooring throughout make this condo perfect for students, first time buyers, or as an investment property.  Strathcona House offers excellent amenities - an indoor swimming pool, modern fitness room, sauna, meeting room and a gorgeous, private park-like courtyard overlooking the river valley complete w\/ gazebo and gas BBQs.  Walking distance to U of A and with easy access to all Edmonton has to offer including the gorgeous river valley, bike paths and trails, Kinsmen Centre, Whyte Ave, Downtown and transit!  Condo fees include heat, power and water! Comes with a covered outdoor parking stall and storage locker.  Don't miss out! (30086208)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"58.02 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":2050507,
+            "Name":"Lisa G. Makelki",
+            "Organization":{
+                "OrganizationID":272504,
+                "Name":"2% Realty Pro",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638229046220000000\/lowres\/272504.jpg",
+                "Address":{
+                    "AddressText":"102-1253 91 St SW|Edmonton, Alberta T6X1E9",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"660-0000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"401-3463",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509231310"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/272504\/2-realty-pro-102-1253-91-st-sw-edmonton-alberta-t6x1e9",
+                "PhotoLastupdate":"2023-06-21 12:37:02 AM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"977-7789",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"401-3463",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.lisamakelki.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509130396"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS636591262200000000\/lowres\/1325803.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Lisa",
+            "LastName":"Makelki",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2050507\/lisa-makelki-102-1253-91-st-sw-edmonton-alberta-t6x1e9",
+            "AgentPhotoLastUpdated":"2018-04-12 10:37:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS636591262200000000\/highres\/1325803.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$157,500",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#204 10883 Saskatchewan DR NW|Edmonton, Alberta T6E4S6",
+            "Longitude":"-113.510773662704",
+            "Latitude":"53.5234622524557",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638229031112000000\/reb10\/highres\/0\/E4346490_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638229031112000000\/reb10\/medres\/0\/E4346490_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638229031112000000\/reb10\/lowres\/0\/E4346490_1.jpg",
+                "LastUpdated":"2023-06-21 12:11:51 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            },
+            {
+                "Name":"See Remarks"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall, See Remarks",
+        "PriceUnformattedValue":"157500"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"27.4 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E4S6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25739718\/204-10883-saskatchewan-dr-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-21 4:11:55 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25739718\/204-10883-saskatchewan-dr-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25739718\/204-10883-saskatchewan-dr-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638229046229070000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

@@ -1,0 +1,149 @@
+{
+    "Id":"25734568",
+    "MlsNumber":"E4346319",
+    "PublicRemarks":"Welcome to Garneau Gardens, where it feels like townhouse living in a quiet, well-maintained complex. This beautifully located complex offers a multi level unit, 1098 sq ft 2-storey suite features a sunny south facing living area on the main level and a private upper level for the bedrooms. The generous living room boasts a corner fireplace and balcony and an atrium-like dining room is showcased with an abundance of windows. Kitchen offers newer cabinets and tile backsplash as well as stainless steel appliances and slate flooring. The main floor also includes an updated powder room. Head on upstairs where you are treated to a spacious master bedroom with large balcony, a second bedroom and full bath with the convenience of the laundry room right outside the bedroom doors. One underground parking stall in the secured parkade completes the package. This lovely unit is located close to the U of A, Downtown, River Valley trails and all of the excitement Whyte Avenue has to offer! (30080887)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"102 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478806,
+            "Name":"Dallas Moravec",
+            "Organization":{
+                "OrganizationID":67147,
+                "Name":"Royal Lepage Arteam Realty",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638255686000000000\/lowres\/67147.jpg",
+                "Address":{
+                    "AddressText":"203-14101 West Block Dr|Edmonton, Alberta T5N1L5",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"456-5656",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509244876"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67147\/royal-lepage-arteam-realty-203-14101-west-block-dr-edmonton-alberta-t5n1l5",
+                "PhotoLastupdate":"2023-07-21 8:36:40 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"707-7191",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.dallasm.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"511279153"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Dallas",
+            "LastName":"Moravec",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478806\/dallas-moravec-203-14101-west-block-dr-edmonton-alberta-t5n1l5",
+            "AgentPhotoLastUpdated":"2022-06-23 16:47:00",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$239,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#205 10611 84 AV NW|Edmonton, Alberta T6L1N8",
+            "Longitude":"-113.5044327",
+            "Latitude":"53.5198139302171",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638230364496300000\/reb10\/highres\/9\/E4346319_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638230364496300000\/reb10\/medres\/9\/E4346319_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638230364496300000\/reb10\/lowres\/9\/E4346319_1.jpg",
+                "LastUpdated":"2023-06-22 1:14:09 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"239900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"122.7 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/my.matterport.com\/show\/?m=soydWit2FKC"
+    },
+    "PostalCode":"T6L1N8",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25734568\/205-10611-84-av-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-22 5:14:23 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25734568\/205-10611-84-av-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25734568\/205-10611-84-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/my.matterport.com\/show\/?m=soydWit2FKC",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"Matterport"
+        }
+    ],
+    "InsertedDateUTC":"638228182184400000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-22 12:40:37 AM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

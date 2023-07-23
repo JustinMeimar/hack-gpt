@@ -1,0 +1,150 @@
+{
+    "Id":"25807558",
+    "MlsNumber":"E4348966",
+    "PublicRemarks":"Living sky high in this amazing 18th floor 2 bdrms, 2 baths and 2 side by side parking stalls apartment condo on prestigious Saskatchewan drive. Stunning panoramic view of city center and river valley. Open bright & spacious layout. Ceiling to floor windows, bedroom located on opposite side with its own ensuite full bath for sharing\/privacy, nice size kitchen with walk in pantry, modern decor with trendy color tone and upgraded vinyl plank flooring. Watch Canada day fireworks from this quiet corner unit, enjoy great building amenities including gym\/fitness room, tennis\/basket courts, party room, racquet court, visitor parking, on site management & more. Steps away from river valley trails, Kinsmen sports center and easy access to university campus, Whyte Ave, city center, farmer's market and ICE district. Move in ready for owner use or rental. (30156524)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"78.78 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478542,
+            "Name":"Richard K. Li",
+            "Organization":{
+                "OrganizationID":67096,
+                "Name":"MaxWell Devonshire Realty",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638245894400000000\/lowres\/1124328.jpg",
+                "Address":{
+                    "AddressText":"11058 51 Ave NW|Edmonton, Alberta T6H0L4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"438-2500",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"435-0100",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516875"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67096\/maxwell-devonshire-realty-11058-51-ave-nw-edmonton-alberta-t6h0l4",
+                "PhotoLastupdate":"2023-07-10 12:37:20 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"438-2500",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"435-0100",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"511527977"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Richard",
+            "LastName":"Li",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478542\/richard-li-11058-51-ave-nw-edmonton-alberta-t6h0l4",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$218,800",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#1809 10149 SASKATCHEWAN DR NW|Edmonton, Alberta T6E6B6",
+            "Longitude":"-113.4936202",
+            "Latitude":"53.5236226",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638244523578300000\/reb10\/highres\/6\/E4348966_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638244523578300000\/reb10\/medres\/6\/E4348966_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638244523578300000\/reb10\/lowres\/6\/E4348966_1.jpg",
+                "LastUpdated":"2023-07-08 10:32:37 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Parkade"
+            },
+            {
+                "Name":"Stall"
+            }
+        ],
+        "ParkingSpaceTotal":"2",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping, Ski hill",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Parkade, Stall",
+        "PriceUnformattedValue":"218800"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"40.11 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E6B6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25807558\/1809-10149-saskatchewan-dr-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-09 2:32:46 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25807558\/1809-10149-saskatchewan-dr-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25807558\/1809-10149-saskatchewan-dr-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638243662374300000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

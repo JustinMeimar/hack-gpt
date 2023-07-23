@@ -1,0 +1,164 @@
+{
+    "Id":"25789270",
+    "MlsNumber":"E4348354",
+    "PublicRemarks":"Looking for a southside condo with everything including 2 titled underground parking stalls. A Beautiful top floor south facing 2-bedroom unit featuring air conditioning along with vinyl plank flooring. A modern kitchen with a great design & has ample storage. The island with its granite countertop adds extra storage & prep space, as well as an eating bar. The 9 ft ceilings in the condo add to the overall spacious feel. Enjoy a relaxing evening in your living room watching Tv or chilling by the fireplace on those cool evenings. The Primary bedroom is grand & has a walk thru closet which leads you to your 3-piece en-suite. The 2nd bedroom is a great size. The unit also has a large laundry room with laundry sink & extra storage which holds your front load washer & dryer w\/ pedestal drawers. Other bonuses are the large balcony with its gas BBQ hook up & the buildings gym that is impressive. Location, location is what they say when the unit is close to public transportation, restaurants, stores, small cafes. (30137624)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"96.33 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Ceiling - 9ft"
+    },
+    "Individual":[
+        {
+            "IndividualID":1566493,
+            "Name":"Sheryl Stephens",
+            "Organization":{
+                "OrganizationID":67032,
+                "Name":"RE\/MAX Real Estate",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638253094100000000\/lowres\/1004792.jpg",
+                "Address":{
+                    "AddressText":"200-10835 124 St NW|Edmonton, Alberta T5M0H4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"488-4000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"447-1695",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520270164"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67032\/remax-real-estate-200-10835-124-st-nw-edmonton-alberta-t5m0h4",
+                "PhotoLastupdate":"2023-07-18 8:36:50 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"717-5613",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"447-1695",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.sherylstephens.ca\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/Sherylstephensrealestate\/",
+                    "WebsiteTypeId":"2"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509122437"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637819438200000000\/lowres\/1149235.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Sheryl",
+            "LastName":"Stephens",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1566493\/sheryl-stephens-200-10835-124-st-nw-edmonton-alberta-t5m0h4",
+            "AgentPhotoLastUpdated":"2022-03-03 22:37:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637819438200000000\/highres\/1149235.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$269,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#404 10116 80 AV NW|Edmonton, Alberta T6E6V7",
+            "Longitude":"-113.492023",
+            "Latitude":"53.5162904",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638240860405900000\/reb10\/highres\/4\/E4348354_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638240860405900000\/reb10\/medres\/4\/E4348354_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638240860405900000\/reb10\/lowres\/4\/E4348354_1.jpg",
+                "LastUpdated":"2023-07-04 4:47:20 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Indoor"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"2",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Indoor, Underground",
+        "PriceUnformattedValue":"269900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E6V7",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25789270\/404-10116-80-av-nw-edmonton-ritchie",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-04 8:47:20 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25789270\/404-10116-80-av-nw-edmonton-ritchie",
+    "RelativeURLFr":"\/immobilier\/25789270\/404-10116-80-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638241004405800000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

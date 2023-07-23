@@ -1,0 +1,169 @@
+{
+    "Id":"25833767",
+    "MlsNumber":"E4350015",
+    "PublicRemarks":"Welcome to your dream home! This stunning 1 bed, 1 bath condo has undergone a complete renovation, exquisitely crafted with meticulous attention to detail. Experience modern luxury living with bright open spaces, sleek vinyl plank floors, and abundant natural light. The chef's kitchen features top-of-the-line appliances, quartz countertops, and custom cabinetry. Retreat to the tranquil bedroom and indulge in the spa-like bathroom with its exquisite tile work and walk-in shower. Additional highlights include ample storage, in-unit laundry, and central heating. Located in desirable Strathcona, enjoy easy access to amenities, restaurants, parks, and transportation. Don't miss out on this contemporary and sophisticated urban living experience. Schedule a showing today! (30183782)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"44.38 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":2078021,
+            "Name":"Jessica S. Gurney",
+            "Organization":{
+                "OrganizationID":67130,
+                "Name":"RE\/MAX River City",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638249422260000000\/lowres\/1004972.jpg",
+                "Address":{
+                    "AddressText":"100-10328 81 Ave NW|Edmonton, Alberta T6E1X2",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"439-7000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"439-7248",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516328"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67130\/remax-river-city-100-10328-81-ave-nw-edmonton-alberta-t6e1x2",
+                "PhotoLastupdate":"2023-07-14 2:37:06 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"660-2506",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"439-7248",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509138241"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637036708800000000\/lowres\/1352873.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Jessica",
+            "LastName":"Gurney",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2078021\/jessica-gurney-100-10328-81-ave-nw-edmonton-alberta-t6e1x2",
+            "AgentPhotoLastUpdated":"2019-09-10 00:08:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637036708800000000\/highres\/1352873.jpg",
+            "RankMyAgentKey":"48380",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$149,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#205 10160 83 AV NW|Edmonton, Alberta T6E2C4",
+            "Longitude":"-113.493748771164",
+            "Latitude":"53.5192394",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249422266870000\/reb10\/highres\/5\/E4350015_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249422266870000\/reb10\/medres\/5\/E4350015_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249422266870000\/reb10\/lowres\/5\/E4350015_1.jpg",
+                "LastUpdated":"2023-07-14 2:37:06 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Playground, Public Transit, Schools, Shopping, Ski hill",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"149900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"50.41 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/youriguide.com\/205_10160_83_ave_nw_edmonton_ab\/"
+    },
+    "PostalCode":"T6E2C4",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25833767\/205-10160-83-av-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-14 6:37:06 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25833767\/205-10160-83-av-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25833767\/205-10160-83-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/205_10160_83_ave_nw_edmonton_ab\/",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"iGuide"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/205_10160_83_ave_nw_edmonton_ab\/\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/205_10160_83_ave_nw_edmonton_ab\/\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        }
+    ],
+    "InsertedDateUTC":"638249566266800000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

@@ -1,0 +1,231 @@
+{
+    "Id":"25793020",
+    "MlsNumber":"E4348440",
+    "PublicRemarks":"Top floor condo in the community of Ritchie.Summer is heating up,so why not be close to all the amenities of Whyte Ave. This top floor unit has 9ft ceilings, kitchen with island,and a large dining area.The primary room is large enough to fit a king size bed,walk through closet and a 3 piece en-suite bathroom.Natural light pours into the open concept kitchen and living area which has a natural gas fireplace,perfect to catch the views.Indulge with a coffee on the large deck with gas hook ups,or relax and be at peace,you will find yourself in the perfect location.This unit also has large in-suite laundry room with extra storage, central vacuum, heated secured underground parking,extra storage underground,a gym, and extra parking for visitors.Scona station is located in the most trendy place in Edmonton,blocks away from Whyte Ave,walking distance from the UofA, the best river valley system in Canada.Shopping,entertainment,music festivals,the Fringe are part of the life style you are looking for on Whyte Ave! (30141460)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"95.8 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Ceiling - 9ft, Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":1530800,
+            "Name":"Robert M. Hasek",
+            "Organization":{
+                "OrganizationID":291037,
+                "Name":"Real Broker",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638241574430000000\/lowres\/1393430.jpg",
+                "Address":{
+                    "AddressText":"3400-10180 101 St NW|Edmonton, Alberta T5J3S4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"623-6900",
+                        "AreaCode":"855",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"515157112"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/291037\/real-broker-3400-10180-101-st-nw-edmonton-alberta-t5j3s4",
+                "PhotoLastupdate":"2023-07-05 12:37:23 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"235-0884",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"450-6670",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"514331706"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS638126928600000000\/lowres\/1141633.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Robert",
+            "LastName":"Hasek",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1530800\/robert-hasek-3400-10180-101-st-nw-edmonton-alberta-t5j3s4",
+            "AgentPhotoLastUpdated":"2023-02-22 20:01:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS638126928600000000\/highres\/1141633.jpg",
+            "RankMyAgentKey":"63186",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        },
+        {
+            "IndividualID":1975102,
+            "Name":"Paul E. Paiva",
+            "Organization":{
+                "OrganizationID":291037,
+                "Name":"Real Broker",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638241574430000000\/lowres\/1393430.jpg",
+                "Address":{
+                    "AddressText":"3400-10180 101 St NW|Edmonton, Alberta T5J3S4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"623-6900",
+                        "AreaCode":"855",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"515157112"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/291037\/real-broker-3400-10180-101-st-nw-edmonton-alberta-t5j3s4",
+                "PhotoLastupdate":"2023-07-05 12:37:23 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"217-1114",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"https:\/\/twitter.com\/elevategroupyeg",
+                    "WebsiteTypeId":"4"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/elevaterealtyyeg",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/elevaterealtygroup",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"514331618"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS638095250400000000\/lowres\/1261906.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Paul",
+            "LastName":"Paiva",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1975102\/paul-paiva-3400-10180-101-st-nw-edmonton-alberta-t5j3s4",
+            "AgentPhotoLastUpdated":"2023-01-17 04:04:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS638095250400000000\/highres\/1261906.jpg",
+            "RankMyAgentKey":"49718",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$270,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#407 10116 80 AV NW|Edmonton, Alberta T6E6V7",
+            "Longitude":"-113.492173203705",
+            "Latitude":"53.51625212416",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638241574439870000\/reb10\/highres\/0\/E4348440_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638241574439870000\/reb10\/medres\/0\/E4348440_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638241574439870000\/reb10\/lowres\/0\/E4348440_1.jpg",
+                "LastUpdated":"2023-07-05 12:37:23 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Parkade"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Parkade, Underground",
+        "PriceUnformattedValue":"270000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"59.44 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/my.matterport.com\/show\/?m=NC3miSCWfD6"
+    },
+    "PostalCode":"T6E6V7",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25793020\/407-10116-80-av-nw-edmonton-ritchie",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-05 4:37:23 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25793020\/407-10116-80-av-nw-edmonton-ritchie",
+    "RelativeURLFr":"\/immobilier\/25793020\/407-10116-80-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/my.matterport.com\/show\/?m=NC3miSCWfD6",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"Matterport"
+        }
+    ],
+    "InsertedDateUTC":"638241718439800000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

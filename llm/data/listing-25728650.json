@@ -1,0 +1,210 @@
+{
+    "Id":"25728650",
+    "MlsNumber":"E4346095",
+    "PublicRemarks":"Welcome to this one bedroom one bath condo unit in 85 Greystone with a prime Strathcona location!  Steps to Saskatchewan Drive & the River Valley, a short walk to UofA, Downtown, Whyte AVE & Strathcona's Farmer's Market. This unit was extensively renovated a few years ago with new laminate flooring, new kitchen & new bath. Kitchen features modern cabinets, granite counter tops, beautiful tile glass backsplash & stainless appliances. The 4 pc full bath has a soaker tubs with tile surrounds and vanity has granite countertop. This unit comes with in-suite laundry, one of the biggest separate storage locker (approx. 4X8) & one energized parking stall. New windows & doors. The building is self-managed with a reasonable condo fee. Perfect for students, young professionals or investors! (30074745)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"48.18 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":1857916,
+            "Name":"Fan Yang",
+            "Organization":{
+                "OrganizationID":284670,
+                "Name":"Mozaic Realty Group",
+                "Address":{
+                    "AddressText":"201-2333 90B St SW|Edmonton, Alberta T6X1V8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"905-3008",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516304"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/284670\/mozaic-realty-group-201-2333-90b-st-sw-edmonton-alberta-t6x1v8",
+                "PhotoLastupdate":"2023-06-17 12:36:53 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"885-7077",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.fanyangteam.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/twitter.com\/EdmontonFanYang",
+                    "WebsiteTypeId":"4"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/edmontonfanyang",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/fan-yang-1714b31a\/",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509111404"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/lowres\/1200339.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Fan",
+            "LastName":"Yang",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1857916\/fan-yang-201-2333-90b-st-sw-edmonton-alberta-t6x1v8",
+            "AgentPhotoLastUpdated":"2022-04-26 14:06:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/highres\/1200339.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        },
+        {
+            "IndividualID":1933357,
+            "Name":"Haijun Yan",
+            "Organization":{
+                "OrganizationID":284670,
+                "Name":"Mozaic Realty Group",
+                "Address":{
+                    "AddressText":"201-2333 90B St SW|Edmonton, Alberta T6X1V8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"905-3008",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516304"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/284670\/mozaic-realty-group-201-2333-90b-st-sw-edmonton-alberta-t6x1v8",
+                "PhotoLastupdate":"2023-06-17 12:36:53 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"937-9648",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509120540"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Haijun",
+            "LastName":"Yan",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1933357\/haijun-yan-201-2333-90b-st-sw-edmonton-alberta-t6x1v8",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$179,800",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#204 8518 106 ST NW|Edmonton, Alberta T6E4J3",
+            "Longitude":"-113.503836771164",
+            "Latitude":"53.5215213785167",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638226022136470000\/reb10\/highres\/5\/E4346095_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638226022136470000\/reb10\/medres\/5\/E4346095_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638226022136470000\/reb10\/lowres\/5\/E4346095_1.jpg",
+                "LastUpdated":"2023-06-17 12:36:53 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"179800"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E4J3",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25728650\/204-8518-106-st-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-17 4:36:53 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25728650\/204-8518-106-st-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25728650\/204-8518-106-st-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638226166136400000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

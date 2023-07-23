@@ -1,0 +1,149 @@
+{
+    "Id":"25752040",
+    "MlsNumber":"E4346871",
+    "PublicRemarks":"Welcome to your dream condo! This stunning unit is situated on Saskatchewan Dr. with breathtaking views of the river and downtown from the 16th floor north-facing balcony. Conveniently located close to UofA, Whyte Ave, Kinsmen Sport Centre and river valley. This unit features 2 bedrooms with 2 ensuite 4-piece baths, ample storage\/closet space and a cozy kitchen complete with stainless steel appliances. The spacious living room is filled with natural light, providing a warm and inviting atmosphere. But that's not all - this condo also comes with 2 covered parking stalls in an attached parkade, providing easy and convenient access to your home. The parkade features rooftop basketball and tennis courts, as well as a massive seating area! If you're looking to stay active, the condo building also has a recreation room that includes weights, cardio machines, a ping pong table, and even a racquetball court! A perfect choice to own your dream home in one of the most sought-after areas of the city. Don't miss out! (30098911)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"85 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":2071643,
+            "Name":"Nik P. Ristivojevic",
+            "Organization":{
+                "OrganizationID":67151,
+                "Name":"Royal LePage Noralta Real Estate",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638248774060000000\/lowres\/rl1.gif",
+                "Address":{
+                    "AddressText":"3018 Calgary Trail NW|Edmonton, Alberta T6J6V4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"431-5600",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"431-5624",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516346"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67151\/royal-lepage-noralta-real-estate-3018-calgary-trail-nw-edmonton-alberta-t6j6v4",
+                "PhotoLastupdate":"2023-07-13 8:36:46 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"233-2233",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"484-3690",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"512543837"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS636968040000000000\/lowres\/1346883.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Nik",
+            "LastName":"Ristivojevic",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2071643\/nik-ristivojevic-3018-calgary-trail-nw-edmonton-alberta-t6j6v4",
+            "AgentPhotoLastUpdated":"2019-06-22 12:40:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS636968040000000000\/highres\/1346883.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$197,500",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#1609 10149 SASKATCHEWAN DR NW|Edmonton, Alberta T6E6B6",
+            "Longitude":"-113.493534369312",
+            "Latitude":"53.523597087193",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638231134094570000\/reb10\/highres\/1\/E4346871_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638231134094570000\/reb10\/medres\/1\/E4346871_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638231134094570000\/reb10\/lowres\/1\/E4346871_1.jpg",
+                "LastUpdated":"2023-06-23 10:36:49 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Parkade"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Parkade",
+        "PriceUnformattedValue":"197500"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E6B6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25752040\/1609-10149-saskatchewan-dr-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-23 2:36:49 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25752040\/1609-10149-saskatchewan-dr-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25752040\/1609-10149-saskatchewan-dr-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638231278094500000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-14 12:40:57 AM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

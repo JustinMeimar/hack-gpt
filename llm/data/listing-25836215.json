@@ -1,0 +1,243 @@
+{
+    "Id":"25836215",
+    "MlsNumber":"E4350140",
+    "PublicRemarks":"Welcome to Garneau!This spacious & contemporary condo is IDEALLY SITUATED near the UNIVERSITY of ALBERTA, WHYTE AVE & DOWNTOWN! W\/ nearly 1000 sqft of living space, this 2nd flr gem offers a comfortable & stylish urban living experience.The open & inviting floor plan maximizes the use of space & natural light. The living area boasts a generous layout, w\/ 2 beds & 2 baths! The design features hardwood flooring & large windows, w\/ the luxury of an ensuite-laundry area.The main bedroom includes an ensuite bath, for convenience & privacy. Plus a 2nd full bath. The LOCATION of this condo is unbeatable. The building offers an elevator for added convenience! Situated in the heart of Garneau, you'll have easy access to educational facilities, libraries, and various cultural events. The vibrant & lively Whyte Avenue is just a short walk away, providing a diverse array of restaurants, cafes, boutique shops, and nightlife options. This condo is the perfect investment! SELLER TO GIVE $3500 CREDIT FOR APPLIANCES! (30186355)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"89.07 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1477303,
+            "Name":"Mani Bagga",
+            "Organization":{
+                "OrganizationID":294826,
+                "Name":"Royal Lepage Magna",
+                "Address":{
+                    "AddressText":"201-6043 Andrews Way SW|Edmonton, Alberta T6W3S9",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"818-2000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"525900839"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/294826\/royal-lepage-magna-201-6043-andrews-way-sw-edmonton-alberta-t6w3s9",
+                "PhotoLastupdate":"2023-07-15 7:36:52 AM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"905-5050",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"431-5624",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.manibagga.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/twitter.com\/ManiBaggaRLP",
+                    "WebsiteTypeId":"4"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/BaggaTeam\/",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/manibagga\/",
+                    "WebsiteTypeId":"3"
+                },
+                {
+                    "Website":"https:\/\/www.instagram.com\/mani_bagga\/",
+                    "WebsiteTypeId":"5"
+                },
+                {
+                    "Website":"https:\/\/www.youtube.com\/channel\/UC_iKGbPPnGT7xVu9LISCPkA",
+                    "WebsiteTypeId":"7"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"525900938"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS636350418600000000\/lowres\/1101683.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Mani",
+            "LastName":"Bagga",
+            "CccMember":true,
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1477303\/mani-bagga-201-6043-andrews-way-sw-edmonton-alberta-t6w3s9",
+            "AgentPhotoLastUpdated":"2017-07-07 16:31:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS636350418600000000\/highres\/1101683.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        },
+        {
+            "IndividualID":2162313,
+            "Name":"Abhinandan Mahajan",
+            "Organization":{
+                "OrganizationID":294826,
+                "Name":"Royal Lepage Magna",
+                "Address":{
+                    "AddressText":"201-6043 Andrews Way SW|Edmonton, Alberta T6W3S9",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"818-2000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"525900839"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/294826\/royal-lepage-magna-201-6043-andrews-way-sw-edmonton-alberta-t6w3s9",
+                "PhotoLastupdate":"2023-07-15 7:36:52 AM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"708-0942",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"431-5624",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"https:\/\/www.facebook.com\/abhinandan.mahajan.33",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/abhinandan-mahajan-2296ab22\/",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"525900878"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637947148800000000\/lowres\/1413405.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Abhinandan",
+            "LastName":"Mahajan",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2162313\/abhinandan-mahajan-201-6043-andrews-way-sw-edmonton-alberta-t6w3s9",
+            "AgentPhotoLastUpdated":"2022-07-29 18:08:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637947148800000000\/highres\/1413405.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$244,901",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#201 8108 109 ST NW|Edmonton, Alberta T6G2V7",
+            "Longitude":"-113.512506515344",
+            "Latitude":"53.5174924330133",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249782183600000\/reb10\/highres\/0\/E4350140_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249782183600000\/reb10\/medres\/0\/E4350140_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249782183600000\/reb10\/lowres\/0\/E4350140_1.jpg",
+                "LastUpdated":"2023-07-15 12:36:58 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"244901"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"56.36 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6G2V7",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25836215\/201-8108-109-st-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-15 4:36:58 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25836215\/201-8108-109-st-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25836215\/201-8108-109-st-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638249926183530000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-15 11:52:24 AM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

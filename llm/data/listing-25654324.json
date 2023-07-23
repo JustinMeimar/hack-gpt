@@ -1,0 +1,145 @@
+{
+    "Id":"25654324",
+    "MlsNumber":"E4343226",
+    "PublicRemarks":"Super convenient location. Unit shows well and it has a great tenant. It has been upgraded over last few years. (29997550)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"46 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478288,
+            "Name":"Dobrila Joldzic",
+            "Organization":{
+                "OrganizationID":67062,
+                "Name":"Century 21 All Stars Realty Ltd",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638211622200000000\/lowres\/1004890.jpg",
+                "Address":{
+                    "AddressText":"312 Saddleback Rd|Edmonton, Alberta T6J4R7",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"434-4700",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"436-9902",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509253055"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67062\/century-21-all-stars-realty-ltd-312-saddleback-rd-edmonton-alberta-t6j4r7",
+                "PhotoLastupdate":"2023-05-31 8:37:00 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"907-9921",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"436-9902",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509119858"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Dobrila",
+            "LastName":"Joldzic",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478288\/dobrila-joldzic-312-saddleback-rd-edmonton-alberta-t6j4r7",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$128,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#1 10515 80 AV NW|Edmonton, Alberta T6E4C8",
+            "Longitude":"-113.5014032",
+            "Latitude":"53.5159257",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638211624978470000\/reb10\/highres\/6\/E4343226_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638211624978470000\/reb10\/medres\/6\/E4343226_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638211624978470000\/reb10\/lowres\/6\/E4343226_1.jpg",
+                "LastUpdated":"2023-05-31 8:41:37 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"128900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"69.12 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E4C8",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25654324\/1-10515-80-av-nw-edmonton-queen-alexandra",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-01 12:41:38 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25654324\/1-10515-80-av-nw-edmonton-queen-alexandra",
+    "RelativeURLFr":"\/immobilier\/25654324\/1-10515-80-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638211766204000000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

@@ -1,0 +1,155 @@
+{
+    "Id":"25781423",
+    "MlsNumber":"E4348021",
+    "PublicRemarks":"This executive style fully renovated 2-storey townhouse is located in the highly sought after historical neighborhood of Garneau and just steps to the U of A campus and hospital, Whyte Avenue and Downtown. The courtyard greets you with a serene outdoor patio enveloped in nature's ambience. Entering head up the stairs into a spacious living room, dining room providing ample entertaining space w\/ a two sided fireplace, 2 pc bath & large kitchen w\/ plenty of cupboard and pantry space, a coffee breakfast bar and high end appliances. The ground level is uniquely designed with large windows and storage, the 2 bdrms are situated apart with a family room and private walkout patio in the middle, laundry & boiler room, and 4 pc bath with double sinks. Underground heated parking stall w\/ bike racks, visitor stalls outback, and permitted street parking. This trendy central area is an excellent place to live with walkability to great restaurants, shopping, river valley, biking trails, cultural and social venues. (30129444)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"105.23 m2",
+        "StoriesTotal":"",
+        "Type":"Row \/ Townhouse"
+    },
+    "Individual":[
+        {
+            "IndividualID":2058776,
+            "Name":"Wesley B. Henderson",
+            "Organization":{
+                "OrganizationID":67062,
+                "Name":"Century 21 All Stars Realty Ltd",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638254894100000000\/lowres\/1004890.jpg",
+                "Address":{
+                    "AddressText":"312 Saddleback Rd|Edmonton, Alberta T6J4R7",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"434-4700",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"436-9902",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509253055"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67062\/century-21-all-stars-realty-ltd-312-saddleback-rd-edmonton-alberta-t6j4r7",
+                "PhotoLastupdate":"2023-07-20 10:36:50 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"434-4700",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"436-9902",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.century21.ca\/wes.henderson",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"511284679"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637913485200000000\/lowres\/1333895.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Wesley",
+            "LastName":"Henderson",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2058776\/wesley-henderson-312-saddleback-rd-edmonton-alberta-t6j4r7",
+            "AgentPhotoLastUpdated":"2022-06-20 19:02:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637913485200000000\/highres\/1333895.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"Wes-Henderson",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$311,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#14 11016 86 AV NW NW|Edmonton, Alberta T6G0W9",
+            "Longitude":"-113.516282868787",
+            "Latitude":"53.5220168040113",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638239927265770000\/reb10\/highres\/1\/E4348021_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638239927265770000\/reb10\/medres\/1\/E4348021_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638239927265770000\/reb10\/lowres\/1\/E4348021_1.jpg",
+                "LastUpdated":"2023-07-03 2:52:06 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"311900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"93.36 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6G0W9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25781423\/14-11016-86-av-nw-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-03 6:52:10 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25781423\/14-11016-86-av-nw-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25781423\/14-11016-86-av-nw-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638237830203770000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-13 2:40:49 AM",
+    "OpenHouseInsertDateUTC":"2023-07-21 2:40:36 AM",
+    "ListingTimeZone":"Mountain Standard Time",
+    "ListingBoundary":"America\/Edmonton",
+    "ListingGMT":"-07:00:00",
+    "HasPriceUpdate":null
+}

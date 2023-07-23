@@ -1,0 +1,156 @@
+{
+    "Id":"25778366",
+    "MlsNumber":"E4347875",
+    "PublicRemarks":"If you happen to be an investor looking for that PRIME location property and wanting to break into the rental business, or a first time home buyer looking for an affordable home in a wonderful family area, look no further than this wonderful opportunity in Queen Alexandra! Features of this one which is situated on a very quiet strip of houses on a beautiful tree lined street include such things as 4 good sized bedrooms (3 up and 1 down), a sun-soaked main floor living room, eating nook and kitchen, 2 bathrooms, a fully finished basement boasting a huge family room, a double detached garage, a fire-pit plus much more! As mentioned the location of this one is fantastic! Just steps from the University, the LRT, shops, restaurants, the river valley and all of the vibrancy that Whyte Avenue has to offer, this one is also close to schools, transportation and all other amenities. (30126241)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"4",
+        "SizeInterior":"87.07 m2",
+        "StoriesTotal":"1",
+        "Type":"House"
+    },
+    "Individual":[
+        {
+            "IndividualID":1477680,
+            "Name":"Jasen Courtepatte",
+            "Organization":{
+                "OrganizationID":67132,
+                "Name":"RE\/MAX Excellence",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638237326230000000\/lowres\/remax.gif",
+                "Address":{
+                    "AddressText":"201-5607 199 St NW|Edmonton, Alberta T6M0M8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"481-2950",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"481-1144",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520829235"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67132\/remax-excellence-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+                "PhotoLastupdate":"2023-06-30 2:37:03 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"481-2950",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"481-1144",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/calljtoday.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509116224"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Jasen",
+            "LastName":"Courtepatte",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1477680\/jasen-courtepatte-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$324,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"10722 74 AV NW|Edmonton, Alberta T6E1G6",
+            "Longitude":"-113.507475824537",
+            "Latitude":"53.5105717041483",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638237254370630000\/reb10\/highres\/5\/E4347875_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638237254370630000\/reb10\/medres\/5\/E4347875_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638237254370630000\/reb10\/lowres\/5\/E4347875_1.jpg",
+                "LastUpdated":"2023-06-30 12:37:17 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Detached Garage"
+            },
+            {
+                "Name":"Oversize"
+            }
+        ],
+        "ParkingSpaceTotal":"4",
+        "TypeId":"300",
+        "OwnershipType":"Freehold",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools",
+        "OwnershipTypeGroupIds":[
+            1
+        ],
+        "ParkingType":"Detached Garage, Oversize",
+        "PriceUnformattedValue":"324900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"404.74 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E1G6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25778366\/10722-74-av-nw-edmonton-queen-alexandra",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-30 4:37:17 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25778366\/10722-74-av-nw-edmonton-queen-alexandra",
+    "RelativeURLFr":"\/immobilier\/25778366\/10722-74-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638237398370570000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

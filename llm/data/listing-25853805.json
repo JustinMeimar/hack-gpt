@@ -1,0 +1,150 @@
+{
+    "Id":"25853805",
+    "MlsNumber":"E4350732",
+    "PublicRemarks":"Beautiful 2 bed & 2 bath Condo Overlooking the Majestic River Valley and Downtown.  One of the BEST VIEWS in the city,  This centrally located Condo is in PRISTINE condition, with newer flooring & countertops. Tons of natural light. The spacious living & dining room are perfect for entertaining. The large master bedroom has a 4 piece ensuite and two large closets. Beautiful French doors lead you into the 2nd bedroom, which could also be an office\/den. The stunning white kitchen completes this beautiful space. This condo has in-suite laundry, large balcony, heated underground parking & storage unit. Building has workout facility, games\/party\/social room & a very strong reserve fund & lots of visitor parking. A rare gem in the heart of the city!! Walking distance to the University, Hospital, and all amenities. (30204537)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"93.66 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1479543,
+            "Name":"Peddy P. Tsui",
+            "Organization":{
+                "OrganizationID":67062,
+                "Name":"Century 21 All Stars Realty Ltd",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638254894250000000\/lowres\/1004890.jpg",
+                "Address":{
+                    "AddressText":"312 Saddleback Rd|Edmonton, Alberta T6J4R7",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"434-4700",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"436-9902",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509253055"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67062\/century-21-all-stars-realty-ltd-312-saddleback-rd-edmonton-alberta-t6j4r7",
+                "PhotoLastupdate":"2023-07-20 10:37:05 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"434-4700",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"436-9902",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509136269"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Peddy",
+            "LastName":"Tsui",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1479543\/peddy-tsui-312-saddleback-rd-edmonton-alberta-t6j4r7",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$269,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#505 10545 SASKATCHEWAN DR NW|Edmonton, Alberta T6E6C6",
+            "Longitude":"-113.502928753967",
+            "Latitude":"53.5228628265446",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638254825389470000\/reb10\/highres\/2\/E4350732_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638254825389470000\/reb10\/medres\/2\/E4350732_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638254825389470000\/reb10\/lowres\/2\/E4350732_1.jpg",
+                "LastUpdated":"2023-07-20 8:42:18 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"269000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"53.07 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E6C6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25853805\/505-10545-saskatchewan-dr-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-21 12:42:19 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25853805\/505-10545-saskatchewan-dr-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25853805\/505-10545-saskatchewan-dr-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638254534211270000",
+    "TimeOnRealtor":"3 days ago",
+    "Tags":[
+        {
+            "Label":"3 days ago",
+            "HTMLColorCode":"#23A1C0",
+            "ListingTagTypeID":"1"
+        }
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

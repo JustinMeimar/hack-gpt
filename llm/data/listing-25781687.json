@@ -1,0 +1,170 @@
+{
+    "Id":"25781687",
+    "MlsNumber":"E4348049",
+    "PublicRemarks":"Welcome to this modern & innovative building in beautiful Belgravia! It features GEOTHERMAL heating and cooling with solar panels, ensuring that energy consumption and emissions are kept low all year round. The OPEN CONCEPT design & 9 ft ceilings create a bright & spacious atmosphere. The kitchen is equipped with ENERGY EFFICIENT appliances, QUARTZ countertops and elegant white cabinets. A convenient OFFICE area provides the perfect space for work and study. The primary bedroom is complete with a built-in wardrobe and large windows offering plenty of NATURAL LIGHT. Enjoy beautiful southern views from the large BALCONY, which is perfect for soaking up the sun. Additional features include in-suite laundry, bike storage, UNDERGROUND HEATED parking & LOW CONDO FEES making this unit perfect for any lifestyle. Located close to the LRT, UofA, River Valley, Belgravia dog park & Whyte Ave. (30129736)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"57.79 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Ceiling - 9ft"
+    },
+    "Individual":[
+        {
+            "IndividualID":2082288,
+            "Name":"Valerie Oudin",
+            "Organization":{
+                "OrganizationID":67074,
+                "Name":"MaxWell Challenge Realty",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638243302180000000\/lowres\/1004902.jpg",
+                "Address":{
+                    "AddressText":"201-6650 177 St NW|Edmonton, Alberta T5T4J5",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"483-4848",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"444-8017",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516832"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67074\/maxwell-challenge-realty-201-6650-177-st-nw-edmonton-alberta-t5t4j5",
+                "PhotoLastupdate":"2023-07-07 12:36:58 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"886-6069",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"444-8017",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"522191044"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS638126781000000000\/lowres\/1357114.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Valerie",
+            "LastName":"Oudin",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2082288\/valerie-oudin-201-6650-177-st-nw-edmonton-alberta-t5t4j5",
+            "AgentPhotoLastUpdated":"2023-02-22 15:55:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS638126781000000000\/highres\/1357114.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$324,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#410 11503 76 AV NW|Edmonton, Alberta T6G0K6",
+            "Longitude":"-113.52956167368",
+            "Latitude":"53.5120745034379",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638238046068470000\/reb10\/highres\/9\/E4348049_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638238046068470000\/reb10\/medres\/9\/E4348049_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638238046068470000\/reb10\/lowres\/9\/E4348049_1.jpg",
+                "LastUpdated":"2023-07-01 10:36:46 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Parkade"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Parkade, Underground",
+        "PriceUnformattedValue":"324900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":{
+        "BrochureLink":"https:\/\/4101150376avnw.maxwellsells.ca\/index.html?emailContext=11--146742--146742-E4336795--&trackingKeys=additionalProject%2ChtmlDesign",
+        "DetailsLink":"https:\/\/kouragephotography.gofullframe.com\/bt\/410_11503_76_Ave_NW.html"
+    },
+    "PostalCode":"T6G0K6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25781687\/410-11503-76-av-nw-edmonton-belgravia",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-01 2:36:46 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25781687\/410-11503-76-av-nw-edmonton-belgravia",
+    "RelativeURLFr":"\/immobilier\/25781687\/410-11503-76-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"1",
+            "MediaCategoryURL":"https:\/\/kouragephotography.gofullframe.com\/bt\/410_11503_76_Ave_NW.html",
+            "Description":"AlternateFeatureSheetWebsite",
+            "Order":1
+        },
+        {
+            "MediaCategoryId":"4",
+            "MediaCategoryURL":"https:\/\/4101150376avnw.maxwellsells.ca\/index.html?emailContext=11--146742--146742-E4336795--&trackingKeys=additionalProject%2ChtmlDesign",
+            "Description":"SalesBrochureWebsite",
+            "Order":3
+        }
+    ],
+    "InsertedDateUTC":"638238190068400000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-07 4:41:02 PM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

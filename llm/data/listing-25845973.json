@@ -1,0 +1,179 @@
+{
+    "Id":"25845973",
+    "MlsNumber":"E4350490",
+    "PublicRemarks":"Best Value found in this spacious 1464 square foot 18 plus 2 bedroom 2 bathroom condo FACING AN ISLAND PARK in a super quiet Belgravia location. Features include large windows, gas fire place, A\/C, in-floor heat, in-suite laundry, large front foyer, storage unit and titled parking stall in the heated underground parkade that includes a car wash area and bike storage. Enjoy the huge open concept living and dining rooms with enough space for an office and workout areas. The functional kitchen has plenty of storage and counter space and includes a large breakfast nook. The generous primary bedroom, with access to the balcony, has a large walk-in closet, 4-piece bathroom with a soaker tub and separate shower. Outdoor space includes a south facing balcony that spans the entire length of the property. Ideally located walking distance to Belgravia Hub, Mood Caf, Hospitals, University of Alberta, LRT and Edmonton's gorgeous River Valley and trail systems.  A must to consider! (30196463)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"136.08 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478479,
+            "Name":"Edward J. Lastiwka",
+            "Organization":{
+                "OrganizationID":67151,
+                "Name":"Royal LePage Noralta Real Estate",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638252878510000000\/lowres\/rl1.gif",
+                "Address":{
+                    "AddressText":"3018 Calgary Trail NW|Edmonton, Alberta T6J6V4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"431-5600",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"431-5624",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516346"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67151\/royal-lepage-noralta-real-estate-3018-calgary-trail-nw-edmonton-alberta-t6j6v4",
+                "PhotoLastupdate":"2023-07-18 2:37:31 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"446-3800",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"431-5624",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.edshomepage.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"511286264"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS0\/lowres\/1011896.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Edward",
+            "LastName":"Lastiwka",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478479\/edward-lastiwka-3018-calgary-trail-nw-edmonton-alberta-t6j6v4",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS0\/highres\/1011896.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$305,800",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#205 11660 79 AV NW|Edmonton, Alberta T6G0P7",
+            "Longitude":"-113.533336853967",
+            "Latitude":"53.5161016216785",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638252878513470000\/reb10\/highres\/0\/E4350490_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638252878513470000\/reb10\/medres\/0\/E4350490_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638252878513470000\/reb10\/lowres\/0\/E4350490_1.jpg",
+                "LastUpdated":"2023-07-18 2:37:31 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Playground, Public Transit, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Underground",
+        "PriceUnformattedValue":"305800"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"97.51 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/youriguide.com\/205_11660_79_ave_nw_edmonton_ab\/"
+    },
+    "PostalCode":"T6G0P7",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25845973\/205-11660-79-av-nw-edmonton-belgravia",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-18 6:37:31 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25845973\/205-11660-79-av-nw-edmonton-belgravia",
+    "RelativeURLFr":"\/immobilier\/25845973\/205-11660-79-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/205_11660_79_ave_nw_edmonton_ab\/",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"iGuide"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/205_11660_79_ave_nw_edmonton_ab\/\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/205_11660_79_ave_nw_edmonton_ab\/\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        }
+    ],
+    "InsertedDateUTC":"638253022513400000",
+    "TimeOnRealtor":"4 days ago",
+    "Tags":[
+        {
+            "Label":"4 days ago",
+            "HTMLColorCode":"#23A1C0",
+            "ListingTagTypeID":"1"
+        }
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

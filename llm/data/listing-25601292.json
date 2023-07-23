@@ -1,0 +1,149 @@
+{
+    "Id":"25601292",
+    "MlsNumber":"E4341141",
+    "PublicRemarks":"Prime location - just 5 blocks away from the University and a mere 1 block from vibrant Whyte Ave. This exceptional 3-bedroom, 2.5-bathroom townhouse is an absolute find. The flooring boasts a stylish combination of hardwood and tile, adding both charm and functionality to the space. Upstairs, the bedrooms, an additional full bathroom, and the convenience of a stacked washer\/dryer. The master bedroom is a true sanctuary with its walk-through closet and ensuite featuring a luxurious jacuzzi tub. The clever layout offers an excellent opportunity for those interested in renting out the two spare bedrooms, while still allowing for privacy of the master suite. On the main floor, an open living space welcomes you, complemented by expansive windows that fill the area with an abundance of natural light. The well-appointed kitchen features a practical breakfast bar, stainless steel appliances, and a convenient half bathroom. Conveniently located major bus stops  and the nearby LRT. (29942433)",
+    "Building":{
+        "BathroomTotal":"3",
+        "Bedrooms":"3",
+        "SizeInterior":"108.7 m2",
+        "StoriesTotal":"2",
+        "Type":"Row \/ Townhouse",
+        "Ammenities":"Ceiling - 9ft, Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":1989338,
+            "Name":"Tristan L. Mula",
+            "Organization":{
+                "OrganizationID":291037,
+                "Name":"Real Broker",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638240782020000000\/lowres\/1393430.jpg",
+                "Address":{
+                    "AddressText":"3400-10180 101 St NW|Edmonton, Alberta T5J3S4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"623-6900",
+                        "AreaCode":"855",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"515157112"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/291037\/real-broker-3400-10180-101-st-nw-edmonton-alberta-t5j3s4",
+                "PhotoLastupdate":"2023-07-04 2:36:42 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"566-0197",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.tristanmula.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/tristanmularealetstate\/",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/tristanmula\/",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"514331663"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Tristan",
+            "LastName":"Mula",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1989338\/tristan-mula-3400-10180-101-st-nw-edmonton-alberta-t5j3s4",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$337,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"10905 81 AV NW|Edmonton, Alberta T6G0S1",
+            "Longitude":"-113.5124287",
+            "Latitude":"53.5169633",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638199922112370000\/reb10\/highres\/1\/E4341141_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638199922112370000\/reb10\/medres\/1\/E4341141_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638199922112370000\/reb10\/lowres\/1\/E4341141_1.jpg",
+                "LastUpdated":"2023-05-18 7:36:51 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Attached Garage"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Attached Garage",
+        "PriceUnformattedValue":"337000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"106.59 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6G0S1",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25601292\/10905-81-av-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-05-18 11:36:51 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25601292\/10905-81-av-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25601292\/10905-81-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638200066112300000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-04 6:40:29 PM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

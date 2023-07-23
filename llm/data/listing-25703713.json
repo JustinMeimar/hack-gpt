@@ -1,0 +1,155 @@
+{
+    "Id":"25703713",
+    "MlsNumber":"E4345229",
+    "PublicRemarks":"Excellent one bedroom, top floor , end unit in the Strathcona area, close to Whyte Ave, U of A, river valley and with easy access to downtown, Ceramic tiled flooring at front ,kitchen and bathroom. Good size sunny living room with laminated floor and patio door to south and east facing Balcony. Open kitchen, maple cabinets. Spacious south facing bedroom with laminated floor, mirror closet with organizer and shelfs. Remodeled bathroom with stand up shower, IN suite laundry . Parking 405 with Single Carport, Condo fee including heat, water, Great property for students, first time buyers and investors, Close to all Amenities, Shows good! (30048942)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"55 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1479773,
+            "Name":"Michael Zisin",
+            "Organization":{
+                "OrganizationID":67151,
+                "Name":"Royal LePage Noralta Real Estate",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638221774670000000\/lowres\/rl1.gif",
+                "Address":{
+                    "AddressText":"3018 Calgary Trail NW|Edmonton, Alberta T6J6V4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"431-5600",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"431-5624",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516346"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67151\/royal-lepage-noralta-real-estate-3018-calgary-trail-nw-edmonton-alberta-t6j6v4",
+                "PhotoLastupdate":"2023-06-12 2:37:47 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"722-7696",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"431-5624",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/zisinrealestate.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509116313"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/lowres\/1011983.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Michael",
+            "LastName":"Zisin",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1479773\/michael-zisin-3018-calgary-trail-nw-edmonton-alberta-t6j6v4",
+            "AgentPhotoLastUpdated":"2022-04-26 14:06:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/highres\/1011983.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$117,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#405 9904 90 AV NW|Edmonton, Alberta T6E2T3",
+            "Longitude":"-113.4864512",
+            "Latitude":"53.5257893692423",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638221774675470000\/reb10\/highres\/9\/E4345229_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638221774675470000\/reb10\/medres\/9\/E4345229_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638221774675470000\/reb10\/lowres\/9\/E4345229_1.jpg",
+                "LastUpdated":"2023-06-12 2:37:47 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"117900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E2T3",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25703713\/405-9904-90-av-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-12 6:37:47 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25703713\/405-9904-90-av-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25703713\/405-9904-90-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638221918675330000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

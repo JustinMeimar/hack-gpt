@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import os
 
 # to use, import the get_listings function, adjust parameters if needed. Currently set to around the university area.
 # there are barely any Rentals on the site in Edmonton, so don't use that
@@ -100,7 +101,18 @@ def get_data_from_website(url, headers, payload):
         print(f"Error parsing JSON data: {e}")
         return None
 
-
-if __name__ == "__main__":
+def write_data_to_json(): 
+    
     listings_df = get_listings()
-    print(listings_df)
+    
+    data_path = os.path.join(os.path.dirname(__file__), 'data')
+    for index, row in listings_df.iterrows():
+
+        json_string = row.to_json(indent=4)
+        filename = f"{data_path}/listing-{listings_df.loc[index, 'Id']}.json"
+
+        if not os.path.exists(filename):
+            with open(filename, 'w') as file:
+                file.write(json_string)
+        else:
+            print("file already exists")

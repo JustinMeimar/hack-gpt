@@ -1,0 +1,173 @@
+{
+    "Id":"25716568",
+    "MlsNumber":"E4345642",
+    "PublicRemarks":"Top floor penthouse 2 bedroom\/2 bathroom condo with vaulted ceilings and 2 titled stalls with 2 storage cages awaits you in the heart of Strathcona just off Whyte Avenue.  Open concept living area with 2 large bedrooms, insuite laundry and amazing kitchen.  Private corner balcony with natural gas hook-up.  Great modern building close to ALL amenities. (30062210)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"83.2 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1479571,
+            "Name":"George W. Van De Walle",
+            "Organization":{
+                "OrganizationID":275822,
+                "Name":"RE\/MAX Professionals",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638223790190000000\/lowres\/1268551.jpg",
+                "Address":{
+                    "AddressText":"12 Hebert Rd|St Albert, Alberta T8N5T8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"458-8300",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"458-6619",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516356"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/275822\/remax-professionals-12-hebert-rd-st-albert-alberta-t8n5t8",
+                "PhotoLastupdate":"2023-06-14 10:36:59 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"982-4247",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"458-6619",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.georgevandewalle.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/twitter.com\/teamgvdw",
+                    "WebsiteTypeId":"4"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/teamgvdw\/",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/ca.linkedin.com\/in\/george-van-de-walle-6539b92",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509139779"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS636752016000000000\/lowres\/1099331.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"George",
+            "LastName":"Van De Walle",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1479571\/george-van-de-walle-12-hebert-rd-st-albert-alberta-t8n5t8",
+            "AgentPhotoLastUpdated":"2018-10-15 12:00:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS636752016000000000\/highres\/1099331.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$264,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#403 9908 84 AV NW|Edmonton, Alberta T6E2G3",
+            "Longitude":"-113.48661",
+            "Latitude":"53.5203337",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638223790199600000\/reb10\/highres\/2\/E4345642_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638223790199600000\/reb10\/medres\/2\/E4345642_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638223790199600000\/reb10\/lowres\/2\/E4345642_1.jpg",
+                "LastUpdated":"2023-06-14 10:36:59 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Indoor"
+            },
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Indoor, Heated Garage, Underground",
+        "PriceUnformattedValue":"264900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E2G3",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25716568\/403-9908-84-av-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-15 2:36:59 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25716568\/403-9908-84-av-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25716568\/403-9908-84-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638223934199570000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

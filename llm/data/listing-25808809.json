@@ -1,0 +1,174 @@
+{
+    "Id":"25808809",
+    "MlsNumber":"E4349046",
+    "PublicRemarks":"GREAT OPPORTUNITY to own in PROPERTIES ON WHYTE. WELL MANAGED CONCRETE HIGHRISE BUILDING, IN SUITE LAUNDRY, UNDERGROUND PARKING W\/STORAGE CAGE, 2 BEDROOMS, 1.5 BATH, 9TH FLOOR WITH AMAZING WEST FACING VIEWS & RIGHT NEXT DOOR TO THE U OF A CAMPUS. This unit provides 871 sqft of WELL LAID OUT living space including a large updated kitchen, dining area, spacious living room with GAS FIREPLACE, primary bedroom with WALK-IN CLOSET, FULL ENSUITE, a second bedroom, half bath and IN SUITE LAUNDRY with storage space. This unit has been FRESHLY PAINTED, NOW HAS FLAT STYLE CEILINGS, NEWER APPLIANCES and has been well cared for. With this location you dont even need a car as everything is within walking distance. Its not too often you get all of this for this price. (30157855)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"80.93 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1631189,
+            "Name":"Jeremiah H. Townsend",
+            "Organization":{
+                "OrganizationID":197941,
+                "Name":"MaxWell Progressive",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638249638080000000\/lowres\/1194244.jpg",
+                "Address":{
+                    "AddressText":"10630 124 St NW|Edmonton, Alberta T5N1S3",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"478-5478",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"457-5240",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"517563374"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/197941\/maxwell-progressive-10630-124-st-nw-edmonton-alberta-t5n1s3",
+                "PhotoLastupdate":"2023-07-14 8:36:48 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"995-9864",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"457-5240",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/jeremiahtownsend.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509130639"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637545274200000000\/lowres\/1162751.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Jeremiah",
+            "LastName":"Townsend",
+            "CccMember":true,
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1631189\/jeremiah-townsend-10630-124-st-nw-edmonton-alberta-t5n1s3",
+            "AgentPhotoLastUpdated":"2021-04-20 14:57:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637545274200000000\/highres\/1162751.jpg",
+            "RankMyAgentKey":"50024",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$349,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#902 11111 82 AV NW|Edmonton, Alberta T6G0T3",
+            "Longitude":"-113.518549502516",
+            "Latitude":"53.5180499833287",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638244094135170000\/reb10\/highres\/6\/E4349046_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638244094135170000\/reb10\/medres\/6\/E4349046_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638244094135170000\/reb10\/lowres\/6\/E4349046_1.jpg",
+                "LastUpdated":"2023-07-08 10:36:53 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"349000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"19.26 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/unbranded.youriguide.com\/902_11111_82_ave_nw_edmonton_ab\/"
+    },
+    "PostalCode":"T6G0T3",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25808809\/902-11111-82-av-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-08 2:36:53 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25808809\/902-11111-82-av-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25808809\/902-11111-82-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/unbranded.youriguide.com\/902_11111_82_ave_nw_edmonton_ab\/",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"iGuide"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/unbranded.youriguide.com\/902_11111_82_ave_nw_edmonton_ab\/\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/unbranded.youriguide.com\/902_11111_82_ave_nw_edmonton_ab\/\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        }
+    ],
+    "InsertedDateUTC":"638244238135100000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

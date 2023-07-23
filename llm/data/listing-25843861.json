@@ -1,0 +1,157 @@
+{
+    "Id":"25843861",
+    "MlsNumber":"E4350456",
+    "PublicRemarks":"Absolutely fantastic location which is close to river valley parks, Whyte Avenue, University of Alberta, downtown and the Kinsmen Sports Centre. There is a nice balcony with an excellent south view of the city. Each bedroom has its own 4 piece bathroom. It has many outstanding amenities which include a racquet ball court, table tennis, weight room and cardio machines. The Water's Edge is a super clean, well-managed and very secure building. (30194317)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"1",
+        "SizeInterior":"81 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478626,
+            "Name":"Rajeev Mahant",
+            "Organization":{
+                "OrganizationID":148581,
+                "Name":"All Time Real Estate Ltd",
+                "Address":{
+                    "AddressText":"3018 MacNeil Way|Edmonton, Alberta T6R3V1",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"478-8082",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"457-1238",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509236308"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/148581\/all-time-real-estate-ltd-3018-macneil-way-edmonton-alberta-t6r3v1",
+                "PhotoLastupdate":"2023-07-18 8:36:59 AM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"970-2585",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"457-1238",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.alltimehomes.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509113945"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS0\/lowres\/1131268.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Rajeev",
+            "LastName":"Mahant",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478626\/rajeev-mahant-3018-macneil-way-edmonton-alberta-t6r3v1",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS0\/highres\/1131268.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$189,700",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#608 10149 SASKATCHEWAN DR NW|Edmonton, Alberta T6E6B6",
+            "Longitude":"-113.493738217197",
+            "Latitude":"53.5236034653962",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638252662198530000\/reb10\/highres\/6\/E4350456_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638252662198530000\/reb10\/medres\/6\/E4350456_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638252662198530000\/reb10\/lowres\/6\/E4350456_1.jpg",
+                "LastUpdated":"2023-07-18 8:36:59 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Parkade"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Parkade",
+        "PriceUnformattedValue":"189700"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"39.16 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E6B6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25843861\/608-10149-saskatchewan-dr-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-18 12:36:59 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25843861\/608-10149-saskatchewan-dr-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25843861\/608-10149-saskatchewan-dr-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638252806198470000",
+    "TimeOnRealtor":"5 days ago",
+    "Tags":[
+        {
+            "Label":"5 days ago",
+            "HTMLColorCode":"#23A1C0",
+            "ListingTagTypeID":"1"
+        }
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

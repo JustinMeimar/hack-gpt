@@ -1,0 +1,158 @@
+{
+    "Id":"25654806",
+    "MlsNumber":"E4343246",
+    "PublicRemarks":"Welcome to the vibrant community of Ritchie! This 2-bedroom, 2-bathroom unit offers nearly 1000 square feet of stylish living space. Step inside and be greeted by the open concept layout, perfectly designed to maximize both functionality and comfort. The spacious living area seamlessly flows into the dining space, creating an ideal environment for entertaining guests. One of the highlights of this condo is the abundance of natural light that floods in through the huge windows, creating a bright and inviting atmosphere. Well-appointed kitchen features sleek countertops and ample storage space making meal preparation a breeze. The master bedroom is a true retreat, boasting a generous size and a private ensuite bathroom. The second bedroom is equally spacious and offers flexibility for a guest room or home office. Convenience is key, and this condo has you covered with covered parking. The location of this condo is simply unbeatable, especially for University of Alberta students. (29998052)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"87.63 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1875835,
+            "Name":"Ryan T. Gillen",
+            "Organization":{
+                "OrganizationID":289397,
+                "Name":"RE\/MAX River City",
+                "Address":{
+                    "AddressText":"13120 St Albert Trail NW|Edmonton, Alberta T5L4P6",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"457-3777",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"457-2194",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509110189"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/289397\/remax-river-city-13120-st-albert-trail-nw-edmonton-alberta-t5l4p6",
+                "PhotoLastupdate":"2023-07-06 4:36:31 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"700-8355",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"457-2194",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.ryangillen.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"511288511"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637812698400000000\/lowres\/1204240.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Ryan",
+            "LastName":"Gillen",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1875835\/ryan-gillen-13120-st-albert-trail-nw-edmonton-alberta-t5l4p6",
+            "AgentPhotoLastUpdated":"2022-02-24 03:24:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637812698400000000\/highres\/1204240.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$189,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#37 9914 80 AV NW|Edmonton, Alberta T6E6L6",
+            "Longitude":"-113.4869931",
+            "Latitude":"53.5162643069708",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638211766107200000\/reb10\/highres\/6\/E4343246_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638211766107200000\/reb10\/medres\/6\/E4343246_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638211766107200000\/reb10\/lowres\/6\/E4343246_1.jpg",
+                "LastUpdated":"2023-06-01 12:36:50 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Carport"
+            },
+            {
+                "Name":"Stall"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Carport, Stall",
+        "PriceUnformattedValue":"189000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"78.43 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E6L6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25654806\/37-9914-80-av-nw-edmonton-ritchie",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-01 4:36:50 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25654806\/37-9914-80-av-nw-edmonton-ritchie",
+    "RelativeURLFr":"\/immobilier\/25654806\/37-9914-80-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638211910107130000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-06 8:40:32 PM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

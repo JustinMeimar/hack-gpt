@@ -1,0 +1,155 @@
+{
+    "Id":"25759844",
+    "MlsNumber":"E4347212",
+    "PublicRemarks":"Welcome to this 1790 sq.ft. 3 Bedrooms 2 full Baths one of a kind condo located in the community of Strathcona, south central Edmonton. Conveniently located near downtown business district, University of Alberta, University Hospital, MacEwan University and Royal Alex Hospital, steps from river valley trails, and much more With top quality finishing and eco-friendly design, it was fully renovated top to bottom inside and out in 2021. During renovation, the project was meticulously coordinated by a professional engineer in every aspect of the project. A must to view and to appreciate all these additions and the energy efficiency features. 2 underground side by side parking stalls. A no age restriction and pet friendly building (board approval). Selling price included fridge, stove, dishwasher, washer, dryer, freezer, natural gas BBQ, window covering in bedrooms. Condo Fee is $.77\/sq.ft.\/month included all utilities, exterior maintenance, insurance, professional management and reserve fund contribution. (30107056)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"3",
+        "SizeInterior":"166.11 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478543,
+            "Name":"Tom Li",
+            "Organization":{
+                "OrganizationID":253559,
+                "Name":"Homes & Gardens Real Estate Limited",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638254534190000000\/lowres\/253559.jpg",
+                "Address":{
+                    "AddressText":"3659 99 St NW|Edmonton, Alberta T6E6K5",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"436-1162",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"436-6178",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516786"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/253559\/homes-gardens-real-estate-limited-3659-99-st-nw-edmonton-alberta-t6e6k5",
+                "PhotoLastupdate":"2023-07-20 12:36:59 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"970-2288",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"436-6178",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.tomli.ca\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"511280969"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS0\/lowres\/1010246.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Tom",
+            "LastName":"Li",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478543\/tom-li-3659-99-st-nw-edmonton-alberta-t6e6k5",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS0\/highres\/1010246.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$349,500",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#305 9131 99 ST NW NW|Edmonton, Alberta T6E3V9",
+            "Longitude":"-113.4856021",
+            "Latitude":"53.5269904",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638233798277170000\/reb10\/highres\/2\/E4347212_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638233798277170000\/reb10\/medres\/2\/E4347212_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638233798277170000\/reb10\/lowres\/2\/E4347212_1.jpg",
+                "LastUpdated":"2023-06-26 12:37:07 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"2",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Public Transit",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"349500"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"120.71 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E3V9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25759844\/305-9131-99-st-nw-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-26 4:37:07 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25759844\/305-9131-99-st-nw-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25759844\/305-9131-99-st-nw-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638233942277100000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-20 4:40:59 PM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

@@ -1,0 +1,150 @@
+{
+    "Id":"25615883",
+    "MlsNumber":"E4341898",
+    "PublicRemarks":"Garneau Mews is a cozy, charming townhouse complex is located less than a block from the UofA hospital & just off campus with mature landscaping creating extra privacy. Within 1-5 blocks are: Whyte Ave & the heart of Strathcona; an LRT Station; groceries; banks; restaurants; & the river valley trail system. This 1,150 sq ft, 2 level unit offers: 2 spacious bedrooms upstairs; 1.5 bathrooms; a kitchen with newer white cabinets + a pass through opening to the dining room & raised living room. Off the living room is a glass atrium (being replaced next year approx at seller's expense) opening to a patio & treed area; newer vinyl plank flooring throughout main floor; a 3-sided wood burning fireplace; high vaulted ceilings; 1 underground heated parking stall; visitor parking out back; & more! The complex has replaced windows & shingles in the last 10 years with more upgrades including new atriums ongoing. Condo Fee includes heat, water, sewage & garbage which explains the higher amount; (29957781)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"115.86 m2",
+        "StoriesTotal":"2",
+        "Type":"Row \/ Townhouse"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478573,
+            "Name":"Steve Lount",
+            "Organization":{
+                "OrganizationID":67062,
+                "Name":"Century 21 All Stars Realty Ltd",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638253957870000000\/lowres\/1004890.jpg",
+                "Address":{
+                    "AddressText":"312 Saddleback Rd|Edmonton, Alberta T6J4R7",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"434-4700",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"436-9902",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509253055"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67062\/century-21-all-stars-realty-ltd-312-saddleback-rd-edmonton-alberta-t6j4r7",
+                "PhotoLastupdate":"2023-07-19 8:36:27 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"719-2693",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"436-9902",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509119870"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Steve",
+            "LastName":"Lount",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478573\/steve-lount-312-saddleback-rd-edmonton-alberta-t6j4r7",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$299,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"11176 83 AV NW|Edmonton, Alberta T6G0V1",
+            "Longitude":"-113.519018206221",
+            "Latitude":"53.5192828406064",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638204353115430000\/reb10\/highres\/8\/E4341898_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638204353115430000\/reb10\/medres\/8\/E4341898_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638204353115430000\/reb10\/lowres\/8\/E4341898_1.jpg",
+                "LastUpdated":"2023-05-23 10:41:51 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Underground",
+        "PriceUnformattedValue":"299900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6G0V1",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25615883\/11176-83-av-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-05-23 2:42:11 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25615883\/11176-83-av-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25615883\/11176-83-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638204494060170000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-06-16 10:41:45 PM",
+    "OpenHouseInsertDateUTC":"2023-06-25 2:40:50 AM",
+    "ListingTimeZone":"Mountain Standard Time",
+    "ListingBoundary":"America\/Edmonton",
+    "ListingGMT":"-07:00:00",
+    "HasPriceUpdate":null
+}

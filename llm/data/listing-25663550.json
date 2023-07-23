@@ -1,0 +1,160 @@
+{
+    "Id":"25663550",
+    "MlsNumber":"E4343635",
+    "PublicRemarks":"Welcome to your new home in the heart of Garneau! TOP FLOOR CORNER UNIT! COMPLETELY RENOVATED! This low-rise top-floor end unit is the perfect place to call home. With its south exposure, you'll enjoy natural light all day long. This larger  unit boasts 2 large bedrooms and 1.5 baths, Upgraded kitchen featuring new stainless steel appliances, countertops, tile backsplash, fair amount of cabinetry featuring wood cabinets, soft close and deep pot drawers! Renovated washrooms with deep soaker tub & In suite washer & dryer! Excellent unit providing ample space for you and your loved ones. Step out onto your balcony and enjoy the views, or head on down to one of the local restaurants just off of Whyte Ave! Enjoy the river valley system just minutes away. Comes with COVERED PARKING STALL! Condo fees include heat & water. Backing Park and mins to the University of Alberta! (30007185)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"77.37 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1661715,
+            "Name":"Chris K. Karampelas",
+            "Organization":{
+                "OrganizationID":67122,
+                "Name":"MaxWell Polaris",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638213062390000000\/lowres\/1004964.jpg",
+                "Address":{
+                    "AddressText":"4107 99 St NW|Edmonton, Alberta T6E3N4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"450-6300",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"450-6670",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516316"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67122\/maxwell-polaris-4107-99-st-nw-edmonton-alberta-t6e3n4",
+                "PhotoLastupdate":"2023-06-02 12:37:19 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"937-7653",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"450-6670",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/forsaleyeg.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/search\/top\/?q=chris karampelas",
+                    "WebsiteTypeId":"2"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"513570951"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637322493000000000\/lowres\/1168048.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Chris",
+            "LastName":"Karampelas",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1661715\/chris-karampelas-4107-99-st-nw-edmonton-alberta-t6e3n4",
+            "AgentPhotoLastUpdated":"2020-08-05 18:35:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637322493000000000\/highres\/1168048.jpg",
+            "RankMyAgentKey":"60821",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$249,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#401 10732 86 AV NW|Edmonton, Alberta T6E2M9",
+            "Longitude":"-113.507776484656",
+            "Latitude":"53.5222352273005",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638231749063330000\/reb10\/highres\/5\/E4343635_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638231749063330000\/reb10\/medres\/5\/E4343635_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638231749063330000\/reb10\/lowres\/5\/E4343635_1.jpg",
+                "LastUpdated":"2023-06-24 3:41:46 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Carport"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Park, Golf Course, Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Carport",
+        "PriceUnformattedValue":"249900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"70.89 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E2M9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25663550\/401-10732-86-av-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-24 7:41:50 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25663550\/401-10732-86-av-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25663550\/401-10732-86-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638213206399200000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

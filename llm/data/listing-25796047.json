@@ -1,0 +1,164 @@
+{
+    "Id":"25796047",
+    "MlsNumber":"E4348545",
+    "PublicRemarks":"MILLION DOLLAR VIEWS! OPEN 970 SQFT unit is on the 18th floor & has EXPANSIVE PANORAMIC VIEWS OF DOWNTOWN EDMONTON & THE RIVER VALLEY. Even better, is the amazing access for running, walking & biking the river valley. Steps to Whyte Avenue for entertainment, shopping, the ICONIC farmers market and more. Easy walk to the University of Alberta Campus. RENOVATED EVERYTHING! Modern Kitchen with SS Appliances including an Induction Stove, Newer Kitchen Cabinets, & Granite Counter Tops. Features a Superb Master Suite, 2nd large bedroom PLUS 2 FULL BATHS! Tons of storage and laundry is just next door plus 2 assigned parking stalls. Enjoy the Recreation facilities with racquet courts, tennis court & basketball court. This is urban city living at it's finest. Don't miss out on this amazing opportunity to own this beautiful urban condo! (30144592)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"90.12 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478624,
+            "Name":"Lorraine M. Mah",
+            "Organization":{
+                "OrganizationID":273975,
+                "Name":"RE\/MAX River City",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638251942070000000\/lowres\/1253428.jpg",
+                "Address":{
+                    "AddressText":"2852 Calgary Tr NW|Edmonton, Alberta T6J6V7",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"485-5005",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"432-6513",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509231089"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/273975\/remax-river-city-2852-calgary-tr-nw-edmonton-alberta-t6j6v7",
+                "PhotoLastupdate":"2023-07-17 12:36:47 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"905-1179",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"432-6513",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/lorrainemah.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/lorraine.e.mah",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/lorraineedmontonmah\/",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"522823207"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787000000000\/lowres\/1010245.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Lorraine",
+            "LastName":"Mah",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478624\/lorraine-mah-2852-calgary-tr-nw-edmonton-alberta-t6j6v7",
+            "AgentPhotoLastUpdated":"2022-04-26 14:05:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787000000000\/highres\/1010245.jpg",
+            "RankMyAgentKey":"22573",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$309,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#1805 10149 SASKATCHEWAN DR NW|Edmonton, Alberta T6E6B6",
+            "Longitude":"-113.493491453967",
+            "Latitude":"53.5239287524854",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638242476547200000\/reb10\/highres\/5\/E4348545_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638242476547200000\/reb10\/medres\/5\/E4348545_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638242476547200000\/reb10\/lowres\/5\/E4348545_1.jpg",
+                "LastUpdated":"2023-07-06 1:40:54 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "ParkingSpaceTotal":"2",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"309900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"45.84 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E6B6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25796047\/1805-10149-saskatchewan-dr-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-06 5:40:57 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25796047\/1805-10149-saskatchewan-dr-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25796047\/1805-10149-saskatchewan-dr-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638241934185730000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-17 4:40:58 PM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

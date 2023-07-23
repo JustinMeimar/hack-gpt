@@ -1,0 +1,190 @@
+{
+    "Id":"25836051",
+    "MlsNumber":"E4350135",
+    "PublicRemarks":"Welcome to Scona Gardens in the sought-after Ritchie neighborhood! This remarkable top-floor apartment offers an unparalleled living experience with its soaring 13-foot ceilings, unobstructed views, open concept kitchen, quartz throughout, and meticulously cared for! Located just steps away from the vibrant Whyte Avenue, you'll enjoy a bustling atmosphere filled with trendy shops, restaurants, and entertainment options. Nature enthusiasts will love the close proximity to the picturesque Millcreek Ravine, perfect for serene walks and outdoor activities. With the University of Alberta and downtown within easy reach, this location is a dream for students and professionals alike. The apartment includes two side-by-side titled parking stalls with secure storage rooms, ensuring convenience and peace of mind. This well maintained building features secure underground visitor parking, and main floor gym. Don't miss out on this exceptional opportunity to enjoy the ultimate urban lifestyle in the heart of Edmonton! (30186186)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"86.17 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":2134860,
+            "Name":"Moe Yassine",
+            "Organization":{
+                "OrganizationID":67074,
+                "Name":"MaxWell Challenge Realty",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638252014340000000\/lowres\/1004902.jpg",
+                "Address":{
+                    "AddressText":"201-6650 177 St NW|Edmonton, Alberta T5T4J5",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"483-4848",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"444-8017",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516832"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67074\/maxwell-challenge-realty-201-6650-177-st-nw-edmonton-alberta-t5t4j5",
+                "PhotoLastupdate":"2023-07-17 2:37:14 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"999-1195",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"444-8017",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"https:\/\/www.moeyassine.ca\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/moeyassine.ca",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/yassinemoe\/",
+                    "WebsiteTypeId":"3"
+                },
+                {
+                    "Website":"https:\/\/www.instagram.com\/moeyassine.ca\/",
+                    "WebsiteTypeId":"5"
+                },
+                {
+                    "Website":"https:\/\/www.youtube.com\/@moeyassinemaxwellchallenge3184",
+                    "WebsiteTypeId":"7"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"520781182"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637701706800000000\/lowres\/1387263.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Moe",
+            "LastName":"Yassine",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2134860\/moe-yassine-201-6650-177-st-nw-edmonton-alberta-t5t4j5",
+            "AgentPhotoLastUpdated":"2021-10-18 16:18:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637701706800000000\/highres\/1387263.jpg",
+            "RankMyAgentKey":"79027",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$265,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#448 10121 80 AV NW|Edmonton, Alberta T6E0B9",
+            "Longitude":"-113.492510318524",
+            "Latitude":"53.5154718917167",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249710184970000\/reb10\/highres\/5\/E4350135_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249710184970000\/reb10\/medres\/5\/E4350135_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249710184970000\/reb10\/lowres\/5\/E4350135_1.jpg",
+                "LastUpdated":"2023-07-14 10:36:58 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Parkade"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"2",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Parkade, Underground",
+        "PriceUnformattedValue":"265000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"4.12 m2"
+    },
+    "AlternateURL":{
+        "MapLink":"https:\/\/goo.gl\/maps\/vP1VgL1dQFvfRQZbA",
+        "VideoLink":"https:\/\/youtu.be\/T2RDtfeIphA"
+    },
+    "PostalCode":"T6E0B9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25836051\/448-10121-80-av-nw-edmonton-ritchie",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-15 2:36:58 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25836051\/448-10121-80-av-nw-edmonton-ritchie",
+    "RelativeURLFr":"\/immobilier\/25836051\/448-10121-80-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/youtu.be\/T2RDtfeIphA",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"Youtube"
+        },
+        {
+            "MediaCategoryId":"7",
+            "MediaCategoryURL":"https:\/\/goo.gl\/maps\/vP1VgL1dQFvfRQZbA",
+            "Description":"MapWebsite",
+            "Order":6
+        }
+    ],
+    "InsertedDateUTC":"638249854184900000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

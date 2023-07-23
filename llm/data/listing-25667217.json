@@ -1,0 +1,140 @@
+{
+    "Id":"25667217",
+    "MlsNumber":"E4343788",
+    "PublicRemarks":"AMAZING LOCATION with incredible walkability score! Only steps away from Whyte Avenue.  2 blocks from the River valley. Walking distance to the University of Alberta, The Farmers market,  and some of the most popular Pubs and restaurants in Edmonton. This condo is perfect for someone who wants to live in the heart of the city and not drive to get there. This Renovated unit features Cozy, relaxing colours, Durable laminate flooring, Newer counter tops, laundry in suite, A storage locker and 1 assigned parking spot. The low Condo fees include utilities heat & water , snow removal, and Exterior maintenance. Entire Building was renovated in 2007 including the common areas. Don't miss out on this fantastic property at this great price in the heart of the city. (30011005)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"52.75 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":2190499,
+            "Name":"Jordan Hunt",
+            "Organization":{
+                "OrganizationID":67130,
+                "Name":"RE\/MAX River City",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638217598150000000\/lowres\/1004972.jpg",
+                "Address":{
+                    "AddressText":"100-10328 81 Ave NW|Edmonton, Alberta T6E1X2",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"439-7000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"439-7248",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516328"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67130\/remax-river-city-100-10328-81-ave-nw-edmonton-alberta-t6e1x2",
+                "PhotoLastupdate":"2023-06-07 6:36:55 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"297-8394",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"519641141"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Jordan",
+            "LastName":"Hunt",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2190499\/jordan-hunt-100-10328-81-ave-nw-edmonton-alberta-t6e1x2",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$133,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#103 10160 83 AV NW|Edmonton, Alberta T6E2C4",
+            "Longitude":"-113.493802208004",
+            "Latitude":"53.5193978316477",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638240214839600000\/reb10\/highres\/8\/E4343788_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638240214839600000\/reb10\/medres\/8\/E4343788_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638240214839600000\/reb10\/lowres\/8\/E4343788_1.jpg",
+                "LastUpdated":"2023-07-03 10:51:23 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"133000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E2C4",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25667217\/103-10160-83-av-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-04 2:51:33 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25667217\/103-10160-83-av-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25667217\/103-10160-83-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638213494277630000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

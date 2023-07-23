@@ -1,0 +1,167 @@
+{
+    "Id":"25735078",
+    "MlsNumber":"E4346351",
+    "PublicRemarks":"MILLION DOLLAR VIEW! One of the best views City has to offer! This 17th floor Renovated 2 bdrm has panoramic views of entire River Valley & Downtown! Immediate access to RIVER VALLEY trails; bike, run, attend local festivals, enjoy all shopping\/venues Whyte Avenue & Strathcona Farmers Mkt from this location. Enjoy wide open concept with a functional modern kitchen. Cabinets & trim done in rich cherry wood, island eating bar, newer appliances, Brazilian hardwood & granite countertops. Primary bedroom incl large walk-in closet; 2nd bedroom can be den\/office. Bathroom includes large, ceramic tile walk-in shower. Cranleigh Towers is pet friendly, has Onsite Manager & maintains a GYM, SAUNA & SALT WATER POOL. Bldg replaced all windows, balconies & elevator. Also includes huge Storage Rm, In-suite Laundry & THREE TITLED Underground Parking Stalls, (two stalls conveniently side by side). *Only other listing actively on market in this area offering 3 titled stalls\/concrete bldg is currently listed at 4.5M! (30081429)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"2",
+        "SizeInterior":"94.7 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478559,
+            "Name":"Kirsty M. Lloyd",
+            "Organization":{
+                "OrganizationID":283363,
+                "Name":"Exp Realty",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638234014300000000\/lowres\/1336702.jpg",
+                "Address":{
+                    "AddressText":"1400-10665 Jasper Ave NW|Edmonton, Alberta T5J3S9",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"262-7653",
+                        "AreaCode":"403",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509394759"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/283363\/exp-realty-1400-10665-jasper-ave-nw-edmonton-alberta-t5j3s9",
+                "PhotoLastupdate":"2023-06-26 6:37:10 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"233-9933",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.kirstylloyd.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/KirstyLloydRealtor",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.instagram.com\/kirsty_m_lloyd\/",
+                    "WebsiteTypeId":"5"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"523677628"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS638227036800000000\/lowres\/1098102.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Kirsty",
+            "LastName":"Lloyd",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478559\/kirsty-lloyd-1400-10665-jasper-ave-nw-edmonton-alberta-t5j3s9",
+            "AgentPhotoLastUpdated":"2023-06-18 16:48:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS638227036800000000\/highres\/1098102.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$299,500",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#1705 10135 SASKATCHEWAN DR NW NW|Edmonton, Alberta T6E4Y9",
+            "Longitude":"-113.492894764418",
+            "Latitude":"53.5241262781245",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638228196818530000\/reb10\/highres\/1\/E4346351_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638228196818530000\/reb10\/medres\/1\/E4346351_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638228196818530000\/reb10\/lowres\/1\/E4346351_1.jpg",
+                "LastUpdated":"2023-06-20 1:01:21 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Underground"
+            },
+            {
+                "Name":"See Remarks"
+            }
+        ],
+        "ParkingSpaceTotal":"3",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Underground, See Remarks",
+        "PriceUnformattedValue":"299500"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/my.matterport.com\/show\/?m=y6PA89BLiTU"
+    },
+    "PostalCode":"T6E4Y9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25735078\/1705-10135-saskatchewan-dr-nw-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-20 5:01:28 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25735078\/1705-10135-saskatchewan-dr-nw-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25735078\/1705-10135-saskatchewan-dr-nw-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/my.matterport.com\/show\/?m=y6PA89BLiTU",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"Matterport"
+        }
+    ],
+    "InsertedDateUTC":"638228326238100000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

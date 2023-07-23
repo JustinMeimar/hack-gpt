@@ -1,0 +1,236 @@
+{
+    "Id":"25724437",
+    "MlsNumber":"E4345916",
+    "PublicRemarks":"Look no further- WHY PAY RENT? Here's an amazing opportunity to buy and live on the U of A CAMPUS ! This lovely 7th Fl unit in a concrete High Rise, is large, bright, has HARDWOOD FLOORS, and has underground heated. You can count the steps to Campus, U of A Hospital, Restaurants, Coffee shops and amazing River Valley Trails right out your door. This unit offers a QUICK POSSESSION, includes HARDWOOD\/TILE floors, large ceiling to floor windows, and In suite Laundry. You'll appreciate the nice size kitchen that includes a corner coffee\/beverage station, an expansive Dinette\/Living Rm and plenty of space for a home office, Yoga Sanctuary or even a Murphy bed if needed - ALL WITH A VIEW. The Master Bedroom is very spacious, can accommodate King size furniture plus a work station and has plenty of closet space. ENJOY morning Sunrises and Breakfast from your large East facing balcony offering stunning views of the Downtown Skyline and even has a storage room. MOVE RIGHT IN! (30070353)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"80.9 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1687417,
+            "Name":"Mirella A. Esposito",
+            "Organization":{
+                "OrganizationID":283119,
+                "Name":"Century 21 Masters",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638244453970000000\/lowres\/1324965.jpg",
+                "Address":{
+                    "AddressText":"201-10555 172 St NW|Edmonton, Alberta T5S1P1",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"483-2122",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"488-0966",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"513772722"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/283119\/century-21-masters-201-10555-172-st-nw-edmonton-alberta-t5s1p1",
+                "PhotoLastupdate":"2023-07-08 8:36:37 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"919-6680",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"488-0966",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.espo.ca\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509126636"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS638048385000000000\/lowres\/1173935.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Mirella",
+            "LastName":"Esposito",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1687417\/mirella-esposito-201-10555-172-st-nw-edmonton-alberta-t5s1p1",
+            "AgentPhotoLastUpdated":"2022-11-23 22:15:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS638048385000000000\/highres\/1173935.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        },
+        {
+            "IndividualID":1852947,
+            "Name":"Joe D. Esposito",
+            "Organization":{
+                "OrganizationID":283119,
+                "Name":"Century 21 Masters",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638244453970000000\/lowres\/1324965.jpg",
+                "Address":{
+                    "AddressText":"201-10555 172 St NW|Edmonton, Alberta T5S1P1",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"483-2122",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"488-0966",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"513772722"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/283119\/century-21-masters-201-10555-172-st-nw-edmonton-alberta-t5s1p1",
+                "PhotoLastupdate":"2023-07-08 8:36:37 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"819-6680",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"488-0966",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.espo.ca\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509128199"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS638048380800000000\/lowres\/1199345.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Joe",
+            "LastName":"Esposito",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1852947\/joe-esposito-201-10555-172-st-nw-edmonton-alberta-t5s1p1",
+            "AgentPhotoLastUpdated":"2022-11-23 22:08:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS638048380800000000\/highres\/1199345.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$265,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#704 11027 87 AV NW|Edmonton, Alberta T6G2P9",
+            "Longitude":"-113.5163319",
+            "Latitude":"53.5226525783464",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638241918908830000\/reb10\/highres\/6\/E4345916_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638241918908830000\/reb10\/medres\/6\/E4345916_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638241918908830000\/reb10\/lowres\/6\/E4345916_1.jpg",
+                "LastUpdated":"2023-07-05 10:11:30 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Underground",
+        "PriceUnformattedValue":"265000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"29.74 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6G2P9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25724437\/704-11027-87-av-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-06 2:11:37 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25724437\/704-11027-87-av-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25724437\/704-11027-87-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638225302482970000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-09 12:40:46 AM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

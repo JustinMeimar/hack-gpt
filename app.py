@@ -52,10 +52,8 @@ def handle_prompt():
     dictionary['text-response'] = 'testing'
     return jsonify(dictionary)
 
-
 @app.route('/')
 def index():
-
     return send_from_directory(app.static_folder, 'index.html')
 
 if __name__ == "__main__":

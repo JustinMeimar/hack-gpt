@@ -7,15 +7,16 @@ const containerStyle = {
 };
 
 const center = {
-  lat: -3.745,
-  lng: -38.523
+  lat: 53.5232,
+  lng: -113.5263
 };
+
 
 const AreaMap = () => {
   const [hide, setHide] = useState(false);
 
   return (
-    <LoadScript googleMapsApiKey="">
+    <LoadScript googleMapsApiKey="AIzaSyDD1wlIcP_JPUmCc-F5y6fTM8ts2PSSud8">
       <GoogleMap
         mapContainerStyle={containerStyle}
         center={center}

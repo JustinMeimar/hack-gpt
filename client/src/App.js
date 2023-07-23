@@ -22,6 +22,7 @@ const parse_json = (json) => {
         PropertyAddress: json?.Property?.Address?.AddressText || '',
         PropertyURL: json.RelativeDetailsURL || '',
         MedResPhotoURL: json?.Property?.Photo?.[0]?.MedResPath || ''
+
     };
 }
 

@@ -268,10 +268,16 @@ const TextInput = ({ updateChatResponse, renderQueryBlocks }) => {
     console.log("FORM VALUES PASSED? ", formValues);
 
     const handleSubmit = async () => {
-        const response = await sendPrompt(); //process the prompt
-        if (response) {
-            updateChatResponse(response); 
-            renderQueryBlocks(mockResponse);
+        const response_data = await sendPrompt(); //process the prompt
+        if (response_data) {
+
+            const text_response = response_data["text-response"];
+
+            console.log("RECIEVED RESPONSE", response_data)
+            console.log("TEXT RESPONSE", text_response);
+
+            updateChatResponse(text_response); 
+            renderQueryBlocks(response_data);
             setInputValue(''); 
         } else {
             console.log(mockResponse);
@@ -286,7 +292,8 @@ const TextInput = ({ updateChatResponse, renderQueryBlocks }) => {
                 prompt: inputValue,
                 formValues: formValues 
             });
-            const data = response.data.response
+            const data = response.data
+            console.log("Receieved Response!", data);
             return data
         } catch (error) {
             console.error('Error sending prompt:', error);

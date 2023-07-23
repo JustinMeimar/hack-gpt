@@ -33,6 +33,13 @@ def run_in_background():
     print("=== Call init everything")
     # init_everything()
 
+import json
+
+def load_data(filename):
+    """Loads JSON data from the specified file."""
+    with open(filename, 'r') as f:
+        return json.load(f)
+
 @app.route('/api/prompt', methods=['POST'])
 def handle_prompt():
     
@@ -41,15 +48,16 @@ def handle_prompt():
     form_values = data.get('formValues', '')
     
     print("Form Values", form_values)
-
-    # description = description_chain.run(prompt_text)
-
-    from llm.justin_embeddings import get_mock_listings 
-    listing_1, listing_2, listing_3 = get_mock_listings()
-
-    response_text = f"LLM processed output:"
- 
-    return jsonify({
+    print("Promp Text", prompt_text)
+    
+    listing_1 = load_data('./llm/data/listing-25577762.json') 
+    listing_2 = load_data('./llm/data/listing-25609201.json')
+    listing_3 = load_data('./llm/data/listing-25626545.json')
+    
+    response_text = "Here is some home we think you may be interested in"
+    
+    response_data = jsonify(
+        {
         "text-response": response_text,
         "top-listings": {
             "listing-1": listing_1,
@@ -57,6 +65,10 @@ def handle_prompt():
             "listing-3": listing_3
         }     
     })
+
+    print(response_data)
+
+    return response_data
 
 @app.route('/')
 def index():

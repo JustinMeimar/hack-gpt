@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import '../css/QueryBlock.css';
 
-const QueryBlock = ({ title, price, date, moreInfo, imageUrls }) => {
+const QueryBlock = ({ listing_json }) => {
 
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
@@ -21,10 +21,17 @@ const QueryBlock = ({ title, price, date, moreInfo, imageUrls }) => {
             setCurrentImageIndex(currentImageIndex - 1);
         }
     }
-  
+   
+    const id = listing_json.Id;
+    const title = null; 
+    const price = null;
+    const date = null;
+    const moreInfo = null;
+    const imageUrls = null;
+
     return (
         <div className="query-block-container" onClick={ () => { 
-            navigate(title, price, date, moreInfo, imageUrls) 
+            navigate('/listings/')
         }}>
             <div className="query-block-title"> {title}  </div>
             <div className="query-content-wrapper">

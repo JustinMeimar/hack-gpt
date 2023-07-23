@@ -30,7 +30,7 @@ function SlidingForm() {
     }),
     onSubmit: values => {
       console.log('Form values:', values);
-      navigate('/chat');
+      navigate('/chat', { state: { formValues: values } });
     },
   });
    return (
@@ -89,7 +89,7 @@ function SlidingForm() {
         </label>
 
         <button type="submit">Submit</button>
-        
+        <button type="reset" onClick={() => {navigate('/chat')}}> skip</button> 
       </animated.div>
     </form>
   );

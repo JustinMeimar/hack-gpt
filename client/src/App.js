@@ -26,12 +26,7 @@ function App() {
         console.log("renderQueryBlocks:", response);
         const newBlocks = Object.values(response).map((property) => 
             <QueryBlock 
-                key={property.title} 
-                title={property.title}
-                price={property.price}
-                date={property.date}
-                moreinfo={property.moreinfo}
-                imageUrls={property.imageUrls}
+                listing_json={property.listing_json} 
             />
         );
 
@@ -68,7 +63,8 @@ function App() {
                             <TextInput updateChatResponse={updateChatResponse} renderQueryBlocks={renderQueryBlocks} />
                         </>
                     } />
-                    <Route path="/chat/:title" element={<ListingDetails />} />
+                    
+                    <Route path="/listing/1" element={<ListingDetails title="testing tile"/>} />
                 </Routes>
 
                 {/* <Footer /> */}

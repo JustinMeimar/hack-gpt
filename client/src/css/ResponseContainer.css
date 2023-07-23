@@ -8,7 +8,6 @@
 .responses-container {
     width: 90%;
     margin-bottom: 20px;
-    height: 550px;
     max-height: 550px;  /* Adjust this to your preferred height */
     overflow-y: auto;  /* This will show the scrollbar when the content exceeds the max-height */
 }

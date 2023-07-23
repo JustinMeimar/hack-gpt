@@ -1,0 +1,66 @@
+.query-block-container {
+    background-color: rgb(241, 241, 241);
+    border-radius: 10px; /* rounded edges */
+    padding: 15px;
+    margin-bottom: 15px; /* space between those below it */
+    transition: transform 0.3s ease-in-out; /* transition for hover effect */
+    height: 400px; /* fixed height */
+    width: 90%; /* span the width of its parent */
+    box-sizing: border-box; /* include padding and border in width/height calculation */
+    overflow: hidden; /* ensures that the image or other contents don't overflow */
+    margin-left: 60px;
+}
+
+.query-block-container:hover {
+    transform: scale(1.05); /* enlarge the component on hover */
+}
+
+.query-block-title {
+    font-size: 24px; /* larger title */
+    font-weight: bold; /* more emphasized */
+    margin-bottom: 10px;
+}
+
+.query-content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.query-block-data {
+    display: flex;
+    flex-direction: column;
+    gap: 5px; /* consistent spacing between data elements */
+}
+
+.query-block, .query-block-price, .query-block-date {
+    font-size: 14px; /* regular font size for info text */
+}
+
+.query-block-image-container {
+    position: relative; /* relative positioning to keep buttons above the image */
+    width: 50%; /* takes up half the available width */
+    height: 100%; 
+}
+
+.query-block-image {
+    max-width: 90%; /* restrict image width to a percentage of the div's width */
+    max-height: 80%; /* restrict image height to a percentage of the div's height */
+    display: block;
+    margin: auto; /* center the image */
+}
+
+button {
+    z-index: 2; /* keep buttons above the image */
+    padding: 5px 10px;
+    top: 50%;
+    transform: translateY(-50%); /* vertically center buttons */
+}
+
+button:first-of-type {
+    left: 10px;
+}
+
+button:last-of-type {
+    right: 10px;
+}

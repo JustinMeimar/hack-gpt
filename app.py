@@ -8,6 +8,7 @@ from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain, SequentialChain 
 from langchain.memory import ConversationBufferMemory
+from llm.query import *
 
 app = Flask(__name__, static_folder='client/build', static_url_path='')
 
@@ -47,28 +48,10 @@ def handle_prompt():
     prompt_text = data.get('prompt', '') 
     form_values = data.get('formValues', '')
     
-    print("Form Values", form_values)
-    print("Promp Text", prompt_text)
-    
-    listing_1 = load_data('./llm/data/listing-25577762.json') 
-    listing_2 = load_data('./llm/data/listing-25609201.json')
-    listing_3 = load_data('./llm/data/listing-25626545.json')
-    
-    response_text = "Here is some home we think you may be interested in"
-    
-    response_data = jsonify(
-        {
-        "text-response": response_text,
-        "top-listings": {
-            "listing-1": listing_1,
-            "listing-2": listing_2,
-            "listing-3": listing_3
-        }     
-    })
+    dictionary = get_json(query=prompt_text, min_price=0, max_price=10000000000000)
+    dictionary['text-response'] = 'testing'
+    return jsonify(dictionary)
 
-    print(response_data)
-
-    return response_data
 
 @app.route('/')
 def index():

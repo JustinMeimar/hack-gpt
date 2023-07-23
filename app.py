@@ -6,7 +6,7 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain, SequentialChain 
 from langchain.memory import ConversationBufferMemory
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = ' you api key'
 
 app = Flask(__name__, static_folder='client/build', static_url_path='')
 
@@ -23,6 +23,7 @@ description_chain = LLMChain(llm=llm, prompt= description_template,verbose=True,
 
 # Enable CORS for all routes
 CORS(app)
+
 
 @app.route('/api/prompt', methods=['POST'])
 def handle_prompt():

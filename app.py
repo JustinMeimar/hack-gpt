@@ -23,7 +23,7 @@ description_template = PromptTemplate(
 description_memory = ConversationBufferMemory(input_key='description', memory_key='chat_history')
 
 #llms
-llm = OpenAI(temperature=0.5)
+llm = OpenAI(temperature=0.1)
 description_chain = LLMChain(llm=llm, prompt= description_template,verbose=True, output_key='description', memory=description_memory)
 
 # Enable CORS for all routes

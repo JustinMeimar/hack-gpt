@@ -8,9 +8,12 @@ from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain, SequentialChain 
 from langchain.memory import ConversationBufferMemory
+from llm.llm_utils import *
+
 
 api_key = os.environ.get('OPENAI_API_KEY')
 org_key  = os.environ.get('OPENAI_ORG_ID')
+pinecone_key = os.environ.get("PINECONE_API_KEY")
 
 app = Flask(__name__, static_folder='client/build', static_url_path='')
 
@@ -19,7 +22,8 @@ load_dotenv()
 #prompt templates
 description_template = PromptTemplate(
     input_variables = ['description'],
-    template = 'act as prospective real state buyer. Here is little bit of information about you : {description}. Write a small 200 word paragraph describing your ideal home'
+    template = """act as prospective real state buyer. 
+    Here is little bit of information about you : {description}. Write a small 200 word paragraph describing your ideal home"""
 )
 #memory
 description_memory = ConversationBufferMemory(input_key='description', memory_key='chat_history')
@@ -47,7 +51,10 @@ def handle_prompt():
 
     and return the data in response_text  
     """
+
     description = description_chain.run(prompt_text)
+
+    listings  = queries(description)
 
     response_text = f"LLM processed output: {description}"
 

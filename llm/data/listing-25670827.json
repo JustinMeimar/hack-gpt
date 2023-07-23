@@ -1,0 +1,152 @@
+{
+    "Id":"25670827",
+    "MlsNumber":"E4343973",
+    "PublicRemarks":"Fantastic opportunity in Strathcona! Just a short walk to the U of A and even closer to Whyte Avenue, this extremely well maintained, remodeled condo is perfect for a first time buyer or investor. This unit is a good size with a functional layout, the kitchen features upgraded cabinets and countertops and there is newer flooring throughout. The bedroom is a good size with closet space to match and has insuite laundry too. This condo also has an upgraded bathroom and plenty of storage. Close to all amenities, this condo is in a fantastic location! (30014800)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"59.59 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1985983,
+            "Name":"Kevin M. Klein",
+            "Organization":{
+                "OrganizationID":67122,
+                "Name":"MaxWell Polaris",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638215582250000000\/lowres\/1004964.jpg",
+                "Address":{
+                    "AddressText":"4107 99 St NW|Edmonton, Alberta T6E3N4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"450-6300",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"450-6670",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516316"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67122\/maxwell-polaris-4107-99-st-nw-edmonton-alberta-t6e3n4",
+                "PhotoLastupdate":"2023-06-05 10:37:05 AM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"242-7501",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"450-6670",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.edmontonrealtypro.ca\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"511287173"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Kevin",
+            "LastName":"Klein",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1985983\/kevin-klein-4107-99-st-nw-edmonton-alberta-t6e3n4",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$175,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#201 10625 83 AV NW|Edmonton, Alberta T6E2E3",
+            "Longitude":"-113.504913846033",
+            "Latitude":"53.5188738",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638215582255970000\/reb10\/highres\/3\/E4343973_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638215582255970000\/reb10\/medres\/3\/E4343973_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638215582255970000\/reb10\/lowres\/3\/E4343973_1.jpg",
+                "LastUpdated":"2023-06-05 10:37:05 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"175000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E2E3",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25670827\/201-10625-83-av-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-05 2:37:05 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25670827\/201-10625-83-av-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25670827\/201-10625-83-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638215726255800000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

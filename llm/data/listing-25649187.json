@@ -1,0 +1,187 @@
+{
+    "Id":"25649187",
+    "MlsNumber":"E4343043",
+    "PublicRemarks":"Prime location steps to the river valley plus for this upscale condo!  Walk up to the gated courtyard with patio that faces the street. Perfect location to live one block off Saskatchewan Drive. Spacious modern layout with central air conditioning to keep you cool. Interior styled tone on tone. No carpets in unit, perfect for those with allergies.  Fabulous euro flat panel cabinetry, nicely equipped with upgraded stainless steel appliance package. Quartz counter and breakfast bar. Bedroom with a gorgeous adjoining 4 piece bath. In-suite laundry. Titled surface parking stall.  Quick access to Downtown, River valley and the University areas. Excellent cycling and hiking trails. Great shopping and amenities in old Strathcona. The possession will work for fall University students! (29992230)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"50.33 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Ceiling - 9ft"
+    },
+    "Individual":[
+        {
+            "IndividualID":1479491,
+            "Name":"Jason A. Thomas",
+            "Organization":{
+                "OrganizationID":67156,
+                "Name":"Royal Lepage Summit Realty",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638210758360000000\/lowres\/1005018.jpg",
+                "Address":{
+                    "AddressText":"108-2627 Ellwood Dr SW|Edmonton, Alberta T6X0P7",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"431-1900",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"431-1600",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516642"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67156\/royal-lepage-summit-realty-108-2627-ellwood-dr-sw-edmonton-alberta-t6x0p7",
+                "PhotoLastupdate":"2023-05-30 8:37:16 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"499-5696",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"431-1600",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.jasonthomas.ca\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"http:\/\/twitter.com\/edmontonian",
+                    "WebsiteTypeId":"4"
+                },
+                {
+                    "Website":"http:\/\/ca.linkedin.com\/in\/jason-thomas-69626714",
+                    "WebsiteTypeId":"3"
+                },
+                {
+                    "Website":"https:\/\/www.instagram.com\/jasonthomas71\/",
+                    "WebsiteTypeId":"5"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"513021754"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS638144167800000000\/lowres\/1010965.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Jason",
+            "LastName":"Thomas",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1479491\/jason-thomas-108-2627-ellwood-dr-sw-edmonton-alberta-t6x0p7",
+            "AgentPhotoLastUpdated":"2023-03-14 18:53:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS638144167800000000\/highres\/1010965.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$200,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#107 9907 91 AV NW|Edmonton, Alberta T6E2T7",
+            "Longitude":"-113.486559776057",
+            "Latitude":"53.5261326665387",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638210758366030000\/reb10\/highres\/3\/E4343043_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638210758366030000\/reb10\/medres\/3\/E4343043_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638210758366030000\/reb10\/lowres\/3\/E4343043_1.jpg",
+                "LastUpdated":"2023-05-30 8:37:16 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Shopping, Ski hill",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"200000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"28.79 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/youriguide.com\/107_9907_91_ave_nw_edmonton_ab\/"
+    },
+    "PostalCode":"T6E2T7",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25649187\/107-9907-91-av-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-05-31 12:37:16 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25649187\/107-9907-91-av-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25649187\/107-9907-91-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/107_9907_91_ave_nw_edmonton_ab\/",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"iGuide"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/107_9907_91_ave_nw_edmonton_ab\/\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/107_9907_91_ave_nw_edmonton_ab\/\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        }
+    ],
+    "InsertedDateUTC":"638210902365930000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

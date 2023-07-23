@@ -1,0 +1,186 @@
+{
+    "Id":"25772386",
+    "MlsNumber":"E4347632",
+    "PublicRemarks":"Gorgeous, Birkholz built, 2 bedroom condo in the heart of Whyte Avenue!  This well-managed and solid condo complex is located on a quiet street but still close to shopping, grocery stores, public transportation and of course, the U OF A. Very handicap-friendly unit being on the main floor as well. With almost 1000 square feet, there is a large kitchen area with an island to sit and eat at.  Loads of cabinetry, stainless steel appliances and granite countertops.  The adjacent & open living space has a cozy gas fireplace.  The spacious master bedroom has walk-through closets to the 4 piece ensuite. On the   other side of the   condo is the other bedroom and it's beside another 4 piece bath.  Great for two renters! There is storage space in the laundry room.  This unit has a charming wrap-around deck for entertaining or to have room to have garden pots.  Comes with a title parking stall underground.  Condo fees include Heat and Water. (30120018)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"91.06 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1525805,
+            "Name":"Michele L. Watts-Aylwin",
+            "Organization":{
+                "OrganizationID":285665,
+                "Name":"RE\/MAX Elite",
+                "Address":{
+                    "AddressText":"14717 40 Ave NW|Edmonton, Alberta T6R1N1",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"406-4000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"467-2897",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509231149"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/285665\/remax-elite-14717-40-ave-nw-edmonton-alberta-t6r1n1",
+                "PhotoLastupdate":"2023-07-21 4:36:48 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"504-3636",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"467-2897",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.wattsells.ca\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/wattssells\/",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/michele-watts-90611619\/",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"517957690"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/lowres\/1138675.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Michele",
+            "LastName":"Watts-Aylwin",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1525805\/michele-watts-aylwin-14717-40-ave-nw-edmonton-alberta-t6r1n1",
+            "AgentPhotoLastUpdated":"2022-04-26 14:06:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/highres\/1138675.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$299,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#105 10525 80 AV NW|Edmonton, Alberta T6E1V4",
+            "Longitude":"-113.501868430688",
+            "Latitude":"53.515847934994",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638235958161770000\/reb10\/highres\/2\/E4347632_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638235958161770000\/reb10\/medres\/2\/E4347632_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638235958161770000\/reb10\/lowres\/2\/E4347632_1.jpg",
+                "LastUpdated":"2023-06-29 12:36:56 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Parkade"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Parkade, Underground",
+        "PriceUnformattedValue":"299000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"0.49 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/youriguide.com\/105_10525_80_ave_nw_edmonton_ab\/"
+    },
+    "PostalCode":"T6E1V4",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25772386\/105-10525-80-av-nw-edmonton-queen-alexandra",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-29 4:36:56 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25772386\/105-10525-80-av-nw-edmonton-queen-alexandra",
+    "RelativeURLFr":"\/immobilier\/25772386\/105-10525-80-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/105_10525_80_ave_nw_edmonton_ab\/",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"iGuide"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/105_10525_80_ave_nw_edmonton_ab\/\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/105_10525_80_ave_nw_edmonton_ab\/\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        }
+    ],
+    "InsertedDateUTC":"638236102161700000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-21 8:40:26 PM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

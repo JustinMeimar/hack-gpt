@@ -1,0 +1,149 @@
+{
+    "Id":"25834663",
+    "MlsNumber":"E4350042",
+    "PublicRemarks":"Experience this stunning west-facing PENTHOUSE suite located on the 20th floor prestigious Saskatchewan Dr! Enjoy both river and city views from your large private balcony. This exec 1 bedroom condo boasts a spacious 730 sq ft open plan layout and has ceramic tile floors in the entry, kitchen and bath, as well as newer laminate flooring. The bathroom is complete with a soaker tub, brushed chrome fixtures, tile surround, cabinet w\/ tower, and medicine cabinet. Cooking will be a joy in a kitchenfeaturing a designer subway tile backsplash, upgraded countertops, sink, faucet w\/ veggie sprayer and a built-in dishwasher. Enjoy the convenience of included HEATED PARKING STALL, STORAGE UNIT, condo fees INCLUDES HEAT, POWER and pool & gym amenities. You will love the well-equipped gym, beautiful pool, and manicured zen gardens. This well-run building is just a short walk to the UofA and University hospital. No units above and excellent soundproofing with concrete walls. Perfect as either an investment or your home (30184705)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"67.86 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":2169339,
+            "Name":"Christopher Peel",
+            "Organization":{
+                "OrganizationID":67122,
+                "Name":"MaxWell Polaris",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638249494260000000\/lowres\/1004964.jpg",
+                "Address":{
+                    "AddressText":"4107 99 St NW|Edmonton, Alberta T6E3N4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"450-6300",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"450-6670",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516316"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67122\/maxwell-polaris-4107-99-st-nw-edmonton-alberta-t6e3n4",
+                "PhotoLastupdate":"2023-07-14 4:37:06 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"298-5433",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"450-6670",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"511282117"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637980873000000000\/lowres\/1419953.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Christopher",
+            "LastName":"Peel",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2169339\/christopher-peel-4107-99-st-nw-edmonton-alberta-t6e3n4",
+            "AgentPhotoLastUpdated":"2022-09-06 18:55:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637980873000000000\/highres\/1419953.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$182,500",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#2012 10883 SASKATCHEWAN DR NW|Edmonton, Alberta T6E4S6",
+            "Longitude":"-113.5105804",
+            "Latitude":"53.5234021741666",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249494269770000\/reb10\/highres\/2\/E4350042_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249494269770000\/reb10\/medres\/2\/E4350042_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249494269770000\/reb10\/lowres\/2\/E4350042_1.jpg",
+                "LastUpdated":"2023-07-14 4:37:06 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Playground, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"182500"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"31.51 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E4S6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25834663\/2012-10883-saskatchewan-dr-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-14 8:37:06 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25834663\/2012-10883-saskatchewan-dr-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25834663\/2012-10883-saskatchewan-dr-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638249638269700000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

@@ -1,0 +1,174 @@
+{
+    "Id":"25819810",
+    "MlsNumber":"E4349450",
+    "PublicRemarks":"Welcome to Strathcona House, this lovely 10th floor one bedroom one bathroom unit is located prime location. Close to Downtown Edmonton, The University, Whyte Avenue, and the river valley this spacious unit offers comfortable living spaces, a south-facing balcony, and access to various amenities within the building The unit comes with an assigned heated parking stall and storage locker. Enjoy the beautiful courtyard which feautes fruit trees, a gazebo and a private BBQ. Live the urban dream, with convenient access to bustling nightlife, cultural events, and a thriving culinary scene. Experience the convenience of modern city living, where every desire and convenience is within reach. (30169260)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"57.8 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1527804,
+            "Name":"Gerard Y. Hagan",
+            "Organization":{
+                "OrganizationID":81865,
+                "Name":"Sterling Real Estate",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638247910060000000\/lowres\/81865.jpg",
+                "Address":{
+                    "AddressText":"11155 65 St NW|Edmonton, Alberta T5W4K2",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"406-0099",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"471-8058",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516742"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/81865\/sterling-real-estate-11155-65-st-nw-edmonton-alberta-t5w4k2",
+                "PhotoLastupdate":"2023-07-12 8:36:46 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"406-0099",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"471-8058",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.bestedmontonrealestate.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509139939"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Gerard",
+            "LastName":"Hagan",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1527804\/gerard-hagan-11155-65-st-nw-edmonton-alberta-t5w4k2",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$139,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#1008 10883 SASKATCHEWAN DR NW|Edmonton, Alberta T6E4S6",
+            "Longitude":"-113.509969",
+            "Latitude":"53.5234813871233",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638246974387730000\/reb10\/highres\/0\/E4349450_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638246974387730000\/reb10\/medres\/0\/E4349450_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638246974387730000\/reb10\/lowres\/0\/E4349450_1.jpg",
+                "LastUpdated":"2023-07-11 6:37:18 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Playground, Public Transit, Schools, Shopping, Ski hill",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Underground",
+        "PriceUnformattedValue":"139000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"27.4 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/youriguide.com\/rd5gb_1008_10883_saskatchewan_dr_nw_edmonton_ab"
+    },
+    "PostalCode":"T6E4S6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25819810\/1008-10883-saskatchewan-dr-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-11 10:37:18 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25819810\/1008-10883-saskatchewan-dr-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25819810\/1008-10883-saskatchewan-dr-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/rd5gb_1008_10883_saskatchewan_dr_nw_edmonton_ab",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"iGuide"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/rd5gb_1008_10883_saskatchewan_dr_nw_edmonton_ab\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/rd5gb_1008_10883_saskatchewan_dr_nw_edmonton_ab\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        }
+    ],
+    "InsertedDateUTC":"638247118387630000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

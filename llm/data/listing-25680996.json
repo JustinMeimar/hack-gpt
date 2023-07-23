@@ -1,0 +1,180 @@
+{
+    "Id":"25680996",
+    "MlsNumber":"E4344322",
+    "PublicRemarks":"PRIDE OF OWNERSHIP! CONCRETE CONSTRUCTION! 9' CEILINGS! IN-FLOOR HEATING! STEPS TO WHYTE AVE! Looking for URBAN LUXURY with quick access to the U of A, nightlife, restaurants, and public transportation? This 1035 sq ft 2 bed, 2 bath well maintained unit shows a 10+, and is perfect for students, working professionals, or investors! A very secure building w\/ newer gym equipment & underground heated parking leads to your 3rd floor suite. Greeting you are soaring 9' ceilings throughout the space, lovely tile entryway, and ample natural light throughout. Gorgeous maple cabinetry w\/ granite countertops, separate dining space, & laundry \/ storage room for added value. Good sized living room w\/ gas fireplace; terrific spot for Netflix marathons or studying for the big exam. Two large bedrooms, w\/ the primary enjoying a 3 pce ensuite & walk through closet. Covered private deck for enjoying a nice glass of wine & relaxing after a long day. Condo fees of $541.92 include heat & water \/ sewer, a must see in Ritchie! (30025318)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"96.19 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":2019987,
+            "Name":"Kevin B. Doyle",
+            "Organization":{
+                "OrganizationID":277440,
+                "Name":"RE\/MAX Elite",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638241789960000000\/lowres\/1285357.jpg",
+                "Address":{
+                    "AddressText":"302-5083 Windermere Blvd SW|Edmonton, Alberta T6W0J5",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"406-4000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"988-4067",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509231109"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/277440\/remax-elite-302-5083-windermere-blvd-sw-edmonton-alberta-t6w0j5",
+                "PhotoLastupdate":"2023-07-05 6:36:36 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"314-8001",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"988-4067",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/kevindoyle.remax.ca\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/kevindoyle4realtyyeg\/",
+                    "WebsiteTypeId":"2"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"517579608"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637186175400000000\/lowres\/1299903.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Kevin",
+            "LastName":"Doyle",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2019987\/kevin-doyle-302-5083-windermere-blvd-sw-edmonton-alberta-t6w0j5",
+            "AgentPhotoLastUpdated":"2020-02-29 23:59:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637186175400000000\/highres\/1299903.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"Kevin-Doyle",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$267,500",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#308 10116 80 AV NW|Edmonton, Alberta T6E6V7",
+            "Longitude":"-113.492065915344",
+            "Latitude":"53.5162648827771",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638217452756970000\/reb10\/highres\/2\/E4344322_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638217452756970000\/reb10\/medres\/2\/E4344322_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638217452756970000\/reb10\/lowres\/2\/E4344322_1.jpg",
+                "LastUpdated":"2023-06-07 2:34:35 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Parkade"
+            },
+            {
+                "Name":"Indoor"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Parkade, Indoor",
+        "PriceUnformattedValue":"267500"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"59.44 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/youriguide.com\/308_10116_80_ave_nw_edmonton_ab\/"
+    },
+    "PostalCode":"T6E6V7",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25680996\/308-10116-80-av-nw-edmonton-ritchie",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-07 6:34:43 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25680996\/308-10116-80-av-nw-edmonton-ritchie",
+    "RelativeURLFr":"\/immobilier\/25680996\/308-10116-80-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/308_10116_80_ave_nw_edmonton_ab\/",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"iGuide"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/308_10116_80_ave_nw_edmonton_ab\/\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/308_10116_80_ave_nw_edmonton_ab\/\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        }
+    ],
+    "InsertedDateUTC":"638217345997200000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-05 10:41:05 PM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

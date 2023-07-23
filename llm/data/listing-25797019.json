@@ -1,0 +1,170 @@
+{
+    "Id":"25797019",
+    "MlsNumber":"E4348590",
+    "PublicRemarks":"WALK TO THE U OF A, BRIGHT & RENOVATED CONDO! You will love this modern, south-facing, 2 bedroom, 1.5 bath two-level condo with over 1,200 square feet of living space. Updated kitchen, bathrooms, vinyl flooring, doors, windows, and building exterior, making for a modern and spacious feeling, plus a unique floor plan providing extra privacy. The main level has a gorgeous living room with modern corner wood-burning fireplace, a spacious dining room with door to the patio, and an updated kitchen with plenty of counter space and a dining nook. The second level has two spacious bedrooms, both with big closets, an office nook open to below and a renovated 5-piece bathroom. Hycourt has been updated with a new exterior, and has a lovely courtyard, plus an assigned underground parking stall. Immerse yourself in the highly sought-after Garneau neighborhood with Edmonton's best cafes and restaurants, the River Valley trail system, and the University of Alberta all a quick walk from your doorstep. Welcome home! (30145609)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"57.28 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1791953,
+            "Name":"Sara J. Kalke",
+            "Organization":{
+                "OrganizationID":67032,
+                "Name":"RE\/MAX Real Estate",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638253814210000000\/lowres\/1004792.jpg",
+                "Address":{
+                    "AddressText":"200-10835 124 St NW|Edmonton, Alberta T5M0H4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"488-4000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"447-1695",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520270164"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67032\/remax-real-estate-200-10835-124-st-nw-edmonton-alberta-t5m0h4",
+                "PhotoLastupdate":"2023-07-19 4:37:01 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"710-7669",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"447-1695",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.sarakalke.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/sarakalkerealtor",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/sarakalke",
+                    "WebsiteTypeId":"5"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"522104450"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS638022399600000000\/lowres\/1189397.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Sara",
+            "LastName":"Kalke",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1791953\/sara-kalke-200-10835-124-st-nw-edmonton-alberta-t5m0h4",
+            "AgentPhotoLastUpdated":"2022-10-24 20:26:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS638022399600000000\/highres\/1189397.jpg",
+            "RankMyAgentKey":"22557",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$299,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#10 11016 86 AV NW|Edmonton, Alberta T6G0W9",
+            "Longitude":"-113.51592172402",
+            "Latitude":"53.5220837955735",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638242006174630000\/reb10\/highres\/0\/E4348590_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638242006174630000\/reb10\/medres\/0\/E4348590_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638242006174630000\/reb10\/lowres\/0\/E4348590_1.jpg",
+                "LastUpdated":"2023-07-06 12:36:57 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Indoor"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Indoor, Underground",
+        "PriceUnformattedValue":"299900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"100.64 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6G0W9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25797019\/10-11016-86-av-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-06 4:36:57 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25797019\/10-11016-86-av-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25797019\/10-11016-86-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638242150174530000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-19 8:40:58 PM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

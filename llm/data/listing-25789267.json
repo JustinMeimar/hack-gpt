@@ -1,0 +1,157 @@
+{
+    "Id":"25789267",
+    "MlsNumber":"E4348351",
+    "PublicRemarks":"This executive 2 bedroom, 2 bathroom condo could not be in a more perfect location! Close to Whyte Ave, public transit to get around the city with ease, and all the shopping and amenities you could ask for! When entering this well-maintained condo you're greeted with lots of natural light from the South facing windows. The living room is open to the kitchen and hosts a gas fireplace for cozy nights at home. The kitchen has plenty of cupboard space for storage, as well as spacious counter tops for food preparation. The Primary suite is a great size and features a 4-pce ensuite. Make the most of summer on the HUGE balcony with a nat gas BBQ connection! The second great-sized bedroom, a 4-pce bathroom, A\/C and in-suite laundry complete this must-see condo. Never worry about parking & storage again and enjoy 2 Titled parking stalls (1 underground), and a storage cage. This condo is pet friendly with it's own dog run. Easy access to Downtown Edmonton, UofA, the River Valley, this condo has it all! (30137618)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"100.4 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1892556,
+            "Name":"Carter Masse",
+            "Organization":{
+                "OrganizationID":273090,
+                "Name":"RE\/MAX Elite",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638240860390000000\/lowres\/1248188.jpg",
+                "Address":{
+                    "AddressText":"116-150 Chippewa Rd|Sherwood Park, Alberta T8A6A2",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"464-4100",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"467-2897",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516654"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/273090\/remax-elite-116-150-chippewa-rd-sherwood-park-alberta-t8a6a2",
+                "PhotoLastupdate":"2023-07-04 4:47:19 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"297-9901",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"467-2897",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"https:\/\/www.facebook.com\/profile.php?id=100008774747959",
+                    "WebsiteTypeId":"2"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"521863482"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/lowres\/1212421.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Carter",
+            "LastName":"Masse",
+            "CccMember":true,
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1892556\/carter-masse-116-150-chippewa-rd-sherwood-park-alberta-t8a6a2",
+            "AgentPhotoLastUpdated":"2022-04-26 14:06:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/highres\/1212421.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$279,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#203 10525 80 AV NW|Edmonton, Alberta T6E1V4",
+            "Longitude":"-113.501846973016",
+            "Latitude":"53.5159882809106",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638240860400030000\/reb10\/highres\/1\/E4348351_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638240860400030000\/reb10\/medres\/1\/E4348351_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638240860400030000\/reb10\/lowres\/1\/E4348351_1.jpg",
+                "LastUpdated":"2023-07-04 4:47:20 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"2",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"279900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"85.82 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E1V4",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25789267\/203-10525-80-av-nw-edmonton-queen-alexandra",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-04 8:47:20 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25789267\/203-10525-80-av-nw-edmonton-queen-alexandra",
+    "RelativeURLFr":"\/immobilier\/25789267\/203-10525-80-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638241004399970000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

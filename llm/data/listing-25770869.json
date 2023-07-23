@@ -1,0 +1,151 @@
+{
+    "Id":"25770869",
+    "MlsNumber":"E4347565",
+    "PublicRemarks":"SUPERB LOCATION on 109 Street & just one block South of WHYTE AVE - home to the trendiest restaurants, pubs, shops and night life!  CORNER UNIT situated on the 3rd floor with a bright sunny view of Whyte Ave from your balcony, this hip Open Air concept building Faculty Court features 2 Bedrooms + 2 Bathrooms including an organized WIC with ensuite tub, In-Suite Laundry, a Cozy Gas fireplace, 1 assigned UNDERGROUND heated parking spot + HEAT & WATER included in the condo fee! Walking distance to UofA Campus and Hospital, LRT station, dog parks, River Valley Park & trails, , Hawrelak Park, Kinsmen Centre, the Downtown core +more! You will love all the adventures the GARNEAU area has to offer, there's something for everyone; Volleyball & Tennis courts, golf courses, scooter rides to coffee shops, ice cream, pho, sushi, (+ just about every foodie craving), thrift shopping finds, trendy salons & tattoo parlours, check out the farmers market, the Fringe, or other nearby movie theatres & the Jubilee! (30118434)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"84.8 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":2011738,
+            "Name":"Chelsea M. Polgar",
+            "Organization":{
+                "OrganizationID":283542,
+                "Name":"Greater Property Group",
+                "Address":{
+                    "AddressText":"3400-10180 101 St  NW|Edmonton, Alberta T5J3S4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"899-1217",
+                        "AreaCode":"800",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516289"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/283542\/greater-property-group-3400-10180-101-st-nw-edmonton-alberta-t5j3s4",
+                "PhotoLastupdate":"2023-06-28 4:36:59 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"298-9737",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"https:\/\/www.facebook.com\/yegrealestate",
+                    "WebsiteTypeId":"2"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509134468"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS636549511200000000\/lowres\/1293203.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Chelsea",
+            "LastName":"Polgar",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2011738\/chelsea-polgar-3400-10180-101-st-nw-edmonton-alberta-t5j3s4",
+            "AgentPhotoLastUpdated":"2018-02-23 02:52:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS636549511200000000\/highres\/1293203.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$239,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#303 8108 109 ST NW|Edmonton, Alberta T6G2V7",
+            "Longitude":"-113.512485057672",
+            "Latitude":"53.5174988121356",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638235670193600000\/reb10\/highres\/5\/E4347565_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638235670193600000\/reb10\/medres\/5\/E4347565_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638235670193600000\/reb10\/lowres\/5\/E4347565_1.jpg",
+                "LastUpdated":"2023-06-28 4:36:59 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Street"
+            },
+            {
+                "Name":"Parkade"
+            },
+            {
+                "Name":"Stall"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Playground, Schools, Shopping, Ski hill",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Street, Parkade, Stall, Underground",
+        "PriceUnformattedValue":"239000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6G2V7",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25770869\/303-8108-109-st-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-28 8:36:59 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25770869\/303-8108-109-st-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25770869\/303-8108-109-st-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638235814193530000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

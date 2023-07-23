@@ -1,0 +1,144 @@
+{
+    "Id":"25752962",
+    "MlsNumber":"E4346883",
+    "PublicRemarks":"Unicorn off Whyte! 1,454 sq ft 2 bed\/2 bath condo for under $300k!! And you can't get a better location - within walking distance of the shops, restaurants, bars and entertainment venues of Old Strathcona. And the outdoor space! Almost 500 sq ft of terrace. The best patio on Whyte Ave! This massive unit has such a large living area that it can be configured in many different ways. The primary bedroom and ensuite are completely separate from the spare room and main bath. Other amazing features of this condo are: granite kitchen countertops, central a\/c, insuite laundry with storage, corner gas fireplace, walk-thru closet, access to the patio from the dining room and the primary bedroom, only 16 units in the building - each unit has only one neighbour.  The location of this unit in the building itself has it set aways back and is incredibly quiet. This condo is very special and literally has it all! Come and see for yourself!! (30099845)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"135.04 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":1972401,
+            "Name":"Alison F. Kobelak",
+            "Organization":{
+                "OrganizationID":283363,
+                "Name":"Exp Realty",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638255398060000000\/lowres\/1336702.jpg",
+                "Address":{
+                    "AddressText":"1400-10665 Jasper Ave NW|Edmonton, Alberta T5J3S9",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"262-7653",
+                        "AreaCode":"403",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509394759"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/283363\/exp-realty-1400-10665-jasper-ave-nw-edmonton-alberta-t5j3s9",
+                "PhotoLastupdate":"2023-07-21 12:36:46 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"919-8326",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509129823"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Alison",
+            "LastName":"Kobelak",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1972401\/alison-kobelak-1400-10665-jasper-ave-nw-edmonton-alberta-t5j3s9",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$288,888",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#104 9905 81 AV NW|Edmonton, Alberta T6E1W5",
+            "Longitude":"-113.4865166",
+            "Latitude":"53.5167672",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638231206380130000\/reb10\/highres\/3\/E4346883_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638231206380130000\/reb10\/medres\/3\/E4346883_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638231206380130000\/reb10\/lowres\/3\/E4346883_1.jpg",
+                "LastUpdated":"2023-06-23 12:37:18 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"288888"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/my.matterport.com\/show\/?m=VxexfZFd2cm"
+    },
+    "PostalCode":"T6E1W5",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25752962\/104-9905-81-av-nw-edmonton-ritchie",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-23 4:37:18 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25752962\/104-9905-81-av-nw-edmonton-ritchie",
+    "RelativeURLFr":"\/immobilier\/25752962\/104-9905-81-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/my.matterport.com\/show\/?m=VxexfZFd2cm",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"Matterport"
+        }
+    ],
+    "InsertedDateUTC":"638231350380030000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-20 8:40:38 PM",
+    "OpenHouseInsertDateUTC":"2023-07-21 4:40:27 PM",
+    "ListingTimeZone":"Mountain Standard Time",
+    "ListingBoundary":"America\/Edmonton",
+    "ListingGMT":"-07:00:00",
+    "HasPriceUpdate":null
+}

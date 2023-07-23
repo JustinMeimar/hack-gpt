@@ -1,0 +1,242 @@
+{
+    "Id":"25847946",
+    "MlsNumber":"E4350560",
+    "PublicRemarks":"PENTHOUSE SUITE! PRIME LOCATION! Live in the popular& trendy Langham condo. This lovely 2 bed,2 bath plus LOFT has a open functional plan that is perfect for living &entertaining! The contemporary kitchen boasts maple cabinetry, sleek black appliances &a large peninsula w\/breakfast bar. Adjacent dining area highlights patio doors leading to a private balcony w\/a breathtaking tree top urban view. Owners suite notes a walk-in closet & 3pce bath. Lrg windows offer plenty natural light while additional features include cozy fireplace, infloor heat, vaulted ceilings, insuite laundry & building ramp access. Condo fees incl. water &heat plus underground heated parking. Painted in warm neutral tones this modern unit is located on a quiet tree lined street in the heart of Strathcona minutes from Saskatchewan Dr &Edmonton's River Valley &trails. Close to the University of Alberta, Strathcona Farmers Market & Whyte Ave \/w boutique shops, restaurants & a vibrant sense of community. Don't miss out on this unique unit! (30198506)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"83.27 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1915426,
+            "Name":"Jennifer A. Osmond",
+            "Organization":{
+                "OrganizationID":67132,
+                "Name":"RE\/MAX Excellence",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638253094240000000\/lowres\/remax.gif",
+                "Address":{
+                    "AddressText":"201-5607 199 St NW|Edmonton, Alberta T6M0M8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"481-2950",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"481-1144",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520829235"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67132\/remax-excellence-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+                "PhotoLastupdate":"2023-07-18 8:37:04 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"289-6671",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"481-1144",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509126151"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/lowres\/1224487.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Jennifer",
+            "LastName":"Osmond",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1915426\/jennifer-osmond-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+            "AgentPhotoLastUpdated":"2022-04-26 14:06:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/highres\/1224487.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        },
+        {
+            "IndividualID":1771692,
+            "Name":"Felicia A. Dean",
+            "Organization":{
+                "OrganizationID":67132,
+                "Name":"RE\/MAX Excellence",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638253094240000000\/lowres\/remax.gif",
+                "Address":{
+                    "AddressText":"201-5607 199 St NW|Edmonton, Alberta T6M0M8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"481-2950",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"481-1144",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520829235"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67132\/remax-excellence-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+                "PhotoLastupdate":"2023-07-18 8:37:04 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"289-6670",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"481-1144",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/deanandosmond.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509126928"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/lowres\/1186533.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Felicia",
+            "LastName":"Dean",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1771692\/felicia-dean-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+            "AgentPhotoLastUpdated":"2022-04-26 14:06:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/highres\/1186533.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$279,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#303 8536 106A ST NW|Edmonton, Alberta T6E4J9",
+            "Longitude":"-113.505545161377",
+            "Latitude":"53.5221994822152",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638253094249770000\/reb10\/highres\/0\/E4350560_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638253094249770000\/reb10\/medres\/0\/E4350560_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638253094249770000\/reb10\/lowres\/0\/E4350560_1.jpg",
+                "LastUpdated":"2023-07-18 8:37:04 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Street"
+            },
+            {
+                "Name":"Parkade"
+            },
+            {
+                "Name":"Indoor"
+            },
+            {
+                "Name":"Stall"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Street, Parkade, Indoor, Stall",
+        "PriceUnformattedValue":"279900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E4J9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25847946\/303-8536-106a-st-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-19 12:37:04 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25847946\/303-8536-106a-st-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25847946\/303-8536-106a-st-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638253238249700000",
+    "TimeOnRealtor":"4 days ago",
+    "Tags":[
+        {
+            "Label":"4 days ago",
+            "HTMLColorCode":"#23A1C0",
+            "ListingTagTypeID":"1"
+        }
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

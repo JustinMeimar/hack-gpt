@@ -1,0 +1,164 @@
+{
+    "Id":"25577762",
+    "MlsNumber":"E4340117",
+    "PublicRemarks":"STUNNING 2-BEDROOM HIGHRISE WITH PICTUESQUE VIEWS OF THE RIVER VALLERY & DOWNTOWN SKYLINE. This RARE GEM comes with not one, but TWO SEPARATE UNDERGROUND PARKING STALLS - ensuring convenience and ample space for your vehicles. At this impressive building you'll find yourself surrounded by restaurants, parks, schools, and more, all just a short drive or walk away. Featuring array of ENHANCE AMENITIES: indoor pool, fitness center, and a relaxing dry sauna. Inside a large carpeted primary bedroom with WI closet, providing a comfortable and private retreat. The equally spacious second bedroom is also carpeted, offering versatility for guests, additional occupants, or a WFH space. The rest of the unit features easy-to-clean tile floors. The open concept kitchen with an island seamlessly flows into the spacious living room, creating an ideal space for entertaining while enjoying the view. Additional in-suite storage adds convenience & functionality to this already impressive home. Don't miss out on this suite! (29917879)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"2",
+        "SizeInterior":"92.06 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1973083,
+            "Name":"Jeannine E. Wilson",
+            "Organization":{
+                "OrganizationID":67058,
+                "Name":"Homelife Guaranteed Realty",
+                "Address":{
+                    "AddressText":"11024 106 Ave NW|Edmonton, Alberta T5H0R3",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"468-4060",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"468-1991",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516805"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67058\/homelife-guaranteed-realty-11024-106-ave-nw-edmonton-alberta-t5h0r3",
+                "PhotoLastupdate":"2023-06-11 10:36:40 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"619-4060",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"468-1991",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"511285402"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Jeannine",
+            "LastName":"Wilson",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1973083\/jeannine-wilson-11024-106-ave-nw-edmonton-alberta-t5h0r3",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$214,500",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#405 10135 SASKATCHEWAN DR NW|Edmonton, Alberta T6E4Y9",
+            "Longitude":"-113.492846484656",
+            "Latitude":"53.5241199",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638194342125170000\/reb10\/highres\/7\/E4340117_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638194342125170000\/reb10\/medres\/7\/E4340117_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638194342125170000\/reb10\/lowres\/7\/E4340117_1.jpg",
+                "LastUpdated":"2023-05-11 8:36:52 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Parkade"
+            }
+        ],
+        "ParkingSpaceTotal":"2",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Parkade",
+        "PriceUnformattedValue":"214500"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"28.1 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/youriguide.com\/405_10135_saskatchewan_dr_nw_edmonton_ab\/"
+    },
+    "PostalCode":"T6E4Y9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25577762\/405-10135-saskatchewan-dr-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-05-12 12:36:52 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25577762\/405-10135-saskatchewan-dr-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25577762\/405-10135-saskatchewan-dr-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/405_10135_saskatchewan_dr_nw_edmonton_ab\/",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"iGuide"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/405_10135_saskatchewan_dr_nw_edmonton_ab\/\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/405_10135_saskatchewan_dr_nw_edmonton_ab\/\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        }
+    ],
+    "InsertedDateUTC":"638194486125100000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-06-12 2:41:14 AM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

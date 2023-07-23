@@ -1,0 +1,157 @@
+{
+    "Id":"25837941",
+    "MlsNumber":"E4350265",
+    "PublicRemarks":"BEST VALUE IN UNIVERSITY AREA! LOW PRICE & LOW CONDO FEES! UPGRADED & IMMACULATE 2 BED, 2 BATH 2014 BUILT CONDO IN FANTASTIC LOCATION! WALKING DISTANCE TO WHYTE AV & U OF A! HEATED U\/G PARKING! Lovely south facing condo offers an open layout and 9 foot ceilings with a wall of windows allowing loads of natural light to flow in. The many upgrades and features include large kitchen boasting lots of cabinets, granite tops, raised eating bar & S\/S appliances, H\/W & ceramic tile flooring, 2 large bedrooms, 2 baths boasting granite tops & ceramic tile flooring, south facing patio (22+ ft wide) with a gas outlet, hi-eff furnace & on demand HWT, roughed-in A\/C, heated U\/G parking, in-suite laundry & storage, storage cage in parkade, etc. Excellent location just blocks to the U of A, Whyte Av and with easy access to downtown, all amenities & major transportation routes. VERY LOW CONDO FEES include heat & water and contribute to your opportunity to LIVE IN STYLE at an affordable monthly cost (30188206)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"88.4 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Ceiling - 9ft"
+    },
+    "Individual":[
+        {
+            "IndividualID":1479597,
+            "Name":"Andy J. Verhagen",
+            "Organization":{
+                "OrganizationID":273090,
+                "Name":"RE\/MAX Elite",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638251942190000000\/lowres\/1248188.jpg",
+                "Address":{
+                    "AddressText":"116-150 Chippewa Rd|Sherwood Park, Alberta T8A6A2",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"464-4100",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"467-2897",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516654"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/273090\/remax-elite-116-150-chippewa-rd-sherwood-park-alberta-t8a6a2",
+                "PhotoLastupdate":"2023-07-17 12:36:59 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"907-8202",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"467-2897",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.andyv.ca\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509131402"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Andy",
+            "LastName":"Verhagen",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1479597\/andy-verhagen-116-150-chippewa-rd-sherwood-park-alberta-t8a6a2",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$249,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#107 10811 72 AV NW|Edmonton, Alberta T6E1A4",
+            "Longitude":"-113.510218716533",
+            "Latitude":"53.5080937890076",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638251078159400000\/reb10\/highres\/5\/E4350265_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638251078159400000\/reb10\/medres\/5\/E4350265_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638251078159400000\/reb10\/lowres\/5\/E4350265_1.jpg",
+                "LastUpdated":"2023-07-16 12:36:55 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"249900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"44.27 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E1A4",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25837941\/107-10811-72-av-nw-edmonton-queen-alexandra",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-16 4:36:55 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25837941\/107-10811-72-av-nw-edmonton-queen-alexandra",
+    "RelativeURLFr":"\/immobilier\/25837941\/107-10811-72-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638251222159300000",
+    "TimeOnRealtor":"6 days ago",
+    "Tags":[
+        {
+            "Label":"6 days ago",
+            "HTMLColorCode":"#23A1C0",
+            "ListingTagTypeID":"1"
+        }
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

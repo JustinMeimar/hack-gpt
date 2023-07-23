@@ -1,0 +1,183 @@
+{
+    "Id":"25778375",
+    "MlsNumber":"E4347885",
+    "PublicRemarks":"Have it All! Awesome Condo on Saskatchewan Drive! 2 Bedroom, 2 Bathroom with Underground parking, In-suite Laundry & Balcony. Trendy &Totally upgraded with espresso kitchen cabinets, stainless steel appliances including built-in dishwasher, custom cordless blinds, stone feature walls & quality laminate flooring. Spacious floorplan w\/large kitchen & breakfast bar, dining & living area with patio doors leading to large balcony overlooking quiet, treed area, laundry room with front load washer & dryer & storage space, bedrooms facing quiet side & deluxe primary ensuite w\/walk-in shower. Includes one secure underground heated parking stall & storage unit. Secure, friendly & clean complex with on-site manager. Well maintained building: Newer windows, roof, parkade & heating systems; Solid financially w\/healthy reserve fund; & Consistent condo fees includes heat, water, sewer & garbage. Adult bldg & no pets. Convenient location overlooking Walterdale Bridge, close to UofA,  Whyte, Old Strathcona & River Valley. (30126260)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"88.44 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478375,
+            "Name":"Delores Knudsen",
+            "Organization":{
+                "OrganizationID":67132,
+                "Name":"RE\/MAX Excellence",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638249422080000000\/lowres\/remax.gif",
+                "Address":{
+                    "AddressText":"201-5607 199 St NW|Edmonton, Alberta T6M0M8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"481-2950",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"481-1144",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520829235"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67132\/remax-excellence-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+                "PhotoLastupdate":"2023-07-14 2:36:48 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"940-4554",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"481-1144",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.dkrealestate.ca\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509121189"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637813325400000000\/lowres\/1120762.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Delores",
+            "LastName":"Knudsen",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478375\/delores-knudsen-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+            "AgentPhotoLastUpdated":"2022-02-24 20:49:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637813325400000000\/highres\/1120762.jpg",
+            "RankMyAgentKey":"30104",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$285,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#211 10545 SASKATCHEWAN DR NW|Edmonton, Alberta T6E6C6",
+            "Longitude":"-113.502971669312",
+            "Latitude":"53.52283731328",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638237254393070000\/reb10\/highres\/5\/E4347885_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638237254393070000\/reb10\/medres\/5\/E4347885_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638237254393070000\/reb10\/lowres\/5\/E4347885_1.jpg",
+                "LastUpdated":"2023-06-30 12:37:19 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Underground",
+        "PriceUnformattedValue":"285000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"34.08 m2"
+    },
+    "AlternateURL":{
+        "BrochureLink":"https:\/\/rem.ax\/444D9Z7",
+        "VideoLink":"https:\/\/unbranded.youriguide.com\/211_10545_saskatchewan_dr_nw_edmonton_ab\/"
+    },
+    "PostalCode":"T6E6C6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25778375\/211-10545-saskatchewan-dr-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-30 4:37:19 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25778375\/211-10545-saskatchewan-dr-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25778375\/211-10545-saskatchewan-dr-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/unbranded.youriguide.com\/211_10545_saskatchewan_dr_nw_edmonton_ab\/",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"iGuide"
+        },
+        {
+            "MediaCategoryId":"4",
+            "MediaCategoryURL":"https:\/\/rem.ax\/444D9Z7",
+            "Description":"SalesBrochureWebsite",
+            "Order":3
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/unbranded.youriguide.com\/211_10545_saskatchewan_dr_nw_edmonton_ab\/\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/unbranded.youriguide.com\/211_10545_saskatchewan_dr_nw_edmonton_ab\/\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        }
+    ],
+    "InsertedDateUTC":"638237398392970000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

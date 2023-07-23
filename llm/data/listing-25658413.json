@@ -1,0 +1,190 @@
+{
+    "Id":"25658413",
+    "MlsNumber":"E4343402",
+    "PublicRemarks":"Water's Edge 8th Floor View Property on Saskatchewan Drive. Perfect 4 Students ,Medical Interns, Central Urbanites. 793 Sq Ft. 2 Bedroom 2 Full Bathrooms. Open Practical Floor Plan. Floor to Ceiling Window's Shower the Residence with Sunshine. Fresh Decorating \/ Designer Painting  Updated Chefs Working Kitchen w\/ New Granite Counters + More ! ! , Large  Pantry. 2  Generous  Bedrooms both w\/ Full 4 Pce Ensuites. Water's Edge Complex Loaded with Amenities and Features for your Recreation, Wellness & Safety. Exercise Gym ,Outdoor Basketball, Tennis Courts, Indoor Squash. Building Envelope with Acrylic Stucco, Covered  Glass Balconies Truly 2023 Trim and Beyond. Cross the Dive to the Rive Valley Trail System. Short Walk to Whyte Ave Charm, University Campus, Hospital, All Services. Safe and Secure Complemented by Day Time  On Site Office Attendant, SECURITY GUARD 7 PM to 7 Am Daily. Protected Secure Covered  Parking . Ownership Win or Savvy Investor Play. Immediate Occupancy !! 10149 Saskatchewan Drive (30001815)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"73.6 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1479643,
+            "Name":"Gregory L. Warwa",
+            "Organization":{
+                "OrganizationID":67151,
+                "Name":"Royal LePage Noralta Real Estate",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638212270510000000\/lowres\/rl1.gif",
+                "Address":{
+                    "AddressText":"3018 Calgary Trail NW|Edmonton, Alberta T6J6V4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"431-5600",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"431-5624",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516346"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67151\/royal-lepage-noralta-real-estate-3018-calgary-trail-nw-edmonton-alberta-t6j6v4",
+                "PhotoLastupdate":"2023-06-01 2:37:31 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"990-9974",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"431-5624",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509133662"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS0\/lowres\/1011980.gif",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Gregory",
+            "LastName":"Warwa",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1479643\/gregory-warwa-3018-calgary-trail-nw-edmonton-alberta-t6j6v4",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS0\/highres\/1011980.gif",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$214,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"Address not available",
+            "Longitude":"-113.493663115344",
+            "Latitude":"53.5236736255679",
+            "PermitShowAddress":false,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638216724934730000\/reb10\/highres\/2\/E4343402_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638216724934730000\/reb10\/medres\/2\/E4343402_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638216724934730000\/reb10\/lowres\/2\/E4343402_1.jpg",
+                "LastUpdated":"2023-06-06 6:21:33 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Parkade"
+            },
+            {
+                "Name":"Indoor"
+            },
+            {
+                "Name":"See Remarks"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Parkade, Indoor, See Remarks",
+        "PriceUnformattedValue":"214900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":{
+        "MapLink":"https:\/\/youriguide.com\/806_10149_saskatchewan_dr_nw_edmonton_ab\/doc\/floorplan_metric.pdf",
+        "VideoLink":"https:\/\/youriguide.com\/806_10149_saskatchewan_dr_nw_edmonton_ab\/"
+    },
+    "PostalCode":"T6E6B6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25658413\/edmonton",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-06 10:21:42 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25658413\/edmonton",
+    "RelativeURLFr":"\/immobilier\/25658413\/edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/806_10149_saskatchewan_dr_nw_edmonton_ab\/",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"iGuide"
+        },
+        {
+            "MediaCategoryId":"7",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/806_10149_saskatchewan_dr_nw_edmonton_ab\/doc\/floorplan_metric.pdf",
+            "Description":"MapWebsite",
+            "Order":6
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/806_10149_saskatchewan_dr_nw_edmonton_ab\/\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/806_10149_saskatchewan_dr_nw_edmonton_ab\/doc\/floorplan_metric.pdf\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/806_10149_saskatchewan_dr_nw_edmonton_ab\/\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/806_10149_saskatchewan_dr_nw_edmonton_ab\/doc\/floorplan_metric.pdf\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        }
+    ],
+    "InsertedDateUTC":"638212414518170000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

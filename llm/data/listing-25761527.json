@@ -1,0 +1,147 @@
+{
+    "Id":"25761527",
+    "MlsNumber":"E4347238",
+    "PublicRemarks":"2 BD, 2 Full BTH, 2 UG parking spaces, you will appreciate this at -30 below. Both Parking Spaces are located close to elevator for easy access to carry in your groceries. Convenient walk to UofA, Bank, Safeway, Shoppers, Tim Hortons, White Ave. Enjoy your gas BBQ hook-up to entertain your friends & clients on the spacious private balcony, located on the quiet treed side of building. Or just cozy up to your corner fireplace\/TV, and gaze out from the top of the world. The living room flows out onto the balcony through glass siding doors accented with a high window, letting in warm natural light that rises to the living rooms vaulted ceiling. Start your mornings off with sunshine & coffee, scenic size windows in both bedrooms overlooking the balcony. The Master bedroom has a walk-through closet, and a private on-suite bathroom. Your own private Washer\/Dryer in condo with storage\/utility closet for seasonal items. Easy flow kitchen with open counter seating. Great investment property in the university area! (30108765)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"71.44 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":2078995,
+            "Name":"Julie Mateer",
+            "Organization":{
+                "OrganizationID":67206,
+                "Name":"Bermont Realty (1983) Ltd",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638236462180000000\/lowres\/67206.jpg",
+                "Address":{
+                    "AddressText":"200-14 Perron St|St Albert, Alberta T8N2Y4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"459-7786",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"459-0235",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"510317229"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67206\/bermont-realty-1983-ltd-200-14-perron-st-st-albert-alberta-t8n2y4",
+                "PhotoLastupdate":"2023-06-29 2:36:58 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"221-5520",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"459-0235",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"510317259"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Julie",
+            "LastName":"Mateer",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2078995\/julie-mateer-200-14-perron-st-st-albert-alberta-t8n2y4",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$322,888",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#404 7907 109 ST NW NW|Edmonton, Alberta T6G1C7",
+            "Longitude":"-113.5116241",
+            "Latitude":"53.51553",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638233942224200000\/reb10\/highres\/8\/E4347238_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638233942224200000\/reb10\/medres\/8\/E4347238_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638233942224200000\/reb10\/lowres\/8\/E4347238_1.jpg",
+                "LastUpdated":"2023-06-26 4:37:02 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"2",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"322888"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6G1C7",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25761527\/404-7907-109-st-nw-nw-edmonton-queen-alexandra",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-26 8:37:02 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25761527\/404-7907-109-st-nw-nw-edmonton-queen-alexandra",
+    "RelativeURLFr":"\/immobilier\/25761527\/404-7907-109-st-nw-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638234086224130000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

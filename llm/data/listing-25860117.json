@@ -1,0 +1,251 @@
+{
+    "Id":"25860117",
+    "MlsNumber":"E4350962",
+    "PublicRemarks":"AMAZING LOCATION for FANTASTIC VALUE just off Scona Rd and steps to Millcreek Ravine and Nellie McClung Park. This 2 bedroom unit boasts a spacious living room, dining room and 2 well-sized bedrooms. Kitchen features stainless steel appliances and plenty of cabinetry. Best of all enjoy summer evenings on this HUGE PATIO with tiered gardening beds that await your personal touch! 5pc bath plus 2pc bath as well. Additional features include IN-SUITE LAUNDRY, AC & ALL UTILITIES included in monthly fee. Great location in quiet building with access both via main floor and ground-level patio (along quiet 92 Ave). Plus heated, underground parking stall just a few quick steps from unit. Surrounded by River Valley, parks, trails, restaurants & shopping. Easy transit access and prime location for University or downtown commuting. (30211079)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"106.93 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1477987,
+            "Name":"Alan H. Gee",
+            "Organization":{
+                "OrganizationID":277440,
+                "Name":"RE\/MAX Elite",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638255398370000000\/lowres\/1285357.jpg",
+                "Address":{
+                    "AddressText":"302-5083 Windermere Blvd SW|Edmonton, Alberta T6W0J5",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"406-4000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"988-4067",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509231109"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/277440\/remax-elite-302-5083-windermere-blvd-sw-edmonton-alberta-t6w0j5",
+                "PhotoLastupdate":"2023-07-21 12:37:17 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"498-2187",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"988-4067",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.alangee.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/alangeeandassociates\/",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/alan-gee-23b41519?trk=hp-identity-headline",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"511285804"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS636917051400000000\/lowres\/1011748.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Alan",
+            "LastName":"Gee",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1477987\/alan-gee-302-5083-windermere-blvd-sw-edmonton-alberta-t6w0j5",
+            "AgentPhotoLastUpdated":"2019-04-24 12:19:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS636917051400000000\/highres\/1011748.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        },
+        {
+            "IndividualID":2108638,
+            "Name":"Melissa A. Gee",
+            "Organization":{
+                "OrganizationID":277440,
+                "Name":"RE\/MAX Elite",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638255398370000000\/lowres\/1285357.jpg",
+                "Address":{
+                    "AddressText":"302-5083 Windermere Blvd SW|Edmonton, Alberta T6W0J5",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"406-4000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"988-4067",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509231109"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/277440\/remax-elite-302-5083-windermere-blvd-sw-edmonton-alberta-t6w0j5",
+                "PhotoLastupdate":"2023-07-21 12:37:17 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"263-2967",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"988-4067",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"https:\/\/alangee.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.instagram.com\/melissaagee\/",
+                    "WebsiteTypeId":"5"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"522822877"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637479705600000000\/lowres\/1377522.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Melissa",
+            "LastName":"Gee",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2108638\/melissa-gee-302-5083-windermere-blvd-sw-edmonton-alberta-t6w0j5",
+            "AgentPhotoLastUpdated":"2021-02-03 17:36:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637479705600000000\/highres\/1377522.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$199,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#101 9131 99 ST NW|Edmonton, Alberta T6E3V9",
+            "Longitude":"-113.485559184656",
+            "Latitude":"53.5269904",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638255398371630000\/reb10\/highres\/2\/E4350962_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638255398371630000\/reb10\/medres\/2\/E4350962_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638255398371630000\/reb10\/lowres\/2\/E4350962_1.jpg",
+                "LastUpdated":"2023-07-21 12:37:17 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Underground",
+        "PriceUnformattedValue":"199900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"70.99 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E3V9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25860117\/101-9131-99-st-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-21 4:37:17 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25860117\/101-9131-99-st-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25860117\/101-9131-99-st-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638255542371570000",
+    "TimeOnRealtor":"1 day ago",
+    "Tags":[
+        {
+            "Label":"1 day ago",
+            "HTMLColorCode":"#23A1C0",
+            "ListingTagTypeID":"1"
+        }
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

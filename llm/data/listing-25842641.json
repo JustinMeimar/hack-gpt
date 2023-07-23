@@ -1,0 +1,150 @@
+{
+    "Id":"25842641",
+    "MlsNumber":"E4350395",
+    "PublicRemarks":"Condo fee includes all utilities! Location! Amazing City View! This beautiful 1 Bed, 1 Bath unit is sure to impress you. It features spacious bedroom, living room with breath taking views and tons of natural light, IN-SUITE LAUNDRY, and TITLED UNDERGROUND PARKING. Recent upgrades include new flooring, new light fixture, new dryer and faucet. Steps away from U of A, Hospital, LRT, River Valley, Whyte Avenue, Downtown, and everything else our city has to offer. Enjoy beautiful sunset and Canada Day firework at your private balcony! Perfect space for students or professionals! (30193036)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"80.85 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":2079461,
+            "Name":"Alice An",
+            "Organization":{
+                "OrganizationID":67106,
+                "Name":"Coldwell Banker Venture Realty",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638252158120000000\/lowres\/67106.jpg",
+                "Address":{
+                    "AddressText":"201-10114 156 St NW|Edmonton, Alberta T5P2P9",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"483-0601",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"484-9558",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516899"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67106\/coldwell-banker-venture-realty-201-10114-156-st-nw-edmonton-alberta-t5p2p9",
+                "PhotoLastupdate":"2023-07-17 6:36:52 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"700-3820",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"484-9558",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"510871054"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Alice",
+            "LastName":"An",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2079461\/alice-an-201-10114-156-st-nw-edmonton-alberta-t5p2p9",
+            "RankMyAgentKey":"94364",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$275,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#1204 11027 87 AV NW|Edmonton, Alberta T6G2P9",
+            "Longitude":"-113.516342628836",
+            "Latitude":"53.5226780917222",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638252158126800000\/reb10\/highres\/5\/E4350395_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638252158126800000\/reb10\/medres\/5\/E4350395_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638252158126800000\/reb10\/lowres\/5\/E4350395_1.jpg",
+                "LastUpdated":"2023-07-17 6:36:52 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"275000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6G2P9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25842641\/1204-11027-87-av-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-17 10:36:52 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25842641\/1204-11027-87-av-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25842641\/1204-11027-87-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638252302126730000",
+    "TimeOnRealtor":"5 days ago",
+    "Tags":[
+        {
+            "Label":"5 days ago",
+            "HTMLColorCode":"#23A1C0",
+            "ListingTagTypeID":"1"
+        }
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

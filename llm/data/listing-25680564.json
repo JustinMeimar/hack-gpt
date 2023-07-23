@@ -1,0 +1,151 @@
+{
+    "Id":"25680564",
+    "MlsNumber":"E4344296",
+    "PublicRemarks":"High quality built building with lots of extras & this particular unit is a main floor open layout with 2 bedroom, 2 bathroom,  947 sq ft 2017 built condo in the Strathcona neighborhood south of the North Saskatchewan river. This unit has 9ft ceilings which makes it show larger than its size, with a terrific open floor plan & amazing kitchen with quartz countertops, lots of cabinet space, & stainless appliances & higher end fixtures throughout. This very popular floor plan has 2 bedrooms, 4 piece main bathroom, with the master bedroom offering a 3 piece ensuite. This unit comes with 1 titled underground parking stall & storage area. The location of this beautiful building is great & close to all amenities but still located on a quiet street away from Whyte Ave. The building features lighted secure front entrance, rooftop patio with a great view which makes it nice for meeting friends & socializing. This is a great investment opportunity has current tenants that would like to stay. (30024860)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"80 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478285,
+            "Name":"Dave B. Johnston",
+            "Organization":{
+                "OrganizationID":289397,
+                "Name":"RE\/MAX River City",
+                "Address":{
+                    "AddressText":"13120 St Albert Trail NW|Edmonton, Alberta T5L4P6",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"457-3777",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"457-2194",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509110189"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/289397\/remax-river-city-13120-st-albert-trail-nw-edmonton-alberta-t5l4p6",
+                "PhotoLastupdate":"2023-07-07 8:36:39 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"951-7371",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"457-2194",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.johnstonhomes.ca\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509127106"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Dave",
+            "LastName":"Johnston",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478285\/dave-johnston-13120-st-albert-trail-nw-edmonton-alberta-t5l4p6",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$320,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#103 10006 83 AV NW|Edmonton, Alberta T6E2C2",
+            "Longitude":"-113.4891768",
+            "Latitude":"53.5191352918634",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638216878252530000\/reb10\/highres\/6\/E4344296_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638216878252530000\/reb10\/medres\/6\/E4344296_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638216878252530000\/reb10\/lowres\/6\/E4344296_1.jpg",
+                "LastUpdated":"2023-06-06 10:37:05 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"320000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E2C2",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25680564\/103-10006-83-av-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-07 2:37:05 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25680564\/103-10006-83-av-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25680564\/103-10006-83-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638217022252470000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

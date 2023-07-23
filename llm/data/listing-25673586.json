@@ -1,0 +1,161 @@
+{
+    "Id":"25673586",
+    "MlsNumber":"E4344042",
+    "PublicRemarks":"Looking for the perfect investment property? This one bed\/one bath modern suite is extensively renovated with new doors, flooring, windows, paint and a modernized kitchen. The condo is located in the heart of Garneau, within 10 min walk from UofA campus\/ University Campus and a block off of Whyte ave. The property is near major bus routes, Safeway, numerous restaurants and stores which is perfect for either airbnb or a furnished rental. The cozy space offers a spacious living room with oversized windows that allow tons of natural light, a nice sized breakfast nook, massive storage room and a completed renovated 4pc bath. There is shared laundry on the same floor. The property also comes with 1 assigned parking stall directly in the back of the building. Perfect for any investor or first time home buyer! (30017628)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"57.1 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1945635,
+            "Name":"Tony Vo",
+            "Organization":{
+                "OrganizationID":197941,
+                "Name":"MaxWell Progressive",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638243302010000000\/lowres\/1194244.jpg",
+                "Address":{
+                    "AddressText":"10630 124 St NW|Edmonton, Alberta T5N1S3",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"478-5478",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"457-5240",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"517563374"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/197941\/maxwell-progressive-10630-124-st-nw-edmonton-alberta-t5n1s3",
+                "PhotoLastupdate":"2023-07-07 12:36:41 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"807-6464",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"457-5240",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.edmontonshomes.ca\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/citylinkteam\/",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/tony-vo-96854b119\/",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509118420"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Tony",
+            "LastName":"Vo",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1945635\/tony-vo-10630-124-st-nw-edmonton-alberta-t5n1s3",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$139,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#101 10815 83 AV NW|Edmonton, Alberta T6E2E6",
+            "Longitude":"-113.510052384656",
+            "Latitude":"53.5188543",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638215798283770000\/reb10\/highres\/2\/E4344042_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638215798283770000\/reb10\/medres\/2\/E4344042_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638215798283770000\/reb10\/lowres\/2\/E4344042_1.jpg",
+                "LastUpdated":"2023-06-05 4:37:08 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"139900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E2E6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25673586\/101-10815-83-av-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-05 8:37:08 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25673586\/101-10815-83-av-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25673586\/101-10815-83-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638215942283700000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

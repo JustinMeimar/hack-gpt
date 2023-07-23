@@ -1,0 +1,162 @@
+{
+    "Id":"25769131",
+    "MlsNumber":"E4347507",
+    "PublicRemarks":"Prepare to be amazed by this Garneau Condo in an exceptional LOCATION! Meticulously maintained 1,260 ft 2-bedroom, 2-bathroom condo is guaranteed to impress! Natural light floods the space through floor-to-ceiling windows facing south+north. Open concept offers a generous dining room area, a recently updated kitchen with stainless steel appliances, tile back-splash, and stunning stone counter-tops. Spacious living room features a fireplace and grants access to a balcony overlooking the charming, tree-lined street. No compromises were made in terms of bedroom sizes in this residence. Master bedroom boasts ample room for a complete king bedroom set, a walk-in closet, and a en-suite bathroom. The second bedroom is sizable and serves as an ideal office. Additional highlights of this unit include in-suite laundry, a gas BBQ line, underground parking, air conditioning, and a storage cage. With a Walk Score of 92 (walker's paradise), everything you could ever need is just a short stroll away, including the UofA (30116638)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"117.11 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Ceiling - 9ft, Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":1875835,
+            "Name":"Ryan T. Gillen",
+            "Organization":{
+                "OrganizationID":289397,
+                "Name":"RE\/MAX River City",
+                "Address":{
+                    "AddressText":"13120 St Albert Trail NW|Edmonton, Alberta T5L4P6",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"457-3777",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"457-2194",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509110189"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/289397\/remax-river-city-13120-st-albert-trail-nw-edmonton-alberta-t5l4p6",
+                "PhotoLastupdate":"2023-06-28 8:36:55 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"700-8355",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"457-2194",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.ryangillen.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"511288511"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637812698400000000\/lowres\/1204240.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Ryan",
+            "LastName":"Gillen",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1875835\/ryan-gillen-13120-st-albert-trail-nw-edmonton-alberta-t5l4p6",
+            "AgentPhotoLastUpdated":"2022-02-24 03:24:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637812698400000000\/highres\/1204240.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$299,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#311 10717 83 AV NW|Edmonton, Alberta T6E2E5",
+            "Longitude":"-113.507190284656",
+            "Latitude":"53.5189910989596",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638235526246630000\/reb10\/highres\/7\/E4347507_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638235526246630000\/reb10\/medres\/7\/E4347507_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638235526246630000\/reb10\/lowres\/7\/E4347507_1.jpg",
+                "LastUpdated":"2023-06-28 12:37:04 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Stall"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Stall, Underground",
+        "PriceUnformattedValue":"299000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E2E5",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25769131\/311-10717-83-av-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-28 4:37:04 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25769131\/311-10717-83-av-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25769131\/311-10717-83-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638235670246600000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

@@ -1,0 +1,195 @@
+{
+    "Id":"25636818",
+    "MlsNumber":"E4342536",
+    "PublicRemarks":"WALKABLE U OF A CONDO, SOUTH VIEWS. Spacious 728 square 1 bed\/1 bath condo in Varscona Towers. Walking distance to the U of A campus & hospital, river valley, Safeway, Shoppers Drug Mart, Whyte Avenue dining, shopping, nightlife & coffee. Clean with beautiful South views, natural light. Quick access to public transportation (ETS and LRT) and bike lanes right outside the front door. Perfect for students, young professionals, healthcare workers, this condo has a huge living room, dining room, galley kitchen. Spacious bedroom, full 4-piece bath, and a sunny, private, balcony. Unit comes with refrigerator, electric stove, hood fan and built-in dishwasher with laundry on each floor. One assigned parking stall & visitor parking. Great building with low condo fees  $450.69\/month (includes heat, water, electricity, building maintenance, common area insurance). Amazing opportunity close to the U of A and downtown! (29979354)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"67.59 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1791953,
+            "Name":"Sara J. Kalke",
+            "Organization":{
+                "OrganizationID":67032,
+                "Name":"RE\/MAX Real Estate",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638212018030000000\/lowres\/1004792.jpg",
+                "Address":{
+                    "AddressText":"200-10835 124 St NW|Edmonton, Alberta T5M0H4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"488-4000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"447-1695",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520270164"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67032\/remax-real-estate-200-10835-124-st-nw-edmonton-alberta-t5m0h4",
+                "PhotoLastupdate":"2023-06-01 7:36:43 AM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"710-7669",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"447-1695",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.sarakalke.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/sarakalkerealtor",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/sarakalke",
+                    "WebsiteTypeId":"5"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"522104450"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS638022399600000000\/lowres\/1189397.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Sara",
+            "LastName":"Kalke",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1791953\/sara-kalke-200-10835-124-st-nw-edmonton-alberta-t5m0h4",
+            "AgentPhotoLastUpdated":"2022-10-24 20:26:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS638022399600000000\/highres\/1189397.jpg",
+            "RankMyAgentKey":"22557",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$164,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#406 11007 83 AV NW|Edmonton, Alberta T6G0T9",
+            "Longitude":"-113.515306726984",
+            "Latitude":"53.5187339949917",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638207230280370000\/reb10\/highres\/6\/E4342536_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638207230280370000\/reb10\/medres\/6\/E4342536_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638207230280370000\/reb10\/lowres\/6\/E4342536_1.jpg",
+                "LastUpdated":"2023-05-26 6:37:08 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Street"
+            },
+            {
+                "Name":"Parkade"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Street, Parkade",
+        "PriceUnformattedValue":"164000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"26.92 m2"
+    },
+    "AlternateURL":{
+        "BrochureLink":"https:\/\/sarakalke.com\/featured\/406-11007-83-avenue-edmonton-ab-t6g-0t9\/",
+        "DetailsLink":"https:\/\/sarakalke.com\/featured\/406-11007-83-avenue-edmonton-ab-t6g-0t9\/",
+        "PhotoLink":"https:\/\/sarakalke.com\/featured\/406-11007-83-avenue-edmonton-ab-t6g-0t9\/",
+        "VideoLink":"https:\/\/www.youtube.com\/watch?v=D5FKBKJoqXI"
+    },
+    "PostalCode":"T6G0T9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25636818\/406-11007-83-av-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-05-26 10:37:08 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25636818\/406-11007-83-av-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25636818\/406-11007-83-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"1",
+            "MediaCategoryURL":"https:\/\/sarakalke.com\/featured\/406-11007-83-avenue-edmonton-ab-t6g-0t9\/",
+            "Description":"AlternateFeatureSheetWebsite",
+            "Order":1
+        },
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/www.youtube.com\/watch?v=D5FKBKJoqXI",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"Youtube"
+        },
+        {
+            "MediaCategoryId":"4",
+            "MediaCategoryURL":"https:\/\/sarakalke.com\/featured\/406-11007-83-avenue-edmonton-ab-t6g-0t9\/",
+            "Description":"SalesBrochureWebsite",
+            "Order":3
+        },
+        {
+            "MediaCategoryId":"5",
+            "MediaCategoryURL":"https:\/\/sarakalke.com\/featured\/406-11007-83-avenue-edmonton-ab-t6g-0t9\/",
+            "Description":"AdditionalPicturesWebsite",
+            "Order":2
+        }
+    ],
+    "InsertedDateUTC":"638207374280300000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

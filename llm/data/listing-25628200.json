@@ -1,0 +1,219 @@
+{
+    "Id":"25628200",
+    "MlsNumber":"E4342190",
+    "PublicRemarks":"Top Floor, 1 bedroom condo minutes to the university. Fully renovated unit in Seymour Place just off Whyte Avenue. Renovations include stunning kitchen with granite countertops with maple cabinets, hardwood floors throughout, ceramic tile in the entry, kitchen and bathroom, paint, crown moulding, baseboards, mirrored closet doors and lighting. New black appliances include stove, fridge, microwave, hood fan, dishwasher, and European washer\/dryer. Ready to move into. Perfect for students! (29970390)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"63.55 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1479317,
+            "Name":"Marty Smayda",
+            "Organization":{
+                "OrganizationID":67032,
+                "Name":"RE\/MAX Real Estate",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638256477910000000\/lowres\/1004792.jpg",
+                "Address":{
+                    "AddressText":"200-10835 124 St NW|Edmonton, Alberta T5M0H4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"488-4000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"447-1695",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520270164"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67032\/remax-real-estate-200-10835-124-st-nw-edmonton-alberta-t5m0h4",
+                "PhotoLastupdate":"2023-07-22 6:36:31 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"695-9030",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"467-2897",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/ziomarty.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"520936051"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS638201247600000000\/lowres\/1091312.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Marty",
+            "LastName":"Smayda",
+            "CccMember":true,
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1479317\/marty-smayda-200-10835-124-st-nw-edmonton-alberta-t5m0h4",
+            "AgentPhotoLastUpdated":"2023-05-19 20:26:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS638201247600000000\/highres\/1091312.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        },
+        {
+            "IndividualID":1478219,
+            "Name":"Linda Louise Hueston",
+            "Organization":{
+                "OrganizationID":67032,
+                "Name":"RE\/MAX Real Estate",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638256477910000000\/lowres\/1004792.jpg",
+                "Address":{
+                    "AddressText":"200-10835 124 St NW|Edmonton, Alberta T5M0H4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"488-4000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"447-1695",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520270164"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67032\/remax-real-estate-200-10835-124-st-nw-edmonton-alberta-t5m0h4",
+                "PhotoLastupdate":"2023-07-22 6:36:31 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"490-8889",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"520418995"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Linda",
+            "LastName":"Hueston",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478219\/linda-hueston-200-10835-124-st-nw-edmonton-alberta-t5m0h4",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$155,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#408 9925 83 AV NW|Edmonton, Alberta T6E2B9",
+            "Longitude":"-113.486862284656",
+            "Latitude":"53.5189593782312",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638206927480470000\/reb10\/highres\/0\/E4342190_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638206927480470000\/reb10\/medres\/0\/E4342190_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638206927480470000\/reb10\/lowres\/0\/E4342190_1.jpg",
+                "LastUpdated":"2023-05-26 10:12:28 AM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"155000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"48.23 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E2B9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25628200\/408-9925-83-av-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-05-26 2:12:36 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25628200\/408-9925-83-av-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25628200\/408-9925-83-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638206294396770000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-22 10:40:26 PM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":true
+}

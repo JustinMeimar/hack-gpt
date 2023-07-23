@@ -1,0 +1,210 @@
+{
+    "Id":"25832720",
+    "MlsNumber":"E4349956",
+    "PublicRemarks":"Welcome to University Place - Prime location in the heart of Garneau on UofA Campus!Walking to UofA academicbuildings,hospital, LRTWhyte AVE and shopping.This TOP FLOOR air conditioned TWO bedroom TWO full bath condo unit boasts 792 sqft with an open concept functional floor layout. Large living room has a gas fireplace and apatio door leading to a large balcony. The kitchen hasloads of cabinetry & ample counter space withaSKYLIGHT! The primary bedroom is generously sized withits own 4 pc ensuite & walkthru closet; The second bedroom is set-up as a flex room or office with double french door - adjacent to a 3pc bath. In-suite laundry.ONE assigned underground parking.This unit is perfect for students, professionals working at UofA or downtownor an addition to your rental portfolio! (30182676)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"73.65 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":1857916,
+            "Name":"Fan Yang",
+            "Organization":{
+                "OrganizationID":284670,
+                "Name":"Mozaic Realty Group",
+                "Address":{
+                    "AddressText":"201-2333 90B St SW|Edmonton, Alberta T6X1V8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"905-3008",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516304"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/284670\/mozaic-realty-group-201-2333-90b-st-sw-edmonton-alberta-t6x1v8",
+                "PhotoLastupdate":"2023-07-14 12:37:33 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"885-7077",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.fanyangteam.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/twitter.com\/EdmontonFanYang",
+                    "WebsiteTypeId":"4"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/edmontonfanyang",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/fan-yang-1714b31a\/",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509111404"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/lowres\/1200339.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Fan",
+            "LastName":"Yang",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1857916\/fan-yang-201-2333-90b-st-sw-edmonton-alberta-t6x1v8",
+            "AgentPhotoLastUpdated":"2022-04-26 14:06:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/highres\/1200339.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        },
+        {
+            "IndividualID":1933357,
+            "Name":"Haijun Yan",
+            "Organization":{
+                "OrganizationID":284670,
+                "Name":"Mozaic Realty Group",
+                "Address":{
+                    "AddressText":"201-2333 90B St SW|Edmonton, Alberta T6X1V8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"905-3008",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516304"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/284670\/mozaic-realty-group-201-2333-90b-st-sw-edmonton-alberta-t6x1v8",
+                "PhotoLastupdate":"2023-07-14 12:37:33 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"937-9648",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509120540"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Haijun",
+            "LastName":"Yan",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1933357\/haijun-yan-201-2333-90b-st-sw-edmonton-alberta-t6x1v8",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$299,800",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#502 8488 111 ST NW|Edmonton, Alberta T6G2V9",
+            "Longitude":"-113.518226084656",
+            "Latitude":"53.5207412359053",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249350538170000\/reb10\/highres\/6\/E4349956_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249350538170000\/reb10\/medres\/6\/E4349956_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638249350538170000\/reb10\/lowres\/6\/E4349956_1.jpg",
+                "LastUpdated":"2023-07-14 12:37:33 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"299800"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"33.14 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6G2V9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25832720\/502-8488-111-st-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-14 4:37:33 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25832720\/502-8488-111-st-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25832720\/502-8488-111-st-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638249494538070000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

@@ -1,0 +1,190 @@
+{
+    "Id":"25627201",
+    "MlsNumber":"E4342178",
+    "PublicRemarks":"Welcome home to the epitome of elegance and charm! This mid-century modern condo has everything you need for the perfect urban lifestyle; from stunning blue cabinetry, stainless steel appliances and quartz counters in the kitchen, to a wood burning fireplace that will keep you cozy year round. Oversized windows bring plenty of natural light into your space while also offering expansive views of a tree lined street and park - it's like having your own private oasis! Enjoy a large primary bedroom with new lighting\/paint\/flooring plus an ensuite bath; plus an additional bedroom with access to the private patio. Don't forget about the updated 4pc bath, large storage room with laundry, and covered parking stall - all within walking distance to River Valley trails, University of Alberta & Whyte Ave restaurants & shops. Whether you're looking for a luxury living space or just want an easy commute downtown; this is definitely one property not to miss out on! (29969379)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"94.89 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":2037400,
+            "Name":"Caitlin Heine",
+            "Organization":{
+                "OrganizationID":67032,
+                "Name":"RE\/MAX Real Estate",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638215726260000000\/lowres\/1004792.jpg",
+                "Address":{
+                    "AddressText":"200-10835 124 St NW|Edmonton, Alberta T5M0H4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"488-4000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"447-1695",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520270164"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67032\/remax-real-estate-200-10835-124-st-nw-edmonton-alberta-t5m0h4",
+                "PhotoLastupdate":"2023-06-05 2:37:06 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"336-3176",
+                    "AreaCode":"587",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"447-1695",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"https:\/\/www.iconicyeg.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/iconicyeg",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/ca.linkedin.com\/in\/caitlin-heine",
+                    "WebsiteTypeId":"3"
+                },
+                {
+                    "Website":"https:\/\/www.instagram.com\/iconic.yeg\/",
+                    "WebsiteTypeId":"5"
+                },
+                {
+                    "Website":"https:\/\/www.youtube.com\/channel\/UClctMgAfQnl-18lPIk1U5MQ",
+                    "WebsiteTypeId":"7"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"515397390"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS638140672800000000\/lowres\/1313930.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Caitlin",
+            "LastName":"Heine",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2037400\/caitlin-heine-200-10835-124-st-nw-edmonton-alberta-t5m0h4",
+            "AgentPhotoLastUpdated":"2023-03-10 17:48:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS638140672800000000\/highres\/1313930.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$249,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#5 10516 84 AV NW|Edmonton, Alberta T6E2H4",
+            "Longitude":"-113.501465515344",
+            "Latitude":"53.5202488148389",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638238097126430000\/reb10\/highres\/8\/E4342178_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638238097126430000\/reb10\/medres\/8\/E4342178_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638238097126430000\/reb10\/lowres\/8\/E4342178_1.jpg",
+                "LastUpdated":"2023-07-01 12:01:52 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Street"
+            },
+            {
+                "Name":"Stall"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Park, Golf Course, Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Street, Stall",
+        "PriceUnformattedValue":"249000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"100.61 m2"
+    },
+    "AlternateURL":{
+        "BrochureLink":"https:\/\/iconicyeg.com\/recip.html\/listing.e4342178-5-10516-84-avenue-edmonton-t6e-2h4.99353957",
+        "DetailsLink":"https:\/\/iconicyeg.com\/strathcona.html"
+    },
+    "PostalCode":"T6E2H4",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25627201\/5-10516-84-av-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-01 4:01:56 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25627201\/5-10516-84-av-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25627201\/5-10516-84-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"1",
+            "MediaCategoryURL":"https:\/\/iconicyeg.com\/strathcona.html",
+            "Description":"AlternateFeatureSheetWebsite",
+            "Order":1
+        },
+        {
+            "MediaCategoryId":"4",
+            "MediaCategoryURL":"https:\/\/iconicyeg.com\/recip.html\/listing.e4342178-5-10516-84-avenue-edmonton-t6e-2h4.99353957",
+            "Description":"SalesBrochureWebsite",
+            "Order":3
+        }
+    ],
+    "InsertedDateUTC":"638206222236400000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-06-05 6:40:36 PM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

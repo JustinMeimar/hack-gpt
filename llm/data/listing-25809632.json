@@ -1,0 +1,167 @@
+{
+    "Id":"25809632",
+    "MlsNumber":"E4349090",
+    "PublicRemarks":"One of the MOST BEAUTIFUL VIEWS in Edmonton! This unit faces north towards the INCREDIBLE RIVER VALLEY and DOWNTOWN VIEWS! Spacious and bright 1 bedroom 1 bathroom condo in STRATHCONA HOUSE with laminate floors. Galley style kitchen, with a dining and open living area and private patio to enjoy your quiet, oasis above the River Valley! Desirable building with an on-site manager ( very responsive), great amenities including indoor pool, exercise room and private park area with gazebo and gas BBQs. The Amenities are well taken care of! Close to Whyte Ave, across the high level bridge to downtown, walking distance from the U of A. Condo fees include heat, power, water and of course a parking stall. Great investment on this prime location. (30158722)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"60.24 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1982145,
+            "Name":"David M. Ozubko",
+            "Organization":{
+                "OrganizationID":67130,
+                "Name":"RE\/MAX River City",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638244310230000000\/lowres\/1004972.jpg",
+                "Address":{
+                    "AddressText":"100-10328 81 Ave NW|Edmonton, Alberta T6E1X2",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"439-7000",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"439-7248",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516328"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67130\/remax-river-city-100-10328-81-ave-nw-edmonton-alberta-t6e1x2",
+                "PhotoLastupdate":"2023-07-08 4:37:03 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"966-8227",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"467-2897",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.davesells.ca\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/twitter.com\/DOzubko",
+                    "WebsiteTypeId":"4"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/DaveSells.ca\/",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/dave-ozubko-55441574",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"513781044"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637151477400000000\/lowres\/1267539.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"David",
+            "LastName":"Ozubko",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1982145\/david-ozubko-100-10328-81-ave-nw-edmonton-alberta-t6e1x2",
+            "AgentPhotoLastUpdated":"2020-01-20 20:09:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637151477400000000\/highres\/1267539.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$157,500",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#905 10883 SASKATCHEWAN DR NW|Edmonton, Alberta T6E4S6",
+            "Longitude":"-113.509969",
+            "Latitude":"53.5234048484011",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638244310234600000\/reb10\/highres\/0\/E4349090_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638244310234600000\/reb10\/medres\/0\/E4349090_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638244310234600000\/reb10\/lowres\/0\/E4349090_1.jpg",
+                "LastUpdated":"2023-07-08 4:37:03 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools, Shopping, Ski hill",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"157500"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"28.09 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E4S6",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25809632\/905-10883-saskatchewan-dr-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-08 8:37:03 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25809632\/905-10883-saskatchewan-dr-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25809632\/905-10883-saskatchewan-dr-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638244454234570000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

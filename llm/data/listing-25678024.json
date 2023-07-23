@@ -1,0 +1,172 @@
+{
+    "Id":"25678024",
+    "MlsNumber":"E4344215",
+    "PublicRemarks":"Welcome to this charming 2-bedroom condo perfectly nestled within walking distance to the prestigious University of Alberta. This stunning residence boasts an abundance of natural light, creating a warm and inviting atmosphere throughout. With its efficiently designed layout, this condo offers ample storage space to effortlessly enjoy organized living. The prime location is a true gem, as it backs onto a serene park, allowing you to enjoy picturesque views and tranquil walks. Additionally, residents have easy access to the vibrant Belgravia Community Center, where a variety of recreational activities and community events await. Don't miss this exceptional opportunity to embrace a comfortable lifestyle in an ideal setting. Close to great local amenities, shopping and public transit. (30022239)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"2",
+        "SizeInterior":"74.4 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478203,
+            "Name":"Neil Horvath",
+            "Organization":{
+                "OrganizationID":67132,
+                "Name":"RE\/MAX Excellence",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638216590590000000\/lowres\/remax.gif",
+                "Address":{
+                    "AddressText":"201-5607 199 St NW|Edmonton, Alberta T6M0M8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"481-2950",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"481-1144",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520829235"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67132\/remax-excellence-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+                "PhotoLastupdate":"2023-06-06 2:37:39 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"908-5630",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"481-1144",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.neilhorvath.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"511280913"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS0\/lowres\/1100928.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Neil",
+            "LastName":"Horvath",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478203\/neil-horvath-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS0\/highres\/1100928.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$134,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#6 7307 118 ST NW|Edmonton, Alberta T6G1S5",
+            "Longitude":"-113.533853",
+            "Latitude":"53.5089433391821",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638216590596600000\/reb10\/highres\/5\/E4344215_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638216590596600000\/reb10\/medres\/5\/E4344215_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638216590596600000\/reb10\/lowres\/5\/E4344215_1.jpg",
+                "LastUpdated":"2023-06-06 2:37:39 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Park, Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall",
+        "PriceUnformattedValue":"134900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"155.44 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/youriguide.com\/7307_118_st_nw_edmonton_ab\/"
+    },
+    "PostalCode":"T6G1S5",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25678024\/6-7307-118-st-nw-edmonton-belgravia",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-06 6:37:39 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25678024\/6-7307-118-st-nw-edmonton-belgravia",
+    "RelativeURLFr":"\/immobilier\/25678024\/6-7307-118-st-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/7307_118_st_nw_edmonton_ab\/",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"iGuide"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/7307_118_st_nw_edmonton_ab\/\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/7307_118_st_nw_edmonton_ab\/\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        }
+    ],
+    "InsertedDateUTC":"638216734596530000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

@@ -1,0 +1,162 @@
+{
+    "Id":"25838395",
+    "MlsNumber":"E4350298",
+    "PublicRemarks":"Scona Gardens is the sought-after condo right off Whyte Ave!  Perfect for any working professional or student. This top-floor luxury suite has one massive bedroom and a large den. The ceilings are 10 ft tall and the condo has extra windows allowing for ample light. The kitchen has plenty of cabinetry with a pantry and a breakfast bar. Laminate and carpet throughout. This is an original owner unit that is in immaculate condition. Scona Gardens is well maintained and has an exercise room and car wash in the underground parking. This is centrally located close to the funky and bohemian spirit of Whyte Ave where you have all amenities! This is a must-see, shows a solid 11\/10 (30188693)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"1",
+        "SizeInterior":"86.12 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Ceiling - 10ft"
+    },
+    "Individual":[
+        {
+            "IndividualID":2097537,
+            "Name":"Sherelle Murray",
+            "Organization":{
+                "OrganizationID":67188,
+                "Name":"The Good Real Estate Company",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638251366110000000\/lowres\/67188.jpg",
+                "Address":{
+                    "AddressText":"9920 79 Ave NW|Edmonton, Alberta T6E1R4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"433-9999",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"439-9696",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509230848"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67188\/the-good-real-estate-company-9920-79-ave-nw-edmonton-alberta-t6e1r4",
+                "PhotoLastupdate":"2023-07-16 8:36:51 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"715-8297",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"439-9696",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509122409"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Sherelle",
+            "LastName":"Murray",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2097537\/sherelle-murray-9920-79-ave-nw-edmonton-alberta-t6e1r4",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$255,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#431 10121 80 AV NW|Edmonton, Alberta T6E0B9",
+            "Longitude":"-113.492360114819",
+            "Latitude":"53.5157844824879",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638251366118000000\/reb10\/highres\/8\/E4350298_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638251366118000000\/reb10\/medres\/8\/E4350298_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638251366118000000\/reb10\/lowres\/8\/E4350298_1.jpg",
+                "LastUpdated":"2023-07-16 8:36:51 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Underground",
+        "PriceUnformattedValue":"255000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"4.12 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/www.youtube.com\/watch?v=jf7KdAEOE04&feature=youtu.be"
+    },
+    "PostalCode":"T6E0B9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25838395\/431-10121-80-av-nw-edmonton-ritchie",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-17 12:36:51 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25838395\/431-10121-80-av-nw-edmonton-ritchie",
+    "RelativeURLFr":"\/immobilier\/25838395\/431-10121-80-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/www.youtube.com\/watch?v=jf7KdAEOE04&feature=youtu.be",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"Youtube"
+        }
+    ],
+    "InsertedDateUTC":"638251510117900000",
+    "TimeOnRealtor":"6 days ago",
+    "Tags":[
+        {
+            "Label":"6 days ago",
+            "HTMLColorCode":"#23A1C0",
+            "ListingTagTypeID":"1"
+        }
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

@@ -1,0 +1,231 @@
+{
+    "Id":"25699501",
+    "MlsNumber":"E4345063",
+    "PublicRemarks":"PRIME LOCATION! WALKING DISTANCE TO THE UNIVERSITY OF ALBERTA! ACROSS FROM CHARLES SIMMONDS PARK! Meticulous 2 bedroom 2 bathroom condo located on a quiet tree lined street in the heart of Belgravia. The open floor plan is perfect for living & entertaining! The kitchen offers solid wood cabinetry, stainless appliances & cozy breakfast nook. Spacious living room with convenient gas fireplace & garden door leading to a massive west facing outdoor patio. Generous size master has a walk-in closet, 4pce bath with luxurious soaker tub & stand up shower. An additional bedroom & bathroom complete this fabulous condo. The adult only building is well managed & maintained. Condo fees include heat, water & secure underground titled parking. Featuring A\/C, in-suite laundry\/storage, in-floor heat & 5X14 storage unit. Come live close to beautiful Hawrelak park, Whyte Avenue, vibrant Strathcona shopping district plus Edmonton's majestic river valley & trails. This is a place you will be truly proud to call home! MOVE IN! (30044564)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"105.01 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1771692,
+            "Name":"Felicia A. Dean",
+            "Organization":{
+                "OrganizationID":67132,
+                "Name":"RE\/MAX Excellence",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638252950030000000\/lowres\/remax.gif",
+                "Address":{
+                    "AddressText":"201-5607 199 St NW|Edmonton, Alberta T6M0M8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"481-2950",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"481-1144",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520829235"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67132\/remax-excellence-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+                "PhotoLastupdate":"2023-07-18 4:36:43 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"289-6670",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"481-1144",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/deanandosmond.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509126928"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/lowres\/1186533.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Felicia",
+            "LastName":"Dean",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1771692\/felicia-dean-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+            "AgentPhotoLastUpdated":"2022-04-26 14:06:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/highres\/1186533.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        },
+        {
+            "IndividualID":1915426,
+            "Name":"Jennifer A. Osmond",
+            "Organization":{
+                "OrganizationID":67132,
+                "Name":"RE\/MAX Excellence",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638252950030000000\/lowres\/remax.gif",
+                "Address":{
+                    "AddressText":"201-5607 199 St NW|Edmonton, Alberta T6M0M8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"481-2950",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"481-1144",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520829235"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67132\/remax-excellence-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+                "PhotoLastupdate":"2023-07-18 4:36:43 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"289-6671",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"481-1144",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509126151"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/lowres\/1224487.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Jennifer",
+            "LastName":"Osmond",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1915426\/jennifer-osmond-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+            "AgentPhotoLastUpdated":"2022-04-26 14:06:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/highres\/1224487.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$309,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#102 11660 79 AV NW|Edmonton, Alberta T6G0P7",
+            "Longitude":"-113.533422684656",
+            "Latitude":"53.5158719650964",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638219977095000000\/reb10\/highres\/3\/E4345063_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638219977095000000\/reb10\/medres\/3\/E4345063_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638219977095000000\/reb10\/lowres\/3\/E4345063_1.jpg",
+                "LastUpdated":"2023-06-10 12:41:49 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Parkade"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Parkade, Underground",
+        "PriceUnformattedValue":"309900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6G0P7",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25699501\/102-11660-79-av-nw-edmonton-belgravia",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-10 4:41:53 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25699501\/102-11660-79-av-nw-edmonton-belgravia",
+    "RelativeURLFr":"\/immobilier\/25699501\/102-11660-79-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638220118214530000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

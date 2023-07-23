@@ -1,0 +1,143 @@
+{
+    "Id":"25612584",
+    "MlsNumber":"E4341703",
+    "PublicRemarks":"Incredible opportunity to own in the iconic Garneau building on Whyte Ave! This 1-bed 1.5-bath plus den unit features 1185 sq.ft. of living space on two levels with private second-floor balcony. Main level features in-suite laundry, spacious den w\/access to lower patio area, massive 4-pc bath w\/jetted tub, and gorgeous primary bedroom w\/exposed brick, walk-in closet, and ensuite access. Upstairs, front entry has half bath and coat closet. Open-concept kitchen offers new stove and dishwasher, breakfast bar, plenty of natural light, and original exposed brick feature wall continuing to living room w\/gas fireplace and balcony access. Excellent professionally managed building w\/furnished common area and titled parking. Live in the heart of Edmontons most vibrant community with the citys finest in dining, night life, and retail within walking distance! (29954287)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"1",
+        "SizeInterior":"110.15 m2",
+        "StoriesTotal":"2",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1676274,
+            "Name":"Kelly A. Grant",
+            "Organization":{
+                "OrganizationID":285702,
+                "Name":"Sweetly",
+                "Address":{
+                    "AddressText":"227-6005  Gateway Blvd NW|Edmonton, Alberta T6H2H3",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"477-9338",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509230911"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/285702\/sweetly-227-6005-gateway-blvd-nw-edmonton-alberta-t6h2h3",
+                "PhotoLastupdate":"2023-05-20 4:36:57 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"242-2469",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"525628796"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS636457563000000000\/lowres\/1147042.jpg",
+            "Position":"Manager",
+            "PermitFreetextEmail":true,
+            "FirstName":"Kelly",
+            "LastName":"Grant",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1676274\/kelly-grant-227-6005-gateway-blvd-nw-edmonton-alberta-t6h2h3",
+            "AgentPhotoLastUpdated":"2017-11-08 16:45:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS636457563000000000\/highres\/1147042.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$325,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#205 10728 82 AV NW|Edmonton, Alberta T6E6P5",
+            "Longitude":"-113.5072172",
+            "Latitude":"53.5183252420071",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638201902078170000\/reb10\/highres\/3\/E4341703_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638201902078170000\/reb10\/medres\/3\/E4341703_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638201902078170000\/reb10\/lowres\/3\/E4341703_1.jpg",
+                "LastUpdated":"2023-05-20 2:36:47 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"325000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"51.95 m2"
+    },
+    "AlternateURL":{
+        "BrochureLink":"http:\/\/e4341703.sweetlylistings.ca\/"
+    },
+    "PostalCode":"T6E6P5",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25612584\/205-10728-82-av-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-05-20 6:36:47 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25612584\/205-10728-82-av-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25612584\/205-10728-82-av-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"4",
+            "MediaCategoryURL":"http:\/\/e4341703.sweetlylistings.ca\/",
+            "Description":"SalesBrochureWebsite",
+            "Order":3
+        }
+    ],
+    "InsertedDateUTC":"638202046078130000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

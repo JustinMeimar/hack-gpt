@@ -1,0 +1,238 @@
+{
+    "Id":"25781085",
+    "MlsNumber":"E4348000",
+    "PublicRemarks":"Spacious 3 BEDROOMS, 2 washrooms ( ensuite ), In Suite Laundry, Balcony, Gorgeous Newer Kitchen, and Washrooms, Beautiful, renovated, upgraded, like new with quality finishes, and in superior condition this masterpiece is in a prime southside location .... Walk to Whyte Ave, U of A, city center, all  are very close, with public transportation at Your door step to also access all parts of Edmonton. Quartz countertops, tile flooring, stainless steel appliances, hardwood floors, full ceiling height closet doors with customized closets, Murphy Beds, maximum living space design for each room, open modern feel throughout, the ambiance is bright energized living. Your Dream Lifestyle either socializing at The Fringe, or walking, biking in the river valley awaits with plentiful days and evenings of bliss, enjoyment for all. Perfect for all, younger to mature will appreciate upgrades in a character location. Heat and Water are included in the condo fee .... Perfection for Every Lifestyle begins here w Elegance !!! (30129085)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"3",
+        "SizeInterior":"100.29 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":1479440,
+            "Name":"Julian P. Szklarz",
+            "Organization":{
+                "OrganizationID":67106,
+                "Name":"Coldwell Banker Venture Realty",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638237542210000000\/lowres\/67106.jpg",
+                "Address":{
+                    "AddressText":"201-10114 156 St NW|Edmonton, Alberta T5P2P9",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"483-0601",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"484-9558",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516899"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67106\/coldwell-banker-venture-realty-201-10114-156-st-nw-edmonton-alberta-t5p2p9",
+                "PhotoLastupdate":"2023-06-30 8:37:01 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"907-2727",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"484-9558",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.juliansells.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509767273"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787000000000\/lowres\/1011062.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Julian",
+            "LastName":"Szklarz",
+            "CccMember":true,
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1479440\/julian-szklarz-201-10114-156-st-nw-edmonton-alberta-t5p2p9",
+            "AgentPhotoLastUpdated":"2022-04-26 14:05:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787000000000\/highres\/1011062.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        },
+        {
+            "IndividualID":1477700,
+            "Name":"Oriana L. Cronin",
+            "Organization":{
+                "OrganizationID":67106,
+                "Name":"Coldwell Banker Venture Realty",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638237542210000000\/lowres\/67106.jpg",
+                "Address":{
+                    "AddressText":"201-10114 156 St NW|Edmonton, Alberta T5P2P9",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"483-0601",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"484-9558",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516899"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67106\/coldwell-banker-venture-realty-201-10114-156-st-nw-edmonton-alberta-t5p2p9",
+                "PhotoLastupdate":"2023-06-30 8:37:01 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"934-5099",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"484-9558",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.juliansells.com\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509133081"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/lowres\/1101958.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Oriana",
+            "LastName":"Cronin",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1477700\/oriana-cronin-201-10114-156-st-nw-edmonton-alberta-t5p2p9",
+            "AgentPhotoLastUpdated":"2022-04-26 14:06:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787600000000\/highres\/1101958.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$268,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#204 9925 83 AV NW|Edmonton, Alberta T6E2B9",
+            "Longitude":"-113.487021435582",
+            "Latitude":"53.5188036105374",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638237542219130000\/reb10\/highres\/0\/E4348000_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638237542219130000\/reb10\/medres\/0\/E4348000_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638237542219130000\/reb10\/lowres\/0\/E4348000_1.jpg",
+                "LastUpdated":"2023-06-30 8:37:01 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Street"
+            },
+            {
+                "Name":"Stall"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Street, Stall",
+        "PriceUnformattedValue":"268000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E2B9",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25781085\/204-9925-83-av-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-01 12:37:01 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25781085\/204-9925-83-av-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25781085\/204-9925-83-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638237686219070000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

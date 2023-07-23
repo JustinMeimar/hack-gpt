@@ -1,0 +1,154 @@
+{
+    "Id":"25749446",
+    "MlsNumber":"E4346767",
+    "PublicRemarks":"PRIME LOCATION  The Avenue is in the heart of Old Strathcona, just a few blocks from Whyte Avenue, the U of A, restaurants, cafes & the Strathcona Farmers Market & shopping.  This spacious & bright two-bedroom, two-bathroom TOP FLOOR condo is a perfect investment for the first-time buyer or professional. The Open concept living area boasts a Modern Kitchen with ample cupboard space, a gorgeous corner gas fireplace & large windows giving tons of natural light. The Master en suite offers his\/hers sinks, an oversized shower & walk in closet.  A HUGE BALCONY complete with gas hookup, gives enjoyment & relaxation to the panoramic views of the mature trees in the Queen Alexandra community.  Making this a condo owners dream are in-suite laundry, air-conditioning, and secured, underground titled parking with attached storage cage. There is so much to be said about this unit, but you have to see it to take it all in.  Welcome Home! (30096213)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"96.04 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1995488,
+            "Name":"Thomas G. Harrington",
+            "Organization":{
+                "OrganizationID":293788,
+                "Name":"Black Sheep Realty",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638246758080000000\/lowres\/1431899.jpg",
+                "Address":{
+                    "AddressText":"1106-10226 104 St NW|Edmonton, Alberta T5J1B8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"993-8036",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"523867802"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/293788\/black-sheep-realty-1106-10226-104-st-nw-edmonton-alberta-t5j1b8",
+                "PhotoLastupdate":"2023-07-11 12:36:48 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"993-8036",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.thomasgharrington.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/ThomasYEGRealtor\/",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/harringtonrem\/",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"523867840"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637416936000000000\/lowres\/1278392.jpg",
+            "Position":"Broker",
+            "PermitFreetextEmail":true,
+            "FirstName":"Thomas",
+            "LastName":"Harrington",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1995488\/thomas-harrington-1106-10226-104-st-nw-edmonton-alberta-t5j1b8",
+            "AgentPhotoLastUpdated":"2020-11-23 02:00:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637416936000000000\/highres\/1278392.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$300,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#404 10525 80 AV NW|Edmonton, Alberta T6E1V4",
+            "Longitude":"-113.501791987732",
+            "Latitude":"53.5158240123482",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638230486284300000\/reb10\/highres\/7\/E4346767_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638230486284300000\/reb10\/medres\/7\/E4346767_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638230486284300000\/reb10\/lowres\/7\/E4346767_1.jpg",
+                "LastUpdated":"2023-06-22 4:37:08 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Heated Garage"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Heated Garage, Underground",
+        "PriceUnformattedValue":"300000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"80.8 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E1V4",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25749446\/404-10525-80-av-nw-edmonton-queen-alexandra",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-22 8:37:08 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25749446\/404-10525-80-av-nw-edmonton-queen-alexandra",
+    "RelativeURLFr":"\/immobilier\/25749446\/404-10525-80-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638230630284230000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

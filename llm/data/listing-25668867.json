@@ -1,0 +1,157 @@
+{
+    "Id":"25668867",
+    "MlsNumber":"E4343878",
+    "PublicRemarks":"Upgraded corner 2 bedroom in Strathcona Terrace with 2 titled parking spots and partial city views! Located on a quiet treed street close to the University this unit has it all. Fully CUSTOM UPGRADED kitchen and bathroom vanities to match, neutral grey tones with tons of storage, pull outs and custom pull out pantry. Newer stainless steel energy saving appliances with induction stove. Granite countertops. Undermount lighting. Living area is very bright and welcoming with a partial city view which would accommodate a firework show. Gas corner fireplace for an extra cozy feel. Large deck boasts gas hook up for BBQ. 2 big bedrooms, primary bedroom has its own bathroom with double shower and full wall of closet space. In suite laundry with storage area. 2 titled parking spots, one outdoor and one underground with private large storage for all your seasonal items. (30012745)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"101.81 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":1478737,
+            "Name":"Keri L. McTaggart",
+            "Organization":{
+                "OrganizationID":67120,
+                "Name":"NOW Real Estate Group",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638214070240000000\/lowres\/67120.jpg",
+                "Address":{
+                    "AddressText":"510- 800 Broadmoor Blvd|Sherwood Park, Alberta T8A4Y6",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"449-2800",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"449-3499",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516312"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67120\/now-real-estate-group-510-800-broadmoor-blvd-sherwood-park-alberta-t8a4y6",
+                "PhotoLastupdate":"2023-06-03 4:37:04 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"239-7275",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"449-3499",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.kerimctaggart.ca\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509132999"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Keri",
+            "LastName":"McTaggart",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478737\/keri-mctaggart-510--800-broadmoor-blvd-sherwood-park-alberta-t8a4y6",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$299,990",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#309 8909 100 ST NW|Edmonton, Alberta T6E6T4",
+            "Longitude":"-113.488245",
+            "Latitude":"53.5248191",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638214070249470000\/reb10\/highres\/8\/E4343878_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638214070249470000\/reb10\/medres\/8\/E4343878_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638214070249470000\/reb10\/lowres\/8\/E4343878_1.jpg",
+                "LastUpdated":"2023-06-03 4:37:04 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"2",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall, Underground",
+        "PriceUnformattedValue":"299990"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E6T4",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25668867\/309-8909-100-st-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-03 8:37:04 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25668867\/309-8909-100-st-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25668867\/309-8909-100-st-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638214214249430000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

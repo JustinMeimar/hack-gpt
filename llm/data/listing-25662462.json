@@ -1,0 +1,161 @@
+{
+    "Id":"25662462",
+    "MlsNumber":"E4343578",
+    "PublicRemarks":"Located on beautiful Saskatchewan Drive, this 1542 sqft top floor unit has a unique layout and beautiful features. It is technically a one bedroom unit however, there is second level loft with a 4 piece bathroom which can be used as a second primary bedroom, office space or bonus room. The main level has high quality vinyl plank flooring throughout and functional layout with nook, bathroom, kitchen, dining room, living room and primary bedroom. The primary is spacious with great closet space and 3 piece ensuite. The huge living room has soaring ceilings, gas fireplace and large windows which provides lots of natural light. Off the living room and primary bedroom is access to a large private balcony with amazing views of the river valley and downtown. The building is close to all amenities, Whyte Ave, the U of A, LRT, bus routes and easy access to downtown, Kinsmen Sports Centre and river valley pathway system. This well maintained condo building has all you could ask for and more. (30006040)",
+    "Building":{
+        "BathroomTotal":"3",
+        "Bedrooms":"1",
+        "SizeInterior":"143.29 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":1597263,
+            "Name":"Christopher E. Hampson",
+            "Organization":{
+                "OrganizationID":67132,
+                "Name":"RE\/MAX Excellence",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638255397960000000\/lowres\/remax.gif",
+                "Address":{
+                    "AddressText":"201-5607 199 St NW|Edmonton, Alberta T6M0M8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"481-2950",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"481-1144",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"520829235"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67132\/remax-excellence-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+                "PhotoLastupdate":"2023-07-21 12:36:36 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"438-3336",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"481-1144",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/www.chrishampson.ca\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509129134"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS636422889000000000\/lowres\/1156855.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Christopher",
+            "LastName":"Hampson",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1597263\/christopher-hampson-201-5607-199-st-nw-edmonton-alberta-t6m0m8",
+            "AgentPhotoLastUpdated":"2017-09-29 13:35:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS636422889000000000\/highres\/1156855.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$349,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#504 10809 SASKATCHEWAN DR NW|Edmonton, Alberta T6E4S5",
+            "Longitude":"-113.5091536",
+            "Latitude":"53.5235128",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638247823786270000\/reb10\/highres\/8\/E4343578_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638247823786270000\/reb10\/medres\/8\/E4343578_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638247823786270000\/reb10\/lowres\/8\/E4343578_1.jpg",
+                "LastUpdated":"2023-07-12 6:12:58 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Stall"
+            },
+            {
+                "Name":"Underground"
+            },
+            {
+                "Name":"See Remarks"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Stall, Underground, See Remarks",
+        "PriceUnformattedValue":"349900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"49.05 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E4S5",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25662462\/504-10809-saskatchewan-dr-nw-edmonton-garneau",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-12 10:12:58 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25662462\/504-10809-saskatchewan-dr-nw-edmonton-garneau",
+    "RelativeURLFr":"\/immobilier\/25662462\/504-10809-saskatchewan-dr-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638213134268200000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-21 4:40:42 PM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

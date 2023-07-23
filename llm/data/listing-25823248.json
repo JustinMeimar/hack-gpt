@@ -1,0 +1,177 @@
+{
+    "Id":"25823248",
+    "MlsNumber":"E4349587",
+    "PublicRemarks":"CLOSE TO EVERYTHING LOVELY 2 BED\/2BATH CONDO in QUIET CONCRETE BUILDING JUST OFF WHYTE AVE! This 7th floor CORNER UNIT is nicely perched above the tree line providing BEAUTIFUL VIEWS of both the CITY SKYLINE & OLD STRATHCONA ROOFTOPS right from your living & dining areas. Very likeable 1,069 sq.ft. layout has engineered hardwood floors in living room and in the KING SIZED (12'x13.5') Primary Bedroom. The 2nd Bedroom has a FANTASTIC MURPHY BED WALL\/DESK SYSTEM. Classic Galley Kitchen has a Built-in Dishwasher and an Over-the-Range Microwave Hood-Fan. LAUNDRY is FREE on every floor with an option to install an in-suite set-up. Parking Stall is in the secure lower-level parkade. Well managed with ON-SITE MANAGER, Heritage House has replaced windows, has new FOB security & recently installed 2 NEW ELEVATORS (500K) and still has a healthy Reserve Fund. Common ROOF-TOP PATIO (stunning City views!) c\/w FREE BBQs and Picnic Tables. CONDO FEE INCLUDES POWER!+HEAT & WATER.  SMALL PET FRIENDLY w\/board approval. (30172835)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"99.35 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":1889434,
+            "Name":"Ian C. West",
+            "Organization":{
+                "OrganizationID":275423,
+                "Name":"MaxWell Progressive",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638249638110000000\/lowres\/1264963.jpg",
+                "Address":{
+                    "AddressText":"5560 Windermere Blvd SW|Edmonton, Alberta T6W2Z8",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"478-5478",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"457-5240",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"517563378"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/275423\/maxwell-progressive-5560-windermere-blvd-sw-edmonton-alberta-t6w2z8",
+                "PhotoLastupdate":"2023-07-14 8:36:51 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"905-9378",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"457-5240",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/ianwest.ca\/",
+                    "WebsiteTypeId":"1"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"518441548"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS636873197400000000\/lowres\/1210756.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Ian",
+            "LastName":"West",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1889434\/ian-west-5560-windermere-blvd-sw-edmonton-alberta-t6w2z8",
+            "AgentPhotoLastUpdated":"2019-03-04 18:09:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS636873197400000000\/highres\/1210756.jpg",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$279,900",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#707 8315 105 ST NW|Edmonton, Alberta T6E4H4",
+            "Longitude":"-113.500034801852",
+            "Latitude":"53.5198504543354",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638247694414670000\/reb10\/highres\/7\/E4349587_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638247694414670000\/reb10\/medres\/7\/E4349587_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638247694414670000\/reb10\/lowres\/7\/E4349587_1.jpg",
+                "LastUpdated":"2023-07-12 2:37:21 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Parkade"
+            },
+            {
+                "Name":"Underground"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Parkade, Underground",
+        "PriceUnformattedValue":"279900"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"36.81 m2"
+    },
+    "AlternateURL":{
+        "VideoLink":"https:\/\/youriguide.com\/707_8315_105_st_nw_edmonton_ab\/"
+    },
+    "PostalCode":"T6E4H4",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25823248\/707-8315-105-st-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-12 6:37:21 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25823248\/707-8315-105-st-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25823248\/707-8315-105-st-nw-edmonton",
+    "Media":[
+        {
+            "MediaCategoryId":"2",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/707_8315_105_st_nw_edmonton_ab\/",
+            "Description":"VideoTourWebsite",
+            "Order":5,
+            "VideoType":"iGuide"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/707_8315_105_st_nw_edmonton_ab\/\/doc\/floorplan_metric_en_u.pdf",
+            "Description":"FloorPlan"
+        },
+        {
+            "MediaCategoryId":"8",
+            "MediaCategoryURL":"https:\/\/youriguide.com\/707_8315_105_st_nw_edmonton_ab\/\/doc\/floorplan_imperial_en_u.pdf",
+            "Description":"FloorPlan"
+        }
+    ],
+    "InsertedDateUTC":"638247838414600000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

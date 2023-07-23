@@ -1,0 +1,149 @@
+{
+    "Id":"25698013",
+    "MlsNumber":"E4344967",
+    "PublicRemarks":"This is a completely renovated 2 bedroom - 836 Sq. Ft. condo located in Old Strathcona. The bedrooms in this unit are good sized with a large living room space. This beautiful unit features brand new laminate floors, closets, doors, kitchen cabinets, tub, and toilet. Nothing old is left behind! Only minutes from Whyte Avenue, U of A, shopping, restaurants, convenient stores, grocery stores, schools, parks, public transportation and easy access to downtown. Ideal for investors, students or first time home buyers. Do not miss out on this property!!! (30042980)",
+    "Building":{
+        "BathroomTotal":"1",
+        "Bedrooms":"2",
+        "SizeInterior":"77.71 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment"
+    },
+    "Individual":[
+        {
+            "IndividualID":2025227,
+            "Name":"Abim Afolabi",
+            "Organization":{
+                "OrganizationID":67151,
+                "Name":"Royal LePage Noralta Real Estate",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638219326390000000\/lowres\/rl1.gif",
+                "Address":{
+                    "AddressText":"3018 Calgary Trail NW|Edmonton, Alberta T6J6V4",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"431-5600",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"431-5624",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"511516346"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/67151\/royal-lepage-noralta-real-estate-3018-calgary-trail-nw-edmonton-alberta-t6j6v4",
+                "PhotoLastupdate":"2023-06-09 6:37:19 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"200-3494",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"431-5624",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"509121209"
+                }
+            ],
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Abim",
+            "LastName":"Afolabi",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/2025227\/abim-afolabi-3018-calgary-trail-nw-edmonton-alberta-t6j6v4",
+            "RankMyAgentKey":"",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$210,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#101 10149 83 AV NW|Edmonton, Alberta T6E2C5",
+            "Longitude":"-113.493406435582",
+            "Latitude":"53.5188650421696",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638219326394200000\/reb10\/highres\/7\/E4344967_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638219326394200000\/reb10\/medres\/7\/E4344967_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638219326394200000\/reb10\/lowres\/7\/E4344967_1.jpg",
+                "LastUpdated":"2023-06-09 6:37:19 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Street"
+            },
+            {
+                "Name":"Stall"
+            }
+        ],
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Playground, Schools",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Street, Stall",
+        "PriceUnformattedValue":"210000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E2C5",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25698013\/101-10149-83-av-nw-edmonton-strathcona",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-06-09 10:37:19 PM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25698013\/101-10149-83-av-nw-edmonton-strathcona",
+    "RelativeURLFr":"\/immobilier\/25698013\/101-10149-83-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638219470394170000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":null,
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

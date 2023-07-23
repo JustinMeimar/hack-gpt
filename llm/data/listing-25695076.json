@@ -1,0 +1,250 @@
+{
+    "Id":"25695076",
+    "MlsNumber":"E4344859",
+    "PublicRemarks":"This gorgeous upgraded 2 bed, 2 bath condo is located on the second floor in the desirable building of Hearthstone Off Whyte. The open concept Kitchen features beautiful cabinets with crown molding, granite counter tops, upgraded stainless steel appliances & a breakfast bar. The Living room is bright and open with tons of windows and a corner electric fireplace, 9' ceilings and gorgeous engineered hardwood floors throughout. Sliding patio doors exit out onto the large North facing balcony that has a gas line for the BBQ. 2 very generous sized bedrooms with a walk through closet and 4pc ensuite off the Primary. In-suite Laundry room has an upgraded stacked front load washer & dryer. UNDERGROUND PARKING STALL & storage cage included! A great building with only 15 total units and amenities including a common\/social room & gym. Located 5 blocks South of Whyte ave, makes for an easy walk to groceries\/cafe, shopping, restaurants, nightlife or the UofA. Exceptional value, love where you live! (30039935)",
+    "Building":{
+        "BathroomTotal":"2",
+        "Bedrooms":"2",
+        "SizeInterior":"86.56 m2",
+        "StoriesTotal":"",
+        "Type":"Apartment",
+        "Ammenities":"Ceiling - 9ft, Vinyl Windows"
+    },
+    "Individual":[
+        {
+            "IndividualID":1986602,
+            "Name":"Thomas B. Scott",
+            "Organization":{
+                "OrganizationID":273975,
+                "Name":"RE\/MAX River City",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638255398000000000\/lowres\/1253428.jpg",
+                "Address":{
+                    "AddressText":"2852 Calgary Tr NW|Edmonton, Alberta T6J6V7",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"485-5005",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"432-6513",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509231089"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/273975\/remax-river-city-2852-calgary-tr-nw-edmonton-alberta-t6j6v7",
+                "PhotoLastupdate":"2023-07-21 12:36:40 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"902-8883",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"432-6513",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/lorrainemah.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/edmontonsrealtor\/",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/thomas-scott-373807ba\/",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"514875337"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS636821982000000000\/lowres\/1271202.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Thomas",
+            "LastName":"Scott",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1986602\/thomas-scott-2852-calgary-tr-nw-edmonton-alberta-t6j6v7",
+            "AgentPhotoLastUpdated":"2019-01-04 11:30:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS636821982000000000\/highres\/1271202.jpg",
+            "RankMyAgentKey":"30777",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        },
+        {
+            "IndividualID":1478624,
+            "Name":"Lorraine M. Mah",
+            "Organization":{
+                "OrganizationID":273975,
+                "Name":"RE\/MAX River City",
+                "Logo":"https:\/\/cdn.realtor.ca\/organization\/en-CA\/TS638255398000000000\/lowres\/1253428.jpg",
+                "Address":{
+                    "AddressText":"2852 Calgary Tr NW|Edmonton, Alberta T6J6V7",
+                    "PermitShowAddress":true,
+                    "DisseminationArea":null
+                },
+                "Phones":[
+                    {
+                        "PhoneType":"Telephone",
+                        "PhoneNumber":"485-5005",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"1"
+                    },
+                    {
+                        "PhoneType":"Fax",
+                        "PhoneNumber":"432-6513",
+                        "AreaCode":"780",
+                        "PhoneTypeId":"4"
+                    }
+                ],
+                "Emails":[
+                    {
+                        "ContactId":"509231089"
+                    }
+                ],
+                "OrganizationType":"Firm",
+                "HasEmail":true,
+                "PermitFreetextEmail":true,
+                "PermitShowListingLink":true,
+                "RelativeDetailsURL":"\/office\/firm\/273975\/remax-river-city-2852-calgary-tr-nw-edmonton-alberta-t6j6v7",
+                "PhotoLastupdate":"2023-07-21 12:36:40 PM"
+            },
+            "Phones":[
+                {
+                    "PhoneType":"Telephone",
+                    "PhoneNumber":"905-1179",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"1"
+                },
+                {
+                    "PhoneType":"Fax",
+                    "PhoneNumber":"432-6513",
+                    "AreaCode":"780",
+                    "PhoneTypeId":"4"
+                }
+            ],
+            "Websites":[
+                {
+                    "Website":"http:\/\/lorrainemah.com\/",
+                    "WebsiteTypeId":"1"
+                },
+                {
+                    "Website":"https:\/\/www.facebook.com\/lorraine.e.mah",
+                    "WebsiteTypeId":"2"
+                },
+                {
+                    "Website":"https:\/\/www.linkedin.com\/in\/lorraineedmontonmah\/",
+                    "WebsiteTypeId":"3"
+                }
+            ],
+            "Emails":[
+                {
+                    "ContactId":"522823207"
+                }
+            ],
+            "Photo":"https:\/\/cdn.realtor.ca\/individual\/TS637865787000000000\/lowres\/1010245.jpg",
+            "Position":"Associate",
+            "PermitFreetextEmail":true,
+            "FirstName":"Lorraine",
+            "LastName":"Mah",
+            "CorporationDisplayTypeId":"0",
+            "PermitShowListingLink":true,
+            "RelativeDetailsURL":"\/agent\/1478624\/lorraine-mah-2852-calgary-tr-nw-edmonton-alberta-t6j6v7",
+            "AgentPhotoLastUpdated":"2022-04-26 14:05:00",
+            "PhotoHighRes":"https:\/\/cdn.realtor.ca\/individual\/TS637865787000000000\/highres\/1010245.jpg",
+            "RankMyAgentKey":"22573",
+            "RealSatisfiedKey":"",
+            "TestimonialTreeKey":""
+        }
+    ],
+    "Property":{
+        "Price":"$239,000",
+        "Type":"Single Family",
+        "Address":{
+            "AddressText":"#203 10524 77 AV NW|Edmonton, Alberta T6E1N1",
+            "Longitude":"-113.50177115215",
+            "Latitude":"53.513584038807",
+            "PermitShowAddress":true,
+            "DisseminationArea":null
+        },
+        "Photo":[
+            {
+                "SequenceId":"1",
+                "HighResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638248027112600000\/reb10\/highres\/9\/E4344859_1.jpg",
+                "MedResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638248027112600000\/reb10\/medres\/9\/E4344859_1.jpg",
+                "LowResPath":"https:\/\/cdn.realtor.ca\/listings\/TS638248027112600000\/reb10\/lowres\/9\/E4344859_1.jpg",
+                "LastUpdated":"2023-07-12 11:51:51 PM",
+                "TypeId":"0"
+            }
+        ],
+        "Parking":[
+            {
+                "Name":"Underground"
+            }
+        ],
+        "ParkingSpaceTotal":"1",
+        "TypeId":"300",
+        "OwnershipType":"Condominium\/Strata",
+        "AmmenitiesNearBy":"Golf Course, Playground, Public Transit, Schools, Shopping",
+        "OwnershipTypeGroupIds":[
+            2
+        ],
+        "ParkingType":"Underground",
+        "PriceUnformattedValue":"239000"
+    },
+    "Business":{
+
+    },
+    "Land":{
+        "SizeTotal":"81.68 m2"
+    },
+    "AlternateURL":null,
+    "PostalCode":"T6E1N1",
+    "HistoricalDataIsCleared":false,
+    "ProvinceName":"Alberta",
+    "RelativeDetailsURL":"\/real-estate\/25695076\/203-10524-77-av-nw-edmonton-queen-alexandra",
+    "StatusId":"1",
+    "PhotoChangeDateUTC":"2023-07-13 3:52:07 AM",
+    "Distance":"",
+    "RelativeURLEn":"\/real-estate\/25695076\/203-10524-77-av-nw-edmonton-queen-alexandra",
+    "RelativeURLFr":"\/immobilier\/25695076\/203-10524-77-av-nw-edmonton",
+    "Media":[
+
+    ],
+    "InsertedDateUTC":"638219260196000000",
+    "TimeOnRealtor":"",
+    "Tags":[
+
+    ],
+    "PriceChangeDateUTC":"2023-07-21 4:40:53 PM",
+    "OpenHouseInsertDateUTC":null,
+    "ListingTimeZone":null,
+    "ListingBoundary":null,
+    "ListingGMT":null,
+    "HasPriceUpdate":null
+}

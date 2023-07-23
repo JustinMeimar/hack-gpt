@@ -8,6 +8,7 @@ from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain, SequentialChain 
 from langchain.memory import ConversationBufferMemory
+from llm.query import *
 
 app = Flask(__name__, static_folder='client/build', static_url_path='')
 
@@ -45,10 +46,15 @@ def handle_prompt():
     # description = description_chain.run(prompt_text)
 
     from llm.justin_embeddings import get_mock_listings 
-    listing_1, listing_2, listing_3 = get_mock_listings()
+    #listing_1, listing_2, listing_3 = get_mock_listings()
 
     response_text = f"LLM processed output:"
- 
+    
+    dictionary = get_json(query='hi', min_price=0, max_price=10000000000000)
+    dictionary['text-response'] = 'testing'
+    return jsonify(dictionary)
+
+    return None
     return jsonify({
         "text-response": response_text,
         "top-listings": {

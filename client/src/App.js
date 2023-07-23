@@ -11,6 +11,20 @@ import SlidingForm from './components/SlidingForm';
 import ListingDetails from './components/ListingDetails';
 import "./App.css";
 
+const parse_json = (json) => {
+    return {
+        Id: json.Id,
+        MlsNumber: json.MlsNumber,
+        PublicRemarks: json.PublicRemarks,
+        BathroomTotal: json.Building.BathroomTotal,
+        Bedrooms: json.Building.Bedrooms,
+        Price: json.Property.Price,
+        PropertyAddress: json.Property.Address.AddressText,
+        PropertyURL: json.RelativeDetailsURL,
+        MedResPhotoURL: json.Property.Photo[0].MedResPath
+    };
+}
+
 function App() {
 
     const [queryBlocks, setQueryBlocks] = useState([]);    
@@ -22,20 +36,17 @@ function App() {
     };
     
     const renderQueryBlocks = (response) => {
+      
+        const top_listings = response.top_listings;
 
-        console.log("renderQueryBlocks:", response);
-        const newBlocks = Object.values(response).map((property) => 
+        const newBlocks = Object.values(top_listings).map((listing) => 
             <QueryBlock 
-                key={property.title} 
-                title={property.title}
-                price={property.price}
-                date={property.date}
-                moreinfo={property.moreinfo}
-                imageUrls={property.imageUrls}
+                listing_json={parse_json(listing)} 
             />
         );
 
-        setQueryBlocks([...newBlocks, ...queryBlocks]);
+        setQueryBlocks(newBlocks);
+        // setQueryBlocks([...newBlocks, ...queryBlocks]);
     }
     return (
         <Router>
@@ -68,7 +79,8 @@ function App() {
                             <TextInput updateChatResponse={updateChatResponse} renderQueryBlocks={renderQueryBlocks} />
                         </>
                     } />
-                    <Route path="/chat/:title" element={<ListingDetails />} />
+                    
+                    <Route path="/listing/:id" element={<ListingDetails title="testing tile"/>} />
                 </Routes>
 
                 {/* <Footer /> */}

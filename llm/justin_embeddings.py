@@ -20,7 +20,6 @@
 # conversation.run("And the next 4?")
 # -> The next four colors of a rainbow are green, blue, indigo, and violet.
 
-
 import os
 import pinecone
 
@@ -132,6 +131,10 @@ def init_everything():
     print("== Upserted embedded vectors")
 
     query_retriever(vectorstore=vectorstore)
+
+def get_mock_listings():
+
+    return 
 
 if __name__ == "__main__":
     init_everything()

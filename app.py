@@ -44,10 +44,12 @@ def run_in_background():
 def handle_prompt():
     
     data = request.json
-    prompt_text = data.get('prompt', '')
+    prompt_text = data.get('prompt', '') 
+    form_values = data.get('formValues', '')
+    
+    print("Form Values", form_values)
 
-    """
-    HERE: We have the input from the frontend. Call LLM processing
+    # description = description_chain.run(prompt_text)
 
     and return the data in response_text  
     """
@@ -56,9 +58,16 @@ def handle_prompt():
 
     listings  = queries(description)
 
-    response_text = f"LLM processed output: {description}"
-
-    return jsonify({'response': response_text})
+    response_text = f"LLM processed output:"
+ 
+    return jsonify({
+        "text-response": response_text,
+        "top-listings": {
+            "listing-1": listing_1,
+            "listing-2": listing_2,
+            "listing-3": listing_3
+        }     
+    })
 
 @app.route('/')
 def index():

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { GoogleMap, LoadScript } from '@react-google-maps/api';
 
 const containerStyle = {
@@ -12,6 +12,8 @@ const center = {
 };
 
 const AreaMap = () => {
+  const [hide, setHide] = useState(false);
+
   return (
     <LoadScript googleMapsApiKey="">
       <GoogleMap

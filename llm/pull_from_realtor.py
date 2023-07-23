@@ -101,11 +101,10 @@ def get_data_from_website(url, headers, payload):
         print(f"Error parsing JSON data: {e}")
         return None
 
-def write_data_to_json(): 
+def write_data_to_json(data_path): 
     
     listings_df = get_listings()
     
-    data_path = os.path.join(os.path.dirname(__file__), 'data')
     for index, row in listings_df.iterrows():
 
         json_string = row.to_json(indent=4)

@@ -1,6 +1,7 @@
 from flask import Flask, send_from_directory, request, jsonify
 from flask_cors import CORS
-from llm.chain import init_everything
+from llm.justin_embeddings import init_everything
+from dotenv import load_dotenv
 import threading
 import os
 from langchain.llms import OpenAI
@@ -9,6 +10,8 @@ from langchain.chains import LLMChain, SequentialChain
 from langchain.memory import ConversationBufferMemory
 
 app = Flask(__name__, static_folder='client/build', static_url_path='')
+
+load_dotenv()
 
 #prompt templates
 description_template = PromptTemplate(

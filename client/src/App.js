@@ -81,8 +81,6 @@ function App() {
                     
                     <Route path="/listing/:id" element={<ListingDetails title="testing tile"/>} />
                 </Routes>
-
-                {/* <Footer /> */}
             </div>
         </Router>
     ); 

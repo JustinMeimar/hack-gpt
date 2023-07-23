@@ -25,6 +25,7 @@ description_memory = ConversationBufferMemory(input_key='description', memory_ke
 #llms
 llm = OpenAI(temperature=0.1)
 description_chain = LLMChain(llm=llm, prompt= description_template,verbose=True, output_key='description', memory=description_memory)
+# form_response_chain = LLMChain(llm=llm)
 
 # Enable CORS for all routes
 CORS(app)
@@ -47,9 +48,22 @@ def handle_prompt():
     data = request.json
     prompt_text = data.get('prompt', '') 
     form_values = data.get('formValues', '')
-    
-    dictionary = get_json(query=prompt_text, min_price=0, max_price=10000000000000)
-    dictionary['text-response'] = 'testing'
+
+    print("Here are the form values:")
+    print(form_values)
+
+    # prompt_response = 
+    desc = description_chain.run(prompt_text)
+
+    if form_values:
+        min_price = form_values['minPrice']
+        max_price = form_values['maxPrice']
+    else:
+        min_price = 0
+        max_price = 1000000
+
+    dictionary = get_json(query=desc, min_price=min_price, max_price=max_price)
+    dictionary['text-response'] = 'Heres what you might be looking for'
     return jsonify(dictionary)
 
 @app.route('/')

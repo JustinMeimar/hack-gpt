@@ -294,6 +294,7 @@ const TextInput = ({ updateChatResponse, renderQueryBlocks }) => {
             });
             const data = response.data
             console.log("Receieved Response!", data);
+
             return data
         } catch (error) {
             console.error('Error sending prompt:', error);

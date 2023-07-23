@@ -24,15 +24,11 @@ description_chain = LLMChain(llm=llm, prompt= description_template,verbose=True,
 # Enable CORS for all routes
 CORS(app)
 
-
-<<<<<<< HEAD
 # init the vector DB in a separate thread
 def run_in_background():
     print("=== Call init everything")
-    init_everything()
+    # init_everything()
 
-=======
->>>>>>> ed4832b1c77faf7b5630c42e9282084ee817feba
 @app.route('/api/prompt', methods=['POST'])
 def handle_prompt():
     

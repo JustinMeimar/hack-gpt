@@ -1,9 +1,12 @@
 import React, { useState } from 'react';
 import '../css/ListingDetails.css';
+import { useLocation } from 'react-router-dom';
 
-const ListingDetails = ({ ...props }) => {
+const ListingDetails = () => {
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
-    
+    const location = useLocation(); 
+    const props = location.state.listing_json;
+
     const handleNext = () => {
         if (currentImageIndex < props.imageUrls.length - 1) {
             setCurrentImageIndex(currentImageIndex + 1);
@@ -15,10 +18,7 @@ const ListingDetails = ({ ...props }) => {
             setCurrentImageIndex(currentImageIndex - 1);
         }
     }
-  
-    
-    console.log("in ListingDetials block!", props.imageUrls);
-    
+   
     return (
         <div className="listing-details-container">
             <div className="listing-details-title"> {props.title}  </div>

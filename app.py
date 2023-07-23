@@ -1,5 +1,8 @@
 from flask import Flask, send_from_directory, request, jsonify
 from flask_cors import CORS
+from llm.justin_embeddings import init_everything
+from dotenv import load_dotenv
+import threading
 import os
 from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
@@ -11,6 +14,8 @@ org_key  = os.environ.get('OPENAI_ORG_ID')
 
 app = Flask(__name__, static_folder='client/build', static_url_path='')
 
+load_dotenv()
+
 #prompt templates
 description_template = PromptTemplate(
     input_variables = ['description'],
@@ -18,6 +23,7 @@ description_template = PromptTemplate(
 )
 #memory
 description_memory = ConversationBufferMemory(input_key='description', memory_key='chat_history')
+
 #llms
 llm = OpenAI(openai_api_key=api_key,openai_organization=org_key, temperature=0.5)
 description_chain = LLMChain(llm=llm, prompt= description_template,verbose=True, output_key='description', memory=description_memory)
@@ -25,6 +31,10 @@ description_chain = LLMChain(llm=llm, prompt= description_template,verbose=True,
 # Enable CORS for all routes
 CORS(app)
 
+# init the vector DB in a separate thread
+def run_in_background():
+    print("=== Call init everything")
+    # init_everything()
 
 @app.route('/api/prompt', methods=['POST'])
 def handle_prompt():
@@ -45,7 +55,9 @@ def handle_prompt():
 
 @app.route('/')
 def index():
+
     return send_from_directory(app.static_folder, 'index.html')
 
 if __name__ == "__main__":
+    threading.Thread(target=run_in_background).start()
     app.run(debug=True)

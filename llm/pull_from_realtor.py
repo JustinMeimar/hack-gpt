@@ -4,6 +4,7 @@ import os
 
 # to use, import the get_listings function, adjust parameters if needed. Currently set to around the university area.
 # there are barely any Rentals on the site in Edmonton, so don't use that
+# not scalable easily, but it works for now.
 def get_listings(LatitudeMax=53.53198, LongitudeMax=-113.47878, LatitudeMin=53.50391,
     LongitudeMin=-113.55955, RentOrBuy="Buy", PriceMin=100000, PriceMax=350000, 
                    BedRange="1+", BathRange="1+"):

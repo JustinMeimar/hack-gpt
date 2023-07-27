@@ -1,3 +1,22 @@
+# RealAI
+A chatbot made to help you find real estate listings.
+
+## How does it work?
+
+### 1. You start by inputting quantitative restraints that you're looking for 
+![Quantitative filter](./images/quant_img.png)
+
+Its important to note that although our min and max price filters are implemented,
+the Bedrooms and Bathrooms are not currently. 
+
+### 2. You then describe the Qualitative features that your looking for
+
+![Qualitative filter](./images/qualt_filter.png)
+
+### 3. Browse through the top 3 results tailored to your needs 
+
+![Search Results](./images/search_results.png)
+
 ## Hack GPT Dev Repo
 
 ### App Structure
